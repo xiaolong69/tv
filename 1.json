@@ -126,28 +126,10 @@
             "filterable": 0
         },
         {
-            "key": "csp_panghu",
-            "name": "胖虎",
-            "type": 3,
-            "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }, 
-        {
             "key": "csp_Smdyy",
-            "name": "神马",
+            "name": "(优)神马",
             "type": 3,
             "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Coke",
-            "name": "Cokemv",
-            "type": 3,
-            "api": "csp_Cokemv",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -189,34 +171,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.ysgc.fun"
-        },
-        {
-            "key": "csp_zxzjH3",
-            "name": "在线H3",
-            "type": 3,
-            "api": "csp_ZxzjH3",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.zxzjhd.com"
-        },
-        {
-            "key": "csp_Zxzj",
-            "name": "在线",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Auete",
-            "name": "Auete",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "csp_Nkdy",
