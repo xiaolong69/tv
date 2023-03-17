@@ -72,6 +72,35 @@
             "changeable": 0
         },
         {
+            "key": "csp_Voflix",
+            "name": "Voflix",
+            "type": 3,
+            "api": "csp_Voflix",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Bttwoo",
+            "name": "Bttwoo",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Lib",
+            "name": "Libvio",
+            "type": 3,
+            "api": "csp_Libvio",
+            "m3u8ads": "hd.youyhn.com",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://tv.libvio.cc/"
+        },
+        {
             "key": "农民",
             "name": "农民",
             "type": 3,
@@ -155,17 +184,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Lib",
-            "name": "Libvio",
-            "type": 3,
-            "api": "csp_Libvio",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://tv.libvio.cc/"
-        },
-        {
             "key": "csp_DiDuan",
             "name": "低端",
             "type": 3,
@@ -173,24 +191,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
-        },
-        {
-            "key": "csp_Voflix",
-            "name": "Voflix",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Bttwoo",
-            "name": "Bttwoo",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "BuLei",
