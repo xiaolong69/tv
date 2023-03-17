@@ -259,64 +259,6 @@
             "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
-            "key": "Zhaozy",
-            "name": "找资源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken$$$自己去注册$$$qq112233"
-        },
-        {
-            "key": "YiSo",
-            "name": "一搜",
-            "type": 3,
-            "api": "csp_YiSo",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
-        },
-        {
-            "key": "PanSou",
-            "name": "盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
-        },
-        {
-            "key": "UpYun",
-            "name": "云搜",
-            "type": 3,
-            "api": "csp_UpYun",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
-        },
-        {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://ali.饭太硬.ml/alitoken"
-        },
-        {
             "key": "teng",
             "name": "企鹅(解析)",
             "type": 3,
