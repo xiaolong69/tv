@@ -1,5 +1,5 @@
 ## TVBox配置地址（自用）
-- 单仓(方式一) [https://xiaolong69.github.io/tv/1.json](https://xiaolong69.github.io/tv/1.json)  
+- 单仓（方式一） [https://xiaolong69.github.io/tv/1.json](https://xiaolong69.github.io/tv/1.json)  
 - 单仓（方式二，速度更快）[https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json](https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json)
 - 多仓 [https://xiaolong69.github.io/tv/duo.json](https://xiaolong69.github.io/tv/duo.json)
 
