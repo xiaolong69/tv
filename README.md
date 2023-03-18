@@ -10,6 +10,7 @@
 - QQ频道：[应用多多](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1XbWa3rLtqN&businessType=9&from=181074&biz=ka&mainSourceId=share&subSourceId=others&jumpsource=shorturl#/out)
 
 ## TVBox其他配置地址（引用）
-- 地址一（集合） [https://jihulab.com/duomv/apps/-/tree/main/](https://jihulab.com/duomv/apps/-/tree/main/)
+- 地址一 [https://dxawi.github.io/0/0.json](https://dxawi.github.io/0/0.json)
 - 地址二（蜂蜜）  
 （必须加ghproxy.com，否则可能不能访问） [https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json)
+- 地址三（集合） [https://jihulab.com/duomv/apps/-/tree/main/](https://jihulab.com/duomv/apps/-/tree/main/)
