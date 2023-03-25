@@ -2,39 +2,10 @@
 {
     "sites": [      
         {
-            "key": "csp_apple",
-            "name": "(优)小苹果",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_77",
             "name": "(优)七七",
             "type": 3,
             "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_fantuan",
-            "name": "(优)饭团",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.fantuanhd.com"
-        }, 
-        {
-            "key": "csp_Smdyy",
-            "name": "(优)神马",
-            "type": 3,
-            "api": "csp_Smdyy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -49,6 +20,35 @@
             "filterable": 1,
             "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
+        {
+            "key": "csp_apple",
+            "name": "(优)小苹果",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Smdyy",
+            "name": "(优)神马",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_fantuan",
+            "name": "(优)饭团",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.fantuanhd.com"
+        }, 
         {
             "key": "csp_SP33",
             "name": "360(解析)",
