@@ -673,9 +673,6 @@ CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 
 葛二蛋成长之路,http://aldirect.corp-hls.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.m3u8?wsiphost=ipdbme
 
-恐怖电影2,http://epg.112114.xyz/douyu/310926
-
-丧尸鬼片恐怖惊悚,http://epg.112114.xyz/douyu/96577
 
 许冠英,http://epg.112114.xyz/huya/11601972
 
@@ -707,7 +704,6 @@ CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 路飞,https://epg.112114.xyz/huya/16913382
 雍正王朝,https://epg.112114.xyz/huya/11342439
 神探狄仁杰,https://epg.112114.xyz/huya/11352958
-恐怖电影找力哥,https://epg.112114.xyz/huya/23419131
 秀cai遇着兵,https://epg.112114.xyz/huya/11352871
 新水浒,https://epg.112114.xyz/huya/11342384
 士兵突击,https://epg.112114.xyz/huya/11342430
