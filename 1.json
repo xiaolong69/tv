@@ -70,15 +70,6 @@
             "changeable": 0
         },
         {
-            "key": "csp_Voflix",
-            "name": "Voflix",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Bttwoo",
             "name": "Bttwoo",
             "type": 3,
@@ -267,6 +258,15 @@
             "type": 3,
             "api": "csp_LiteApple",
             "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Voflix",
+            "name": "Voflix",
+            "type": 3,
+            "api": "csp_Voflix",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
