@@ -11,6 +11,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_apple",
+            "name": "(优)小苹果",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_AppTT",
             "name": "(优)图图",
             "type": 3,
@@ -247,16 +257,6 @@
             "name": "哔嘀",
             "type": 3,
             "api": "csp_Bdys01",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_apple",
-            "name": "小苹果",
-            "type": 3,
-            "api": "csp_LiteApple",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
