@@ -40,6 +40,46 @@
             "filterable": 1
         },
         {
+            "key": "csp_SP33",
+            "name": "360(解析)",
+            "type": 3,
+            "api": "csp_SP33",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Qtv",
+            "name": "企鹅(解析)",
+            "type": 3,
+            "api": "csp_Qtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Itv",
+            "name": "奇异果(解析)",
+            "type": 3,
+            "api": "csp_Itv",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Mtv",
+            "name": "芒果(解析)",
+            "type": 3,
+            "api": "csp_Mtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
             "key": "csp_Xinsj",
             "name": "新视觉",
             "type": 3,
@@ -390,22 +430,18 @@
             "url": "Sequence"
         },
         {
-            "name": "a",
-            "type": 1,
-            "url": "https://api.json.icu/api/?key=9a820717fcc751d583a6bb36a15a5b6a&url="
-        },
-        {
-            "name": "b",
-            "type": 1,
-            "url": "http://110.42.2.115:880/analysis/json/?uid=2351&my=abefklvwxABDINTY79&url="
-        },
-        {
-            "name": "c",
+            "name": "777",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url="
         },
         {
-            "name": "d",
+            "name":"bozrc",
+            "type":0,
+            "url":"https://jx.bozrc.com:4433/player/?url=",
+            "ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}
+        },
+        {
+            "name": "jsonplayer",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
         }
