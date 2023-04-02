@@ -429,21 +429,6 @@
             "type":0,
             "url":"https://jx.bozrc.com:4433/player/?url=",
             "ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}
-        },
-        {
-            "name": "并发",
-            "type": 2,
-            "url": "Parallel"
-        },
-        {
-            "name": "轮询",
-            "type": 2,
-            "url": "Sequence"
-        },
-        {
-            "name": "b",
-            "type": 1,
-            "url": "http://110.42.2.115:880/analysis/json/?uid=2351&my=abefklvwxABDINTY79&url="
         }
         ],
     "flags":[
