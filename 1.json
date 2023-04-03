@@ -51,7 +51,7 @@
         },
         {
             "key": "Qtv",
-            "name": "企鹅(解析)",
+            "name": "腾讯(解析)",
             "type": 3,
             "api": "csp_Qtv",
             "searchable": 1,
@@ -61,7 +61,7 @@
         },
         {
             "key": "Itv",
-            "name": "奇异果(解析)",
+            "name": "爱奇艺(解析)",
             "type": 3,
             "api": "csp_Itv",
             "quickSearch": 1,
