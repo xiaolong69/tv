@@ -263,15 +263,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Voflix",
-            "name": "Voflix",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "Dm84",
             "name": "动漫",
             "type": 3,
