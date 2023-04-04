@@ -415,12 +415,12 @@
     ],
     "parses": [
         {
-            "name": "c",
+            "name": "777jiexi",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url="
         },
         {
-            "name": "d",
+            "name": "jsonplayer",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
         },
@@ -429,7 +429,17 @@
             "type":0,
             "url":"https://jx.bozrc.com:4433/player/?url=",
             "ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}
-        }
+        },
+        {
+		           "name": "xmflv",
+	            	"type": 0,
+		           "url": "https://jx.xmflv.com/?url="
+	       	},
+		       {
+		           "name": "yemu",
+		           "type": 0,
+		           "url": "https://www.yemu.xyz/?url="
+		       }
         ],
     "flags":[
 "youku",
