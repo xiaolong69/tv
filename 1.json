@@ -118,16 +118,6 @@
             "ext": "https://tv.libvio.cc/"
         },
         {
-            "key": "csp_fantuan",
-            "name": "饭团",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.fantuanhd.com"
-        }, 
-        {
             "key": "csp_Czsapp",
             "name": "厂长",
             "type": 3,
@@ -177,16 +167,6 @@
             "filterable": 0
         },   
         {
-            "key": "csp_FanYY",
-            "name": "饭影音",
-            "type": 3,
-            "api": "csp_FanYY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
-        },
-        {
             "key": "csp_Auete",
             "name": "Auete",
             "type": 3,
@@ -216,31 +196,12 @@
         {
             "key": "csp_MeiJu69",
             "name": "69美剧",
+            "api": "csp_AppYsV2",
             "type": 3,
-            "api": "csp_MeiJu69",
-            "searchable": 1,
-            "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.69mj.com/"
-        },
-        {
-            "key": "csp_Ysgc",
-            "name": "工厂",
-            "type": 3,
-            "api": "csp_Ysgc",
-            "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.ysgc.fun"
-        },
-        {
-            "key": "csp_Nkdy",
-            "name": "难看",
-            "type": 3,
-            "api": "csp_Nkdy",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "ext": "https://www.69mj.com/xgapp.php/v2/"
         },
         {
             "key": "csp_Bd",
@@ -253,6 +214,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_fantuan",
+            "name": "饭团",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.fantuanhd.com"
+        }, 
+        {
             "key": "Dm84",
             "name": "动漫",
             "type": 3,
@@ -260,6 +231,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_FanYY",
+            "name": "饭影音",
+            "type": 3,
+            "api": "csp_FanYY",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://tvmvip110.club/tv/box/alitoken/token.php"
         },
         {
             "key": "csp_Paper",
