@@ -204,6 +204,16 @@
             "ext": "https://www.69mj.com/xgapp.php/v2/"
         },
         {
+            "key": "csp_Ysgc",
+            "name": "工厂",
+            "type": 3,
+            "api": "csp_Ysgc",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.ysgc.fun"
+        },
+        {
             "key": "csp_Bd",
             "name": "哔嘀",
             "type": 3,
