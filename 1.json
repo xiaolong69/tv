@@ -118,6 +118,15 @@
             "ext": "https://tv.libvio.cc/"
         },
         {
+            "key": "csp_Dy1010",
+            "name": "双十影院",
+            "type": 3,
+            "api": "csp_Dy1010",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Czsapp",
             "name": "厂长",
             "type": 3,
@@ -233,6 +242,16 @@
             "filterable": 1,
             "ext": "https://www.fantuanhd.com"
         }, 
+        {
+            "key": "csp_555",
+            "name": "三五影视",
+            "type": 3,
+            "api": "csp_Ys555",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.555dyy1.com"
+        },
         {
             "key": "Dm84",
             "name": "动漫",
