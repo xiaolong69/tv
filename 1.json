@@ -405,6 +405,8 @@
         }
     ],
     "parses": [
+        {"name":"1号线","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="
+        },
         {
             "name": "777jiexi",
             "type": 0,
