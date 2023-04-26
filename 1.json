@@ -147,6 +147,15 @@
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/dxawi/1/main/json/nm.json"
         },
         {
+            "key": "csp_Zxzj",
+            "name": "在线",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_YQKAPP",
             "name": "一起看",
             "type": 3,
@@ -176,6 +185,16 @@
             "filterable": 0
         },   
         {
+            "key": "csp_Lgyy",
+            "name": "蓝光",
+            "type": 3,
+            "api": "csp_Lgyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.lgyy.vip"
+        },
+        {
             "key": "csp_Auete",
             "name": "Auete",
             "type": 3,
@@ -202,6 +221,16 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        {
+            "key": "csp_BuLei",
+            "name": "布雷",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://v.ilime.cc$$$login$$$dxawi111$$$dxawi111"
+        },   
         {
             "key": "csp_MeiJu69",
             "name": "69美剧",
@@ -251,6 +280,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.555dyy1.com"
+        },
+        {
+            "key": "csp_Biliych",
+            "name": "Bili演唱会",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://饭太硬.ga/x/json/biliych.json"
         },
         {
             "key": "Dm84",
