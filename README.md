@@ -1,6 +1,6 @@
 ## TVBox配置地址（自用）
 - 单仓（方式一） [https://xiaolong69.github.io/tv/1.json](https://xiaolong69.github.io/tv/1.json)  
-- 单仓（方式二）[https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json](https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json)
+- 单仓（方式二）[https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json](https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json)
 - 多仓 [https://xiaolong69.github.io/tv/duo.json](https://xiaolong69.github.io/tv/duo.json)
 
 ## TVBox软件地址（引用）
@@ -13,5 +13,5 @@
 ## TVBox其他配置地址（引用）
 - 地址一 [https://dxawi.github.io/0/0.json](https://dxawi.github.io/0/0.json)
 - 地址二（蜂蜜）  
-（必须加ghproxy.com，否则可能不能访问） [https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json)
+（必须加ghproxy.net，否则可能不能访问） [https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json](https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json)
 - 地址三（集合） [https://jihulab.com/duomv/apps/-/tree/main/](https://jihulab.com/duomv/apps/-/tree/main/)
