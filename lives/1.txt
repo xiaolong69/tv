@@ -1,7 +1,7 @@
-🐦️｜应用多多,#genre#
-公众号,http://52bsj.vip:81/api/v3/file/get/97712/%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E7%AD%891080P.mp4?sign=yfyEXgwHSQyoHzhqxAr-bxqgEtzxwmitGkOVfWPDKIY%3D%3A0
-应用边界,https://vd2.bdstatic.com/mda-ndpg29kxui1g1xrj/sc/cae_h264_delogo/1650799724379445533/mda-ndpg29kxui1g1xrj.mp4
-备用号,http://52bsj.vip:81/api/v3/file/get/97713/ba22f6ad1be11c9679f19bc8d866da15.mp4?sign=7T4la_UuJ8JzHAVur7ltNQwo6MqSkg5lQ6u2yh3XjOU%3D%3A0
+🐦️｜好听的歌,#genre#
+世界第一等,http://52bsj.vip:81/api/v3/file/get/97712/%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E7%AD%891080P.mp4?sign=yfyEXgwHSQyoHzhqxAr-bxqgEtzxwmitGkOVfWPDKIY%3D%3A0
+晚风心里吹,https://vd2.bdstatic.com/mda-ndpg29kxui1g1xrj/sc/cae_h264_delogo/1650799724379445533/mda-ndpg29kxui1g1xrj.mp4
+笑红尘,http://52bsj.vip:81/api/v3/file/get/97713/ba22f6ad1be11c9679f19bc8d866da15.mp4?sign=7T4la_UuJ8JzHAVur7ltNQwo6MqSkg5lQ6u2yh3XjOU%3D%3A0
 沧海一声笑,http://52bsj.vip:81/api/v3/file/get/129480/%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91.mp4?sign=xePyCzwnjsEkFhQ16uNlI2ndDiyOUnTptvBgj5DAXqE%3D%3A0
 
 🇨🇳｜央视,#genre#
@@ -46,8 +46,6 @@ CCTV-4,http://jycb.f3322.net:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&au
 CCTV-5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🇨🇳｜地方,#genre#
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8
 湖南卫视,http://125.210.152.19:9120/live/hzgq-hnwsgq-h264.m3u8
