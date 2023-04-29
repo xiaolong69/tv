@@ -1408,11 +1408,6 @@
       "url": "Web"
     },
     {
-      "name": "小城解析",
-      "type": 1,
-      "url": "https://api.cygc.xyz/analysis/?url="
-    },	
-    {
       "name": "多多自建",
       "type": 0,
       "url": "https://xduo.app/api/?url="
