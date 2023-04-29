@@ -5,6 +5,7 @@
 
 ## TVBox软件地址（引用）
 - 单仓版软件 [https://github.com/pvqogw/TVBoxOSC/releases](https://github.com/pvqogw/TVBoxOSC/releases)
+- APP下载 [https://xiaolong69.github.io/tv/app/TVBox_takagen99_20230424-2057.apk](https://xiaolong69.github.io/tv/app/TVBox_takagen99_20230424-2057.apk)
 - 多仓版软件 [https://leesh.lanzoul.com/b00qd4imj](https://leesh.lanzoul.com/b00qd4imj)  
 密码：1dnu
 - 微信公众号：多多应用汇
