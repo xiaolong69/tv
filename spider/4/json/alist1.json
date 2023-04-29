@@ -1,20 +1,10 @@
-//兄弟，你又来偷了？赞助大聪明一下不好吗？哈哈！！！
 {
   "drives": [	
     {
      "name": "🎢arhome",
-     "server": "https://xn--ar-4g8e.tk"
+     "server": "https://ar盘.tk"
     },
    {
-      "name": "👨‍🎓Lan同学",
-      "server": "https://l.lantongxue.repl.co"
-    },	
-   {
-      "name": "💢姹莱坞",
-      "server": "https://a.aa01.ml",
-	  "passwd": "agree"
-    },
-    {
      "name": "🌟云星",
      "server": "http://alist.itvbox.cc"
     },	
@@ -36,14 +26,6 @@
     {
      "name": "✨星梦",
      "server": "https://pan.bashroot.top"
-    },
-    {
-     "name": "💫触光",
-     "server": "https://pan.ichuguang.com"
-    },
-    {
-	 "name":"🌬️八面来风",
-     "server":"https://z7e8w0-5244.csb.app"
-    }	
+    }
   ]
 }  
