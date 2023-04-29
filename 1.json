@@ -1408,11 +1408,6 @@
       "url": "Web"
     },
     {
-      "name": "多多自建",
-      "type": 0,
-      "url": "https://xduo.app/api/?url="
-    },	
-    {
       "name": "1号线",
       "type": 1,
       "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
