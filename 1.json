@@ -30,16 +30,6 @@
       "filterable": 1
     },	
     {
-      "key": "drpy_js_乐猪TV",
-      "name": "(优)乐猪",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/js/乐猪TV.js"
-    },
-    {
       "key": "csp_AppTT",
       "name": "(优)图图",
       "type": 3,
@@ -48,6 +38,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+    },
+    {
+      "key": "drpy_js_乐猪TV",
+      "name": "(优)乐猪",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/js/乐猪TV.js"
     },
     {
       "key": "zy_新浪资源",
@@ -657,23 +657,43 @@
       "ext": "https://yydsys.top/duo/json/野荷塘.json"
     },
     {
-      "key": "js_B站精简",
-      "name": "Bili站点",
+      "key": "csp_Anime1",
+      "name": "动漫",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "js路漫漫",
+      "name": "路漫漫",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/js/B站精简.js?v=20230430"
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/%E8%B7%AF%E6%BC%AB%E6%BC%AB.js"
     },
     {
-      "key": "csp_Yj1211",
-      "name": "直播合集",
+      "key": "动漫直链",
+      "name": "动漫直链",
       "type": 3,
-      "api": "csp_Yj1211",
+      "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"
+    },
+    {
+      "key": "csp_xpath___动漫巴士",
+      "name": "动漫巴士",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
     },
     {
       "key": "csp_XYQHiker_‍亲宝资源",
@@ -686,433 +706,18 @@
       "ext": "https://yydsys.top/duo/json/亲宝.json"
     },
     {
-      "key": "csp_阿里搜索",
-      "name": "🔎┃阿里┃搜索",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-	  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/jar/custom_spider.jar;md5;2C74FEFBBA3A01AA0480AFD962535F6D",
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "csp_WoGG",
-      "name": "💂‍┃玩偶┃原画",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "csp_Paper",
-      "name": "🔖┃纸条┃原画",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/jar/custom_spider.jar;md5;2C74FEFBBA3A01AA0480AFD962535F6D",
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "Upyunso",
-      "name": "🌤️┃云搜┃原画",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-	  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/jar/custom_spider.jar;md5;2C74FEFBBA3A01AA0480AFD962535F6D", 
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "Alips",
-      "name": "📀┃盘搜┃原画",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-	  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/jar/custom_spider.jar;md5;2C74FEFBBA3A01AA0480AFD962535F6D", 
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "Yisou",
-      "name": "🎯┃易搜┃原画",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-	  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/jar/custom_spider.jar;md5;2C74FEFBBA3A01AA0480AFD962535F6D", 
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "Zhaozy",
-      "name": "🔍┃找片┃原画",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-	  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/jar/custom_spider.jar;md5;2C74FEFBBA3A01AA0480AFD962535F6D",	  
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$多多$$$159357"
-    },
-    {
-      "key": "js_酷狗MV",
-      "name": "🎻┃酷狗┃音乐",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/js/酷狗MV.js"
-    },
-    {
-      "key": "js_a8音乐",
-      "name": "🎸┃奥迪┃音乐",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/js/a8音乐.js"
-    },
-    {
-      "key": "csp_XBPQ_酷奇",
-      "name": "🎤┃酷奇┃音乐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/酷奇MV.json"
-    },
-    {
-      "key": "csp_Anime1",
-      "name": "🌸┃动漫┃系列",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "js路漫漫",
-      "name": "👩‍🎨┃漫漫┃动漫",
+      "key": "js_B站精简",
+      "name": "Bili站点",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/%E8%B7%AF%E6%BC%AB%E6%BC%AB.js"
-    },
-    {
-      "key": "去看动漫",
-      "name": "🎊┃去看┃动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json"
-    },
-    {
-      "key": "动漫直链",
-      "name": "🎭┃动漫┃直链",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"
-    },
-    {
-      "key": "csp_biubiu_风车动漫",
-      "name": "🍭┃风车┃动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
-    },
-    {
-      "key": "csp_xpath___动漫巴士",
-      "name": "🤖┃动漫┃巴士",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
-    },
-    {
-      "key": "py_qie",
-      "name": "🏀┃企鹅┃体育",
-      "type": 3,
-      "api": "py_qie",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/qie.py"
-    },
-    {
-      "key": "csp_XPath_鹅直播",
-      "name": "🏀┃企鹅┃直播",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/qie.json"
-    },
-    {
-      "key": "csp_XYQBiu_17看球",
-      "name": "⚽┃一起┃直播",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/看球.json"
-    },
-    {
-      "key": "drpy_js_310直播",
-      "name": "🥎┃三一┃直播",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/js/310.js"
-    },
-    {
-      "key": "dr_88看球",
-      "name": "🏀┃八八┃看球",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/js/88看球.js"
-    },
-    {
-      "key": "drpy_js_JRS直播",
-      "name": "⚽┃JRS┃直播",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/js/jrslive.js"
-    },
-    {
-      "key": "drpy_js_JRKAN直播",
-      "name": "🥎┃JRS┃看球",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/js/jrs看球.js"
-    },
-    {
-      "key": "dr_JRKAN直播",
-      "name": "🏀┃JRSK┃直播",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/js/JRKAN.js"
-    },
-	{
-	  "key": "csp_XYQBiu_抓饭直播",
-	  "name": "⚽┃抓饭┃体育",
-	  "type": 3,
-	  "api": "csp_XYQBiu",
-	  "searchable": 0,
-	  "quickSearch": 0,
-	  "filterable": 0,
-	  "ext": "https://yydsys.top/duo/json/抓饭直播.json"
-	},	
-    {
-      "key": "py_dashan",
-      "name": "💋┃搭讪┃教程",
-      "type": 3,
-      "api": "py_dashan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/搭讪.py"
-    },
-    {
-      "key": "py_dapei",
-      "name": "💃┃搭配┃教程",
-      "type": 3,
-      "api": "py_dapei",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/搭配.py"
-    },
-    {
-      "key": "py_meishi",
-      "name": "🅱️┃美食┃合集",
-      "type": 3,
-      "api": "py_meishi",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/美食合集.py"
-    },
-    {
-      "key": "py_youer",
-      "name": "🅱️┃幼儿┃教育",
-      "type": 3,
-      "api": "py_youer",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/youer.py"
-    },
-    {
-      "key": "py_xiaoxue",
-      "name": "🅱️┃小学┃教育",
-      "type": 3,
-      "api": "py_xiaoxue",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/xiaoxue.py"
-    },
-    {
-      "key": "py_czxx",
-      "name": "🅱️┃初中┃教育",
-      "type": 3,
-      "api": "py_czxx",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/chuzhong.py"
-    },
-    {
-      "key": "py_gaozxx",
-      "name": "🅱️┃高中┃教育",
-      "type": 3,
-      "api": "py_gaozxx",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/gaozhong.py"
-    },
-    {
-      "key": "py_zyy",
-      "name": "🅱️┃中医┃药区",
-      "type": 3,
-      "api": "py_zyy",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/zyy.py"
-    },
-    {
-      "key": "py_xuqu1",
-      "name": "🅱️┃戏曲┃合集",
-      "type": 3,
-      "api": "py_xuqu1",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/xiqu.py"
-    },
-    {
-      "key": "py_TYjs",
-      "name": "🅱️┃体育┃健身",
-      "type": 3,
-      "api": "py_TYjs",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/tiyu.py"
-    },
-    {
-      "key": "py_xiangsh",
-      "name": "🅱️┃相声┃小品",
-      "type": 3,
-      "api": "py_xiangsh",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/xiaopin.py"
-    },
-    {
-      "key": "py_FBqx",
-      "name": "🅱️┃球队┃球星",
-      "type": 3,
-      "api": "py_FBqx",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/qiudui.py"
-    },
-    {
-      "key": "py_Meinvw",
-      "name": "🅱️┃美女┃热舞",
-      "type": 3,
-      "api": "py_Meinvw",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/meinv.py"
-    },
-    {
-      "key": "py_yanchh",
-      "name": "🅱️┃歌手┃合集",
-      "type": 3,
-      "api": "py_yanchh",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/geshou.py"
-    },
-    {
-      "key": "py_Nvtuan",
-      "name": "🅱️┃女团┃热舞",
-      "type": 3,
-      "api": "py_Nvtuan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/nvtuan.py"
-    },
-    {
-      "key": "py_MTV",
-      "name": "🅱️┃歌曲┃视频",
-      "type": 3,
-      "api": "py_MTV",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/mtv.py"
-    },
-    {
-      "key": "py_Yinl2",
-      "name": "🅱️┃音悦┃合集",
-      "type": 3,
-      "api": "py_Yinl2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/yinyue.py"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/js/B站精简.js?v=20230430"
     },
     {
       "key": "js_哔哩直播",
-      "name": "🅱️┃哔哩┃直播",
+      "name": "Bili直播",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 0,
@@ -1121,18 +726,8 @@
       "ext": "https://yydsys.top/duo/js/哔哩直播.js"
     },
     {
-      "key": "py_huya",
-      "name": "🐯┃虎牙┃[PY]",
-      "type": 3,
-      "api": "py_huya",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/pyhuya.py"
-    },
-    {
       "key": "csp_XYQHiker_虎牙直播",
-      "name": "🐯┃虎牙┃直播",
+      "name": "虎牙直播",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 0,
@@ -1141,18 +736,8 @@
       "ext": "https://yydsys.top/duo/json/%E8%99%8E%E7%89%99.json"
     },
     {
-      "key": "py_douyu",
-      "name": "🦈┃斗鱼┃[PY]",
-      "type": 3,
-      "api": "py_douyu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/pydouyu.py"
-    },
-    {
       "key": "csp_XYQBiu_斗鱼",
-      "name": "🦈┃斗鱼┃直播",
+      "name": "斗鱼直播",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -1162,13 +747,32 @@
     },
     {
       "key": "网易CC",
-      "name": "🐠┃网易┃CC",
+      "name": "网易CC",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://yydsys.top/duo/json/%E7%BD%91%E6%98%93CC.json"
+    },
+    {
+      "key": "csp_Yj1211",
+      "name": "直播合集",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "drpy_js_310直播",
+      "name": "310直播",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/js/310.js"
     },
     {
       "key": "口袋影院",
