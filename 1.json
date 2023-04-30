@@ -312,34 +312,17 @@
       "filterable": 1
     },
     {
-      "key": "js_B站精简",
-      "name": "Bili站点",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/js/B站精简.js"
-    },
-    {
-      "key": "直播转点播",
-      "name": "📺︎┃电视┃点播",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/zbzdb.js",
+      "key": "新片热播",
+      "name": "新片热播",
+      "type": 1,
+      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/zb.json"
-    },
-    {
-      "key": "csp_Bili",
-      "name": "🅱️┃哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://framagit.org/duomv/duo/-/raw/main/Bili/bili.json"
+      "categories": [
+        "连续剧",
+        "动漫"
+      ]
     },
     {
             "key":"AList",
@@ -352,18 +335,18 @@
             "ext":"https://xiaolong69.github.io/tv/spider/4/json/alist1.json"
     },
     {
-      "key": "短视频聚合",
-      "name": "📱┃网红┃美女",
+      "key": "js_B站精简",
+      "name": "Bili站点",
       "type": 3,
-      "api": "csp_XYQBiu",
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/js/B站精简.js?v=20230430"
     },
     {
       "key": "csp_Yj1211",
-      "name": "👑┃直播┃合集",
+      "name": "直播合集",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 1,
@@ -371,31 +354,8 @@
       "filterable": 1
     },
     {
-      "key": "新片热播",
-      "name": "🔷┃新片┃热播",
-      "type": 1,
-      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "连续剧",
-        "动漫"
-      ]
-    },
-    {
-      "key": "py_baby",
-      "name": "👶┃宝宝┃合集",
-      "type": 3,
-      "api": "py_baby",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/Bili/baby.py"
-    },
-    {
       "key": "csp_XYQHiker_‍亲宝资源",
-      "name": "🧗┃亲宝┃资源",
+      "name": "亲宝资源",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
