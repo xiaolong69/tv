@@ -283,7 +283,7 @@
 	  "searchable": 1,
 	  "quickSearch": 1,
 	  "filterable": 1,
-	  "jar":"https://jihulab.com/duomv/duo/-/raw/main/xyq.jar;md5;281A875D78ABB81EB9716951FD20E530",	  
+	  "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/jar/xyq.jar;md5;281A875D78ABB81EB9716951FD20E530",	  
 	  "ext": "https://yydsys.top/duo/json/布蕾蓝光.json"
     },	
     {
@@ -371,7 +371,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/json/磁力熊.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/json/磁力熊.json",
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/jar/xyq.jar;md5;281A875D78ABB81EB9716951FD20E530"
     },
     {
 	  "key": "csp_XYQHikerdyx",
@@ -382,7 +383,7 @@
 	  "quickSearch":1,
 	  "filterable":1,
 	  "ext":"https://yydsys.top/duo/json/电影港.json",
-	  "jar":"https://jihulab.com/duomv/duo/-/raw/main/xyq.jar;md5;281A875D78ABB81EB9716951FD20E530"
+	  "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/jar/xyq.jar;md5;281A875D78ABB81EB9716951FD20E530"
 	}, 	
     {
 	  "key":"mtv_pc_yinfans",
