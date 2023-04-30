@@ -30,6 +30,16 @@
       "filterable": 1
     },	
     {
+      "key": "drpy_js_乐猪TV",
+      "name": "(优)乐猪",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/js/乐猪TV.js"
+    },
+    {
       "key": "csp_AppTT",
       "name": "(优)图图",
       "type": 3,
@@ -38,6 +48,36 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+    },
+    {
+      "key": "zy_新浪资源",
+      "name": "(优)新浪资源",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "动漫",
+        "综艺",
+        "纪录片",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "剧情片",
+        "恐怖片",
+        "喜剧片",
+        "大陆剧",
+        "港澳剧",
+        "台湾剧",
+        "欧美剧",
+        "动漫电影",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "体育"
+      ]
     },
     {
       "key": "drpy_js_企鹅",
@@ -78,6 +118,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/youku.js"
+    },
+    {
+      "key": "360_spider",
+      "name": "360(解析)",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "drpy_js_菜狗",
@@ -364,6 +413,56 @@
       "ext": "https://yydsys.top/duo/json/饭团HD.json"
     },
     {
+      "key": "csp_XYQHiker_爱看影视",
+      "name": "爱看影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/json/爱看影视.json"
+    },
+    {
+      "key": "js_电影先生",
+      "name": "电影先生",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/js/电影先生.js"
+    },
+    {
+      "key": "csp_XYQHiker_鸭奈飞",
+      "name": "奈飞",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/鸭奈飞影视.json"
+    },
+    {
+      "key": "drpy_js_创艺影视",
+      "name": "创艺",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/js/chuangyi.js"
+    },
+    {
+      "key": "js_小狗影院",
+      "name": "小狗影院",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/小狗.js"
+    },	
+    {
       "key": "csp_555电影",
       "name": "三五电影",
       "type": 3,
@@ -464,6 +563,26 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yydsys.top/duo/json/锐行.json"
+    },
+    {
+      "key": "csp_XYQHiker_‍优狐",
+      "name": "优狐影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/优狐.json"
+    },
+    {
+      "key": "csp_XYQHiker_野荷塘",
+      "name": "荷塘影院",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/野荷塘.json"
     },
     {
       "key": "js_B站精简",
@@ -569,185 +688,6 @@
       "filterable": 0,
 	  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/jar/custom_spider.jar;md5;2C74FEFBBA3A01AA0480AFD962535F6D",	  
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$多多$$$159357"
-    },
-    {
-      "key": "csp_XYQHiker_‍优狐",
-      "name": "⛵️┃优狐┃影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/优狐.json"
-    },
-    {
-      "key": "csp_363",
-      "name": "☀️┃大明┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://lzrjk.hao363.com/api.php/v1.vod"
-    },
-    {
-      "key": "js_大师兄",
-      "name": "🐵┃师兄┃影视",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/js/大师兄影视.js"
-    },
-    {
-      "key": "js_孜然影视",
-      "name": "🍛┃孜然┃影视",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/js/孜然影视.js"
-    },
-    {
-      "key": "csp_XYQHiker_野荷塘",
-      "name": "🌷┃荷塘┃影院",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/野荷塘.json"
-    },
-    {
-      "key": "csp_XYQHiker_爱看影视",
-      "name": "🧡┃爱看┃影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/爱看影视.json"
-    },
-    {
-      "key": "js_电影先生",
-      "name": "🤵┃电影┃先生",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/js/电影先生.js"
-    },
-    {
-      "key": "drpy_js_乐猪TV",
-      "name": "🐷┃乐猪┃影视",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/js/乐猪TV.js"
-    },
-    {
-      "key": "csp_Vofl",
-      "name": "🧿┃VoFl┃[SP]",
-      "type": 3,
-      "api": "csp_Voflix",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_biubiu_voflix",
-      "name": "🧿┃VoFl┃[XB]",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playUrl": "https://play.qwertwe.top/xplay/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/voflix.json"
-    },
-    {
-      "key": "csp_XYQHiker_鸭奈飞",
-      "name": "🦆┃奈飞┃影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/鸭奈飞影视.json"
-    },
-    {
-      "key": "drpy_js_创艺影视",
-      "name": "🍸️┃创艺┃影视",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/js/chuangyi.js"
-    },
-    {
-      "key": "js_小狗影院",
-      "name": "🦮┃小狗┃影院",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/小狗.js"
-    },	
-    {
-      "key": "360_spider",
-      "name": "💫┃三六┃影视",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-	  "key":"py_xigua",
-	  "name": "🍉┃西瓜┃视频",
-	  "type": 3,
-	  "api": "py_xigua",
-	  "searchable": 1,
-	  "quickSearch": 1,
-	  "filterable": 1,
-	  "ext": "https://yydsys.top/duo/json/xigua.py"
-	},	
-    {
-      "key": "zy_新浪资源",
-      "name": "🏄🏻┃新浪┃资源",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "动漫",
-        "综艺",
-        "纪录片",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "剧情片",
-        "恐怖片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "体育"
-      ]
     },
     {
       "key": "api_xml_搜糊资源",
