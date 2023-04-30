@@ -1,20 +1,13 @@
 var rule = {
 	title: '我的哔哩',
 	host: 'https://api.bilibili.com',
-	homeUrl: '/x/web-interface/search/type?search_type=video&keyword=小姐姐4K&page=1',
+	homeUrl: '/x/web-interface/search/type?search_type=video&keyword=演唱会4K&page=1',
 	url: '/x/web-interface/search/type?search_type=videofyfilter',
-	class_name: '经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV&演唱会&白噪音&知名UP主&说案&解说&演讲&探索发现&纪录片&平面设计教学&软件教程&实用教程&旅游&风景&食谱&美食&搞笑&球星&动物世界&相声小品&戏曲&儿童&小姐姐&荒野求生',
-	class_url: '经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&MV4K&演唱会4K&白噪音4K&知名UP主&说案&解说&演讲&探索发现超清&纪录片超清&平面设计教学&软件教程&实用教程&旅游&风景4K&食谱&美食超清&搞笑&球星&动物世界超清&相声小品&戏曲&儿童&小姐姐4K&荒野求生超清',
+	class_name: '演唱会&MV&经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&白噪音&知名UP主&说案&解说&演讲&探索发现&纪录片&平面设计教学&软件教程&实用教程&旅游&风景&食谱&美食&搞笑&球星&动物世界&相声小品&戏曲&儿童&荒野求生',
+	class_url: '演唱会4K&MV4K&经典无损音乐合集&帕梅拉&太极拳&健身&舞蹈&音乐&歌曲&白噪音4K&知名UP主&说案&解说&演讲&探索发现超清&纪录片超清&平面设计教学&软件教程&实用教程&旅游&风景4K&食谱&美食超清&搞笑&球星&动物世界超清&相声小品&戏曲&儿童&荒野求生超清',
 	filterable: 1,
 	filter_url: '&keyword={{fl.tid}}&page=fypage&duration={{fl.duration}}&order={{fl.order}}',
-	filter_def: {
-    演唱会4K: {
-			tid: '演唱会4K'
-		},
-		MV4K: {
-			tid: 'MV4K'
-		},
-		经典无损音乐合集: {
+	filter_def: {经典无损音乐合集: {
 			tid: '经典无损音乐合集'
 		},
 		帕梅拉: {
@@ -34,6 +27,12 @@ var rule = {
 		},
 		歌曲: {
 			tid: '歌曲'
+		},
+		MV4K: {
+			tid: 'MV4K'
+		},
+		演唱会4K: {
+			tid: '演唱会4K'
 		},
 		白噪音4K: {
 			tid: '白噪音4K'
@@ -94,6 +93,9 @@ var rule = {
 		},
 		儿童: {
 			tid: '儿童'
+		},
+		小姐姐4K: {
+			tid: '小姐姐4K'
 		},
 		荒野求生超清: {
 			tid: '荒野求生超清'
