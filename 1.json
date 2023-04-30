@@ -370,12 +370,11 @@
       "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/json/磁力熊.json"
+      "filterable": 1
     },
     {
 	  "key": "csp_XYQHikerdyx",
-	  "name":"🛥️┃磁力┃港口",
+	  "name":"磁力港口",
 	  "type":3,
 	  "api":"csp_XYQHiker",
 	  "searchable":1,
@@ -386,7 +385,7 @@
 	}, 	
     {
 	  "key":"mtv_pc_yinfans",
-	  "name":"🧲┃磁力┃范丝",
+	  "name":"磁力范丝",
       "type":3,
 	  "api":"csp_XPath",
 	  "searchable":1,
