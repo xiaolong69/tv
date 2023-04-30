@@ -50,6 +50,26 @@
       "ext": "https://yydsys.top/duo/js/乐猪TV.js"
     },
     {
+      "key": "口袋影院",
+      "name": "(优)口袋影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
+    },
+    {
+      "key": "花猫影视",
+      "name": "(优)花猫影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
+    },
+    {
       "key": "zy_新浪资源",
       "name": "(优)新浪资源",
       "type": 1,
@@ -627,6 +647,36 @@
       ]
     },
     {
+      "key": "csp_biubiu_dadagui",
+      "name": "达龟影视",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yydsys.top/duo/json/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"
+    },
+    {
+      "key": "csp_XBPQ_TVB云播",
+      "name": "TVB云播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/json/tvb%E4%BA%91%E6%92%AD.json"
+    },
+    {
+      "key": "csp_XBPQ_金眼影视",
+      "name": "金眼影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"
+    },
+    {
       "key": "csp_XYQHiker_锐行加速",
       "name": "锐行影院",
       "type": 3,
@@ -773,66 +823,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://yydsys.top/duo/js/310.js"
-    },
-    {
-      "key": "口袋影院",
-      "name": "👝┃口袋┃影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
-    },
-    {
-      "key": "花猫影视",
-      "name": "🐱┃花猫┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "csp_biubiu_dadagui",
-      "name": "🐢┃达龟┃影视",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"
-    },
-    {
-      "key": "csp_XBPQ_TVB云播",
-      "name": "🌤┃TVB┃云播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/tvb%E4%BA%91%E6%92%AD.json"
-    },
-    {
-      "key": "csp_XBPQ_金眼影视",
-      "name": "🌟┃金眼┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "push_agent",
-      "name": "📨┃影视┃推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
     }
   ],
   "lives":[
