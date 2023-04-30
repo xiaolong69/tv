@@ -371,8 +371,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/json/磁力熊.json",
-      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/jar/xyq.jar;md5;281A875D78ABB81EB9716951FD20E530"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/json/磁力熊.json"
     },
     {
 	  "key": "csp_XYQHikerdyx",
