@@ -90,6 +90,16 @@
       "ext": "https://framagit.org/duomv/duo/-/raw/main/js/caigou.js"
     },
     {
+            "key":"AList",
+            "name":"Alist合集",
+            "type":3,
+            "api":"csp_AList",
+            "searchable":0,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://xiaolong69.github.io/tv/spider/4/json/alist1.json"
+    },
+    {
       "key": "js豆瓣",
       "name": "豆瓣榜单",
       "type": 3,
@@ -98,6 +108,19 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/douban.js"
+    },
+    {
+      "key": "新片热播",
+      "name": "新片热播",
+      "type": 1,
+      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "连续剧",
+        "动漫"
+      ]
     },
     {
       "key": "csp_Xinsj",
@@ -312,29 +335,6 @@
       "filterable": 1
     },
     {
-      "key": "新片热播",
-      "name": "新片热播",
-      "type": 1,
-      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "连续剧",
-        "动漫"
-      ]
-    },
-    {
-            "key":"AList",
-            "name":"Alist合集",
-            "type":3,
-            "api":"csp_AList",
-            "searchable":0,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://xiaolong69.github.io/tv/spider/4/json/alist1.json"
-    },
-    {
       "key": "js_B站精简",
       "name": "Bili站点",
       "type": 3,
@@ -362,6 +362,37 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yydsys.top/duo/json/亲宝.json"
+    },
+    {
+      "key": "csp_XYQBiu_磁力熊",
+      "name": "磁力熊",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/json/磁力熊.json"
+    },
+    {
+	  "key": "csp_XYQHikerdyx",
+	  "name":"🛥️┃磁力┃港口",
+	  "type":3,
+	  "api":"csp_XYQHiker",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://yydsys.top/duo/json/电影港.json",
+	  "jar":"https://jihulab.com/duomv/duo/-/raw/main/xyq.jar;md5;281A875D78ABB81EB9716951FD20E530"
+	}, 	
+    {
+	  "key":"mtv_pc_yinfans",
+	  "name":"🧲┃磁力┃范丝",
+      "type":3,
+	  "api":"csp_XPath",
+	  "searchable":1,
+	  "quickSearch":1,
+	  "filterable":1,
+	  "ext":"https://yydsys.top/duo/json/音范丝.json"
     },
     {
       "key": "csp_阿里搜索",
@@ -394,37 +425,6 @@
       "filterable": 1,
 	  "jar": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar;md5;2C74FEFBBA3A01AA0480AFD962535F6D",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "csp_XYQBiu_磁力熊",
-      "name": "🧸┃磁力┃贝尔",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/磁力熊.json"
-    },
-    {
-	  "key": "csp_XYQHikerdyx",
-	  "name":"🛥️┃磁力┃港口",
-	  "type":3,
-	  "api":"csp_XYQHiker",
-	  "searchable":1,
-	  "quickSearch":1,
-	  "filterable":1,
-	  "ext":"https://yydsys.top/duo/json/电影港.json",
-	  "jar":"https://jihulab.com/duomv/duo/-/raw/main/xyq.jar;md5;281A875D78ABB81EB9716951FD20E530"
-	}, 	
-    {
-	  "key":"mtv_pc_yinfans",
-	  "name":"🧲┃磁力┃范丝",
-      "type":3,
-	  "api":"csp_XPath",
-	  "searchable":1,
-	  "quickSearch":1,
-	  "filterable":1,
-	  "ext":"https://yydsys.top/duo/json/音范丝.json"
     },
     {
 	  "key":"csp_8K",
