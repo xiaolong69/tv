@@ -1,27 +1,15 @@
 {
   "drives": [	
     {
-     "name": "🎢arhome",
+     "name": "🎢ar盘",
      "server": "https://ar盘.tk"
     },
    {
-     "name": "🌟云星",
-     "server": "http://alist.itvbox.cc"
-    },	
-    {
-     "name": "🧬杜比",
-     "server": "https://dubi.tk"
-    },
-    {
-     "name" : "👠丫仙女",
+     "name" : "👠小雅",
      "server" : "http://alist.xiaoya.pro",
      "startPage" : "/测试（不限速）",
      "showAll" : false,
      "search" : true
-    },  	
-    {
-     "name": "🐉神族九帝",
-     "server": "https://alist.shenzjd.com"
     },
     {
      "name": "✨星梦",
