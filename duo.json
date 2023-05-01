@@ -1,6 +1,10 @@
 {
     "urls": [
         {
+            "url": "https://xiaolong69.github.io/tv/1.json",
+            "name": "自用版本"
+        },
+        {
             "url": "https://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
