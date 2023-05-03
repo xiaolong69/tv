@@ -50,26 +50,6 @@
       "ext": "https://yydsys.top/duo/js/乐猪TV.js"
     },
     {
-      "key": "口袋影院",
-      "name": "(优)口袋影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
-    },
-    {
-      "key": "花猫影视",
-      "name": "(优)花猫影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
-    },
-    {
       "key": "zy_新浪资源",
       "name": "(优)新浪资源",
       "type": 1,
@@ -705,6 +685,26 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yydsys.top/duo/json/野荷塘.json"
+    },
+    {
+      "key": "口袋影院",
+      "name": "口袋影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
+    },
+    {
+      "key": "花猫影视",
+      "name": "花猫影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://yydsys.top/duo/json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_Anime1",
