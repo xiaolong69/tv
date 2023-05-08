@@ -30,16 +30,6 @@
       "filterable": 1
     },	
     {
-      "key": "csp_AppTT",
-      "name": "(优)图图",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-    },
-    {
       "key": "drpy_js_乐猪TV",
       "name": "(优)乐猪",
       "type": 3,
@@ -705,6 +695,16 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://yydsys.top/duo/json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
+    },
+    {
+      "key": "csp_AppTT",
+      "name": "图图",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
     {
       "key": "csp_Anime1",
