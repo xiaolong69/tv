@@ -40,6 +40,16 @@
       "ext": "https://yydsys.top/duo/js/乐猪TV.js"
     },
     {
+      "key": "csp_AppTT",
+      "name": "(优)图图",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+    },
+    {
       "key": "zy_新浪资源",
       "name": "(优)新浪资源",
       "type": 1,
@@ -695,16 +705,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://yydsys.top/duo/json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "csp_AppTT",
-      "name": "图图",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
     {
       "key": "csp_Anime1",
