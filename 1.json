@@ -123,7 +123,7 @@
       "key": "360_spider",
       "name": "360(解析)",
       "type": 3,
-      "api": "csp_SP360",
+      "api": "csp_SP33",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -136,27 +136,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://framagit.org/duomv/duo/-/raw/main/js/caigou.js"
-    },
-    {
-            "key":"AList",
-            "name":"Alist合集",
-            "type":3,
-            "api":"csp_AList",
-            "searchable":0,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://xiaolong69.github.io/tv/spider/4/json/alist1.json"
-    },
-    {
-      "key": "csp_XYQBiu_磁力熊",
-      "name": "磁力熊",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"https://yydsys.top/duo/json/磁力熊.json"
+      "ext": "https://bitbucket.org/xduo/duoapi/raw/master/caigou.js"
     },
     {
 	  "key": "csp_XYQHikerdyx",
@@ -242,7 +222,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.6080dy3.com"
+      "ext": "https://www.6080yy2.com"
     },
     {
       "key": "Kuaikan",
@@ -253,13 +233,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-	  "key":"csp_8K",
-	  "name":"八仟电影",
-	  "type":1,
-	  "api":"http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/",
-          "playUrl":"json:http://47.119.122.235:5566/json/free.php?url="
-    },	
     {
       "key": "csp_Btwtoo",
       "name": "Bttwoo",
