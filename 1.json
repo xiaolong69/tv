@@ -629,6 +629,155 @@
       "ext": "https://yydsys.top/duo/json/野荷塘.json"
     },
     {
+	"key":"csp_appys_多米蓝光",
+	"name":"多米蓝光",
+	"type":3,
+	"api":"csp_AppYsV2",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":"http://vod.dmdh.top:5680/api.php/app/"
+    },
+    {
+	"key": "csp_appys_酷影TV",
+	"name": "酷影蓝光",
+	"type": 3, 
+	"api": "csp_AppYsV2",
+	"searchable": 1,
+	"quickSearch": 1, 
+	"filterable": 1,
+	"ext": "http://ys.realdou.cn:8652/api.php/app/"
+    },			
+    {
+	    "key":"csp_xml影视乐",
+	    "name":"乐乐影视",
+	    "type":3,
+	    "api":"csp_AppYsV2",                  
+	    "searchable":1,
+	    "quickSearch":1,
+	    "filterable":1,
+	    "ext":"https://tv.ysle.cn/api.php/app/"
+    },	
+    {      
+	"key": "csp_aidi",
+        "name": "爱迪高清",      
+	"type": 3,
+        "api": "csp_AppYsV2",      
+	"searchable": 1,
+        "quickSearch": 1,      
+	"filterable": 1,
+        "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+    },	
+    {
+	"key":"csp_bbq",
+        "name":"芭芭蓝光",
+	"type":3,
+	"api":"csp_AppYsV2",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"
+    },	      
+    {
+        "key": "csp_mengdandan",      
+	"name": "蛋蛋影视",
+        "type": 3,      
+	"api": "csp_AppYsV2",
+        "searchable": 1,      
+	"quickSearch": 1,
+        "filterable": 1,      
+	"ext": "http://app.mengdandan.com/xgapp.php/v1/"
+    }, 
+    {
+	"key": "csp_dongfang",
+	"name": "东方影视",
+	"type": 3,
+	"api": "csp_AppYsV2",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://www.dfspapp.com/api.php/app/"
+    },
+    {
+	"key":"csp_freeok",
+	"name":"福瑞影视",
+	"type":3,
+	"api":"csp_AppYsV2",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"playUrl":"",
+	"ext":"https://www.freeok.vip/api.php/app/"
+    },	
+    {
+	"key":"csp_yayaya",
+	"name":"耐菲影视",
+	"api":"csp_AppYsV2",
+	"type":3,
+	"filterable":1,
+	"quickSearch":1,
+	"searchable":1,
+	"ext":"https://yayayaaapp.ynf.icu/api.php/app/"
+    },
+    {
+	"key":"csp_ruyi",
+	"name":"棍子影视",
+	"type":3,
+	"api":"csp_AppYsV2",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":"http://cms.maoyingshi.cc/api.php/app/"
+    },
+    {
+	"key":"csp_feifanliangzi",
+	"name":"子凡影视",
+	"type": 3, 
+	"api": "csp_AppYsV2",
+	"playerType":2,
+	"ext": "http://hdvod.top/ruifenglb_api.php/v1.vod"
+    },  
+    {
+	"key":"csp_mini库",
+	"name":"迷你影库",
+	"type":3,
+	"api":"csp_AppYsV2",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":"http://www.miniku.cc/xgapp.php/v1/"
+    },
+    {
+	    "key": "csp_ptg",
+	    "name": "平头影视",
+	    "api":"csp_AppYsV2",
+	    "type": 3,
+	    "searchable": 1,
+	    "quickSearch": 1,
+	    "filterable": 1,
+	    "ext": "http://www.pingtouge.top/ruifenglb_api.php/v1.vod"
+    }, 
+    {
+        "key": "csp_beijihu",      
+	"name": "极狐影视",
+        "type": 3,      
+	"api": "csp_AppYsV2",
+        "searchable": 1,      
+	"quickSearch": 1,
+        "filterable": 1,      
+	"ext": "https://www.kuin.one/api.php/app/"
+    },  		
+    {
+	"key":"csp_xml_野熊",
+	"name":"野熊影视",
+	"type":1,
+	"api":"https://v.3412.net.cn/macapi.php/provide/vod",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"playUrl":"https://player.3412.net.cn/?url="
+    },		
+    {
       "key": "csp_Anime1",
       "name": "动漫",
       "type": 3,
