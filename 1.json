@@ -23,7 +23,7 @@
       "key": "小苹果",
       "name": "(优)小苹果",
       "type": 3,
-	  "playerType":1,
+      "playerType":1,
       "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
@@ -1430,5 +1430,5 @@
   "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://yydsys.top/bg.php","warningText": "提醒：用前请刷新",
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/spider.jar;md5;F3821BF69ACD87C46327F0F2A606303E"
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/5/custom_spider.jar;md5;213BC4B69E5061D4F89CAF66109E0A9C"
 }
