@@ -188,27 +188,6 @@
       "ext": "https://bitbucket.org/xduo/duoapi/raw/master/caigou.js"
     },
     {
-	  "key": "csp_XYQHikerdyx",
-	  "name":"磁力港口",
-	  "type":3,
-	  "api":"csp_XYQHiker",
-	  "searchable":1,
-	  "quickSearch":1,
-	  "filterable":1,
-	  "ext":"https://yydsys.top/duo/json/电影港.json",
-	  "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/jar/xyq.jar;md5;281A875D78ABB81EB9716951FD20E530"
-    }, 	
-    {
-	  "key":"mtv_pc_yinfans",
-	  "name":"磁力范丝",
-      "type":3,
-	  "api":"csp_XPath",
-	  "searchable":1,
-	  "quickSearch":1,
-	  "filterable":1,
-	  "ext":"https://yydsys.top/duo/json/音范丝.json"
-    },
-    {
       "key": "js豆瓣",
       "name": "豆瓣榜单",
       "type": 3,
@@ -232,48 +211,16 @@
       ]
     },
     {
-      "key": "api_xml_搜糊资源",
-      "name": "️搜狐影视",
-      "type": 1,
-      "api": "http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/",
-      "playUrl": "https://jx.777jiexi.com/player/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "综艺",
-        "动漫"
-      ]
-    },
+	"key": "csp_XBPQ_奇优",
+	"name": "奇优影院",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://yydsys.top/duo/json/奇优影院.json"
+    },		
     {
-			"key": "csp_XBPQ_奇优",
-			"name": "奇优影院",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/json/奇优影院.json"
-		},		
-		{
       "key": "csp_Xinsj",
       "name": "新视觉",
       "type": 3,
@@ -341,15 +288,15 @@
       "filterable": 1
     },
      {
-			"key":"csp_xml_可米",
-			"name":"可米影视",
-			"type":1,
-			"api":"https://cj.kemi.lol/api.php/provide/vod/?ac=list",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},		
-		{
+	"key":"csp_xml_可米",
+	"name":"可米影视",
+	"type":1,
+	"api":"https://cj.kemi.lol/api.php/provide/vod/?ac=list",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1
+    },		
+    {
       "key": "csp_CZSPP",
       "name": "厂长[SP]",
       "type": 3,
