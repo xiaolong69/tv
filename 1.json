@@ -649,6 +649,16 @@
 	"ext": "http://ys.realdou.cn:8652/api.php/app/"
     },			
     {
+            "key": "csp_BuLei",
+            "name": "布雷蓝光",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://dy01.bulei.cc/$$$auto$$$iamduo$$$159357"
+    },		
+    {
 	    "key":"csp_xml影视乐",
 	    "name":"乐乐影视",
 	    "type":3,
@@ -777,6 +787,210 @@
 	"filterable":1,
 	"playUrl":"https://player.3412.net.cn/?url="
     },		
+    {
+	"key": "csp_XBPQ_茉莉",
+	"name": "茉莉高清",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext":"{ 
+	      \"免嗅\":\"0\",
+	      \"线路数组\":\"class=\\\"myui-panel__head&&</ul>\",
+	     \"播放数组\":\"class=\\\"myui-content__list sort-list clearfix&&</ul>\",
+	     \"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
+	     \"简介\":\"class=\\\"left text-muted\\\"&&</span>\", 
+	     \"分类\":\"电影$1#电视剧$2#动漫$41#综艺$39\",
+	     \"分类url\":\"https://hdmoli.com/mlist/index{cateId}.html\"}"
+    },	
+    {
+		"key": "csp_XBPQ_御龙",
+		"name": "御龙高清",
+		"type": 3,
+		"api": "csp_XBPQ",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://yydsys.top/duo/json/yulong.json"
+    },
+    {
+			"key": "csp_XBPQ_速映",
+			"name": "速映影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/json/速映.json"
+		},		
+		{
+			"key": "csp_XBPQ_端木",
+			"name": "端木蓝光 ",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/json/DM.json"
+		},	
+        {
+			"key":"csp_ole",
+			"name":"欧乐影院",
+			"type":4,
+			"api":"https://php.dovxs.repl.co/vod/ole.php",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+        {
+			"key":"csp_xml_可米",
+			"name":"可米影视",
+			"type":1,
+			"api":"https://cj.kemi.lol/api.php/provide/vod/?ac=list",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},		
+		{
+			"key": "csp_XBPQ_奇优",
+			"name": "奇优影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/json/奇优影院.json"
+		},		
+		{
+			"key": "csp_XBPQ_土豪",
+			"name": "土豪影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/json/土豪.json"
+		},	
+		{
+			"key":"csp_Lib",
+			"name": "Libvio[SP]",
+			"type": 3,
+			"api": "csp_Libvio",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext":"https://tv.libvio.cc/"
+		},		
+		{
+			"key":"csp_MeiJu69",
+			"name":"六九美剧",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://www.69mj.com/xgapp.php/v2/"
+		},	
+        {
+            "key": "csp_Zxzj",
+            "name": "在线之家",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.zxzj.pro/"
+        },		
+		{
+			"key": "csp_mingdi",
+			"name": "大明影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/json/明帝.json"
+		},
+		{
+			"key": "js_大师兄",
+			"name": "师兄影视",
+			"type": 3,
+			"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/js/大师兄影视.js"
+		},	
+		{
+			"key": "csp_Vofl",
+			"name": "VoFl[SP]",
+			"type": 3,
+			"api": "csp_Voflix",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+			"key": "csp_biubiu_voflix",
+			"name": "VoFl[XB]",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"playUrl": "https://play.qwertwe.top/xplay/?url=",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/json/voflix.json"
+		},
+		{
+			"key": "csp_mozhatu",
+			"name": "魔图影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/json/莫扎兔.json"
+		},			
+		{
+			"key": "py_xigua",
+			"name": "西瓜视频",
+			"type": 3,
+			"api": "py_xigua",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/json/xigua.py"
+		},
+		{
+			"key": "py_cctv",
+			"name": "央视大全",
+			"type": 3,
+			"api": "py_cctv",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://yydsys.top/duo/json/cctv.py"
+		},
+		{
+			"key": "csp_Smdyy",
+			"name": "神马影院",
+			"type": 3,
+			"api": "csp_Smdyy",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
+	"key": "py_baby",
+	"name": "宝宝合集",
+	"type": 3,
+	"api": "py_baby",
+	"searchable": 0,
+	"quickSearch": 0,
+	"filterable": 1,
+	"ext": "https://yydsys.top/duo/Bili/baby.py"
+    },
     {
       "key": "csp_Anime1",
       "name": "动漫",
