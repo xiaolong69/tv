@@ -10,7 +10,7 @@
       "filterable": 1
     },
     {
-      "key": "drpy_js_酷云七七",
+      "key": "js_酷云",
       "name": "(优)七七[JS]",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
@@ -30,7 +30,7 @@
       "filterable": 1
     },	
     {
-      "key": "drpy_js_乐猪TV",
+      "key": "drpy_js_乐猪",
       "name": "(优)乐猪",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
@@ -99,7 +99,7 @@
         "ext": "https://aidiapp.xyz/xgapp.php/v2/"
     },	
     {
-      "key": "zy_新浪资源",
+      "key": "zy_新浪",
       "name": "(优)新浪资源",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "key": "drpy_js_企鹅",
+      "key": "js_企鹅",
       "name": "腾讯(解析)",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
@@ -139,7 +139,7 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/qtv.js"
     },
     {
-      "key": "drpy_js_奇异",
+      "key": "js_奇异",
       "name": "爱奇艺(解析)",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
@@ -149,7 +149,7 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/qzys.js"
     },
     {
-      "key": "drpy_js_芒果",
+      "key": "js_芒果",
       "name": "芒果(解析)",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
@@ -159,7 +159,7 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/baimang.js"
     },
     {
-      "key": "drpy_js_优酷",
+      "key": "js_优酷",
       "name": "优酷(解析)",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
@@ -178,14 +178,14 @@
       "filterable": 1
     },
     {
-      "key": "drpy_js_菜狗",
+      "key": "js_菜狗",
       "name": "搜狗(解析)",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/duoapi/raw/master/caigou.js"
+      "ext": "https://bitbucket.org/xduo/json/raw/master/caigou.js"
     },
     {
       "key": "js豆瓣",
@@ -211,7 +211,7 @@
       ]
     },
     {
-	"key": "csp_XBPQ_奇优",
+	"key": "csp_奇优",
 	"name": "奇优影院",
 	"type": 3,
 	"api": "csp_XBPQ",
@@ -228,7 +228,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.6080yy2.com"
+      "ext": "https://www.6080yy3.com"
     },
     {
       "key": "Kuaikan",
@@ -250,7 +250,7 @@
     },
     {
 	"key":"csp_Lib",
-	"name": "Libvio[SP]",
+	"name": "Libvio",
 	"type": 3,
 	"api": "csp_Libvio",
 	"searchable": 1,
@@ -258,26 +258,6 @@
 	"filterable": 1,
 	"ext":"https://tv.libvio.cc/"
     },		
-    {
-      "key": "js_Libvio",
-      "name": "Libvio[JS]",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/libvio.js"
-    },
-    {
-      "key": "csp_XBPQ_LIBVIO",
-      "name": "Libvio[XB]",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/LIBVIO.json"
-    },
     {
       "key": "csp_Dy1010",
       "name": "双十影院",
@@ -288,7 +268,7 @@
       "filterable": 1
     },
      {
-	"key":"csp_xml_可米",
+	"key":"csp_可米",
 	"name":"可米影视",
 	"type":1,
 	"api":"https://cj.kemi.lol/api.php/provide/vod/?ac=list",
@@ -323,8 +303,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/Nmys.json"
+      "ext": "https://bitbucket.org/xduo/json/raw/master/Nmys.json"
     },
+    {
+	"key": "js_农民",
+	"name": "农民[JS]",
+	"type": 3,
+	"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/nongmin.js"
+    },		
     {
       "key": "csp_YQKAPP",
       "name": "一起看",
