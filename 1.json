@@ -251,6 +251,16 @@
       "ext": "https://www.6080yy3.com"
     },
     {
+	"key": "csp_御龙",
+	"name": "(良)御龙",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://bitbucket.org/xduo/json/raw/master/yulong.json"
+    },
+    {
       "key": "csp_Dy1010",
       "name": "(良)双十影院",
       "type": 3,
@@ -697,16 +707,6 @@
 	     \"分类url\":\"https://hdmoli.com/mlist/index{cateId}.html\"}"
     },	
     {
-	"key": "csp_御龙",
-	"name": "御龙高清",
-	"type": 3,
-	"api": "csp_XBPQ",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://bitbucket.org/xduo/json/raw/master/yulong.json"
-    },
-    {
 	"key": "csp_速映",
 	"name": "速映影院",
 	"type": 3,
@@ -726,16 +726,6 @@
 	"filterable": 1,
 	"ext": "https://bitbucket.org/xduo/json/raw/master/明帝.json"
     },
-    {
-	"key": "js_大师兄",
-	"name": "大师兄影视",
-	"type": 3,
-	"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/大师兄影视.js"
-    },	
     {
       "key": "csp_Anime1",
       "name": "动漫",
