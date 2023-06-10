@@ -346,6 +346,16 @@
 	"ext": "https://bitbucket.org/xduo/json/raw/master/剧白白.json"
     },
     {
+        "key": "csp_beijihu",      
+	"name": "(良)极狐影视",
+        "type": 3,      
+	"api": "csp_AppYsV2",
+        "searchable": 1,      
+	"quickSearch": 1,
+        "filterable": 1,      
+	"ext": "https://www.kuin.one/api.php/app/"
+    },  		
+    {
 	"key": "csp_baofeng",
 	"name": "(良)暴风",
 	"type": 1,
@@ -679,16 +689,6 @@
 	"filterable": 1,
 	"ext": "http://www.pingtouge.top/ruifenglb_api.php/v1.vod"
     }, 
-    {
-        "key": "csp_beijihu",      
-	"name": "极狐影视",
-        "type": 3,      
-	"api": "csp_AppYsV2",
-        "searchable": 1,      
-	"quickSearch": 1,
-        "filterable": 1,      
-	"ext": "https://www.kuin.one/api.php/app/"
-    },  		
     {
 	"key": "csp_茉莉",
 	"name": "茉莉高清",
