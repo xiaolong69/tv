@@ -375,6 +375,41 @@
       "ext": "https://www.lgyy.vip"
     },
     {
+	"key": "csp_酷影",
+	"name": "酷影蓝光",
+	"type": 3,
+	"api": "csp_AppYsV2",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "http://cms.wbsys.top:9835/api.php/app/"
+    },
+    {
+	"key": "csp_baofeng",
+	"name": "暴风",
+	"type": 1,
+	"api": "http://bfzy.tv/api.php/provide/vod/",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"categories": [
+	"国产剧",
+	"欧美剧",
+	"香港剧",
+	"韩国剧",
+	"台湾剧",
+	"日本剧",
+	"海外剧",
+	"泰国剧",
+	"动作片",
+	"爱情片",
+	"喜剧片",
+	"科幻片",
+	"战争片",
+	"动漫片"
+	]
+    },
+    {
       "key": "csp_Cokemv",
       "name": "可乐影视",
       "type": 3,
