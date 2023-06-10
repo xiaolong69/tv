@@ -410,6 +410,26 @@
 	]
     },
     {
+	"key": "csp_jbb",
+	"name": "剧白影视",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://bitbucket.org/xduo/json/raw/master/剧白白.json"
+    },
+    {
+	"key": "csp_土豪",
+	"name": "土豪影院",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://bitbucket.org/xduo/json/raw/master/土豪.json"
+    },
+    {
       "key": "csp_Cokemv",
       "name": "可乐影视",
       "type": 3,
