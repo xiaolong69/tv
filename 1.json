@@ -376,6 +376,16 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/czspp.js"
     },
     {
+      "key": "csp_dadagui",
+      "name": "(良)达龟影视",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/达达龟.json"
+    },
+    {
 	"key": "csp_jbb",
 	"name": "(良)剧白影视",
 	"type": 3,
@@ -658,16 +668,6 @@
         "爱情片",
         "喜剧片"
       ]
-    },
-    {
-      "key": "csp_dadagui",
-      "name": "达龟影视",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/达达龟.json"
     },
     {
       "key": "csp_金眼",
