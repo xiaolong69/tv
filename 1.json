@@ -40,16 +40,6 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/乐猪TV.js"
     },
     {
-      "key": "csp_AppTT",
-      "name": "(优)图图",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-    },
-    {
 	"key": "csp_Zxzj",
 	"name": "(优)在线之家",
 	"type": 3,
@@ -59,6 +49,16 @@
 	"filterable": 1,
 	"ext": "https://www.zxzj.pro/"
     },		
+    {      
+	"key": "csp_aidi",
+        "name": "(优)爱迪",      
+	"type": 3,
+        "api": "csp_AppYsV2",      
+	"searchable": 1,
+        "quickSearch": 1,      
+	"filterable": 1,
+        "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+    },	
     {
 	"key": "csp_酷影",
 	"name": "(优)酷影",
@@ -79,16 +79,6 @@
 	"filterable":1,
 	"ext":"http://cms.maoyingshi.cc/api.php/app/"
     },
-    {      
-	"key": "csp_aidi",
-        "name": "(优)爱迪",      
-	"type": 3,
-        "api": "csp_AppYsV2",      
-	"searchable": 1,
-        "quickSearch": 1,      
-	"filterable": 1,
-        "ext": "https://aidiapp.xyz/xgapp.php/v2/"
-    },	
     {
       "key": "zy_新浪",
       "name": "(优)新浪资源",
@@ -118,6 +108,16 @@
         "泰剧",
         "体育"
       ]
+    },
+    {
+      "key": "csp_AppTT",
+      "name": "(优)图图",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
     },
     {
       "key": "js_企鹅",
