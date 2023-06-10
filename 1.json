@@ -202,26 +202,6 @@
       ]
     },
     {
-	"key": "csp_奇优",
-	"name": "奇优影院",
-	"type": 3,
-	"api": "csp_XBPQ",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://bitbucket.org/xduo/json/raw/master/奇优影院.json"
-    },		
-    {
-	"key":"csp_appys_多米蓝光",
-	"name":"多米蓝光",
-	"type":3,
-	"api":"csp_AppYsV2",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1,
-	"ext":"http://v.dmdh.top/api.php/app/"
-    },
-    {
       "key": "csp_Xinsj",
       "name": "新视觉",
       "type": 3,
@@ -230,6 +210,54 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.6080yy3.com"
+    },
+    {
+      "key": "csp_Dy1010",
+      "name": "双十影院",
+      "type": 3,
+      "api": "csp_Dy1010",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "csp_Nmys",
+      "name": "农民影视",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/Nmys.json"
+    },
+    {
+	"key": "js_农民",
+	"name": "农民[JS]",
+	"type": 3,
+	"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/nongmin.js"
+    },		
+    {
+      "key": "csp_DiDuan",
+      "name": "低端[SP]",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "drpy_js_ddys",
+      "name": "低端[JS]",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/ddys.js"
     },
     {
       "key": "Kuaikan",
@@ -260,15 +288,15 @@
 	"ext":"https://tv.libvio.cc/"
     },		
     {
-      "key": "csp_Dy1010",
-      "name": "双十影院",
+      "key": "csp_Auete",
+      "name": "Auete",
       "type": 3,
-      "api": "csp_Dy1010",
+      "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-     {
+    {
 	"key":"csp_可米",
 	"name":"可米影视",
 	"type":1,
@@ -297,26 +325,6 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/czspp.js"
     },
     {
-      "key": "csp_Nmys",
-      "name": "农民影视",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/Nmys.json"
-    },
-    {
-	"key": "js_农民",
-	"name": "农民[JS]",
-	"type": 3,
-	"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/nongmin.js"
-    },		
-    {
       "key": "csp_YQKAPP",
       "name": "一起看",
       "type": 3,
@@ -325,25 +333,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://api-aws.11ty.top"
-    },
-    {
-      "key": "csp_DiDuan",
-      "name": "低端[SP]",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "drpy_js_ddys",
-      "name": "低端[JS]",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/ddys.js"
     },
     {
       "key": "csp_无名",
@@ -364,6 +353,26 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/xduo/json/raw/master/骚火电影.json"
+    },
+    {
+	"key": "csp_奇优",
+	"name": "奇优影院",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://bitbucket.org/xduo/json/raw/master/奇优影院.json"
+    },		
+    {
+	"key":"csp_appys_多米蓝光",
+	"name":"多米蓝光",
+	"type":3,
+	"api":"csp_AppYsV2",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":"http://v.dmdh.top/api.php/app/"
     },
     {
       "key": "csp_Lgyy",
@@ -430,15 +439,6 @@
       "filterable": 0
     },
     {
-      "key": "csp_Auete",
-      "name": "Auete",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Ysgc",
       "name": "影视工厂",
       "type": 3,
@@ -447,15 +447,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.ysgc.vip"
-    },
-    {
-      "key": "csp_Bd",
-      "name": "哔嘀",
-      "type": 3,
-      "api": "csp_Bdys01",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
 	"key": "csp_Fantuan",
@@ -488,14 +479,13 @@
 	"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/鸭奈飞.js"
     },
     {
-      "key": "drpy_js_创艺",
-      "name": "创艺",
+      "key": "csp_Bd",
+      "name": "哔嘀",
       "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "api": "csp_Bdys01",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/chuangyi.js"
+      "filterable": 1
     },
     {
       "key": "js_小狗影院",
