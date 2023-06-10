@@ -261,6 +261,16 @@
 	"ext": "https://bitbucket.org/xduo/json/raw/master/yulong.json"
     },
     {
+	"key":"csp_mini库",
+	"name":"(良)迷你库",
+	"type":3,
+	"api":"csp_AppYsV2",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":"http://www.miniku.cc/xgapp.php/v1/"
+    },
+    {
       "key": "csp_Dy1010",
       "name": "(良)双十影院",
       "type": 3,
@@ -668,16 +678,6 @@
 	"quickSearch": 1,
 	"filterable": 1,
 	"ext": "https://www.dfspapp.com/api.php/app/"
-    },
-    {
-	"key":"csp_mini库",
-	"name":"迷你影库",
-	"type":3,
-	"api":"csp_AppYsV2",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1,
-	"ext":"http://www.miniku.cc/xgapp.php/v1/"
     },
     {
 	"key": "csp_ptg",
