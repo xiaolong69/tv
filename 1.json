@@ -326,16 +326,6 @@
       "ext": "https://api-aws.11ty.top"
     },
     {
-      "key": "csp_xBPQ_胖虎",
-      "name": "胖虎影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/panghu.json"
-    },
-    {
       "key": "csp_DiDuan",
       "name": "低端[SP]",
       "type": 3,
@@ -355,54 +345,24 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/ddys.js"
     },
     {
-	"key": "csp_mozhatu",
-	"name": "莫扎兔",
-	"type": 3,
-	"api": "csp_XBPQ",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://yydsys.top/duo/json/莫扎兔.json"
-    },			
-    {
-      "key": "js_莫扎兔",
-      "name": "莫扎兔[JS]",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/js/莫扎兔.js"
-    },
-    {
-      "key": "csp_XBPQ_无名",
+      "key": "csp_无名",
       "name": "无名小站",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/无名小站.json"
+      "ext": "https://bitbucket.org/xduo/json/raw/master/无名小站.json"
     },
     {
-      "key": "csp_xpath_独播库",
-      "name": "独播库",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/duboku.json"
-    },
-    {
-      "key": "csp_biubiu_骚火电影",
+      "key": "csp_骚火",
       "name": "骚火电影",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
+      "ext": "https://bitbucket.org/xduo/json/raw/master/骚火电影.json"
     },
     {
       "key": "csp_Lgyy",
@@ -462,16 +422,6 @@
 	"ext": "https://www.fantuanhd.com"
     },
     {
-      "key": "csp_XBPQ_饭团",
-      "name": "饭团HD",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/饭团HD.json"
-    },
-    {
       "key": "js_电影先生",
       "name": "电影先生",
       "type": 3,
@@ -479,10 +429,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yydsys.top/duo/js/电影先生.js"
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/电影先生.js"
     },
     {
-	"key": "js_奈飞影视",
+	"key": "js_奈飞",
 	"name": "奈飞",
 	"type": 3,
 	"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
@@ -492,14 +442,14 @@
 	"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/鸭奈飞.js"
     },
     {
-      "key": "drpy_js_创艺影视",
+      "key": "drpy_js_创艺",
       "name": "创艺",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yydsys.top/duo/js/chuangyi.js"
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/chuangyi.js"
     },
     {
       "key": "js_小狗影院",
@@ -522,7 +472,7 @@
       "ext": "https://www.555dyy1.com"
     },
     {
-      "key": "js_稀饭影视",
+      "key": "js_稀饭",
       "name": "稀饭影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
@@ -541,7 +491,7 @@
       "filterable": 1
     },
     {
-      "key": "csp_xml_非凡资源",
+      "key": "csp_非凡资源",
       "name": "非凡资源",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
@@ -604,57 +554,57 @@
       ]
     },
     {
-      "key": "csp_biubiu_dadagui",
+      "key": "csp_dadagui",
       "name": "达龟影视",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://yydsys.top/duo/json/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"
+      "ext": "https://bitbucket.org/xduo/json/raw/master/达达龟.json"
     },
     {
-      "key": "csp_XBPQ_TVB云播",
+      "key": "csp_TVB",
       "name": "TVB云播",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/tvb%E4%BA%91%E6%92%AD.json"
+      "ext": "https://bitbucket.org/xduo/json/raw/master/tvb云播.json"
     },
     {
-      "key": "csp_XBPQ_金眼影视",
+      "key": "csp_金眼",
       "name": "金眼影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://bitbucket.org/xduo/json/raw/master/金眼影视.json"
     },
     {
-            "key": "csp_BuLei",
-            "name": "布雷蓝光",
-            "type": 3,
-            "api": "csp_BuLei",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://dy01.bulei.cc/$$$auto$$$iamduo$$$159357"
+	"key": "csp_BuLei",
+	"name": "布雷蓝光",
+	"type": 3,
+	"api": "csp_BuLei",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "http://dy01.bulei.cc/$$$auto$$$iamduo$$$159357"
     },		
     {
-	    "key":"csp_xml影视乐",
-	    "name":"乐乐影视",
-	    "type":3,
-	    "api":"csp_AppYsV2",                  
-	    "searchable":1,
-	    "quickSearch":1,
-	    "filterable":1,
-	    "ext":"https://tv.ysle.cn/api.php/app/"
+	"key":"csp_xml影视乐",
+	"name":"乐乐影视",
+	"type":3,
+	"api":"csp_AppYsV2",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":"https://tv.ysle.cn/api.php/app/"
     },	
     {
-        "key": "csp_mengdandan",      
+        "key": "csp_mdd",      
 	"name": "萌蛋影视",
         "type": 3,      
 	"api": "csp_AppYsV2",
@@ -695,14 +645,14 @@
 	"ext":"http://www.miniku.cc/xgapp.php/v1/"
     },
     {
-	    "key": "csp_ptg",
-	    "name": "平头影视",
-	    "api":"csp_AppYsV2",
-	    "type": 3,
-	    "searchable": 1,
-	    "quickSearch": 1,
-	    "filterable": 1,
-	    "ext": "http://www.pingtouge.top/ruifenglb_api.php/v1.vod"
+	"key": "csp_ptg",
+	"name": "平头影视",
+	"api":"csp_AppYsV2",
+	"type": 3,
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "http://www.pingtouge.top/ruifenglb_api.php/v1.vod"
     }, 
     {
         "key": "csp_beijihu",      
@@ -715,7 +665,7 @@
 	"ext": "https://www.kuin.one/api.php/app/"
     },  		
     {
-	"key": "csp_XBPQ_茉莉",
+	"key": "csp_茉莉",
 	"name": "茉莉高清",
 	"type": 3,
 	"api": "csp_XBPQ",
@@ -732,56 +682,46 @@
 	     \"分类url\":\"https://hdmoli.com/mlist/index{cateId}.html\"}"
     },	
     {
-		"key": "csp_XBPQ_御龙",
-		"name": "御龙高清",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://yydsys.top/duo/json/yulong.json"
+	"key": "csp_御龙",
+	"name": "御龙高清",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://bitbucket.org/xduo/json/raw/master/yulong.json"
     },
     {
-			"key": "csp_XBPQ_速映",
-			"name": "速映影院",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/json/速映.json"
-		},		
-		{
-			"key": "csp_XBPQ_端木",
-			"name": "端木蓝光 ",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/json/DM.json"
-		},	
-        {
-			"key": "csp_mingdi",
-			"name": "大明影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/json/明帝.json"
-		},
-		{
-			"key": "js_大师兄",
-			"name": "大师兄影视",
-			"type": 3,
-			"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://yydsys.top/duo/js/大师兄影视.js"
-		},	
-		{
+	"key": "csp_速映",
+	"name": "速映影院",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://bitbucket.org/xduo/json/raw/master/速映.json"
+    },		
+    {
+	"key": "csp_mingdi",
+	"name": "大明影视",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://bitbucket.org/xduo/json/raw/master/明帝.json"
+    },
+    {
+	"key": "js_大师兄",
+	"name": "大师兄影视",
+	"type": 3,
+	"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/大师兄影视.js"
+    },	
+    {
 	"key": "py_baby",
 	"name": "宝宝合集",
 	"type": 3,
@@ -789,7 +729,7 @@
 	"searchable": 0,
 	"quickSearch": 0,
 	"filterable": 1,
-	"ext": "https://yydsys.top/duo/Bili/baby.py"
+	"ext": "https://bitbucket.org/xduo/json/raw/master/baby.py"
     },
     {
       "key": "csp_Anime1",
@@ -808,7 +748,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/%E8%B7%AF%E6%BC%AB%E6%BC%AB.js"
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/路漫漫.js"
     },
     {
       "key": "动漫直链",
@@ -818,17 +758,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"
+      "ext": "https://bitbucket.org/xduo/json/raw/master/动漫直链.json"
     },
     {
-      "key": "csp_xpath___动漫巴士",
+      "key": "csp_动漫巴士",
       "name": "动漫巴士",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
+      "ext": "https://bitbucket.org/xduo/json/raw/master/动漫巴士.json"
     },
     {
       "key": "js_B站精简",
@@ -848,27 +788,27 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/js/哔哩直播.js"
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/哔哩直播.js"
     },
     {
-      "key": "csp_XYQHiker_虎牙直播",
+      "key": "csp_虎牙",
       "name": "虎牙直播",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E8%99%8E%E7%89%99.json"
+      "ext": "https://bitbucket.org/xduo/json/raw/master/虎牙.json"
     },
     {
-      "key": "csp_XYQBiu_斗鱼",
+      "key": "csp_斗鱼",
       "name": "斗鱼直播",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E6%96%97%E9%B1%BC.json"
+      "ext": "https://bitbucket.org/xduo/json/raw/master/斗鱼.json"
     },
     {
       "key": "网易CC",
@@ -878,7 +818,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/json/%E7%BD%91%E6%98%93CC.json"
+      "ext": "https://bitbucket.org/xduo/json/raw/master/网易CC.json"
     },
     {
       "key": "csp_Yj1211",
@@ -890,14 +830,14 @@
       "filterable": 1
     },
     {
-      "key": "drpy_js_310直播",
+      "key": "js_310直播",
       "name": "310直播",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://yydsys.top/duo/js/310.js"
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/310.js"
     }
   ],
   "lives":[
