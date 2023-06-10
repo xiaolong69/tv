@@ -70,6 +70,16 @@
 	"ext":"http://v.dmdh.top/api.php/app"
     },
     {
+	"key": "csp_酷影",
+	"name": "(优)酷影",
+	"type": 3,
+	"api": "csp_AppYsV2",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "http://cms.wbsys.top:9835/api.php/app/"
+    },
+    {
 	"key":"csp_ole",
 	"name":"(优)欧乐",
 	"type":4,
@@ -373,16 +383,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.lgyy.vip"
-    },
-    {
-	"key": "csp_酷影",
-	"name": "酷影蓝光",
-	"type": 3,
-	"api": "csp_AppYsV2",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "http://cms.wbsys.top:9835/api.php/app/"
     },
     {
 	"key": "csp_baofeng",
