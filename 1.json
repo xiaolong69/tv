@@ -20,26 +20,6 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/77.js"
     },
     {
-      "key": "小苹果",
-      "name": "(优)小苹果",
-      "type": 3,
-      "playerType":1,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },	
-    {
-      "key": "drpy_js_乐猪",
-      "name": "(优)乐猪",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/乐猪TV.js"
-    },
-    {
 	"key": "csp_Zxzj",
 	"name": "(优)在线之家",
 	"type": 3,
@@ -69,16 +49,16 @@
 	"filterable": 1,
 	"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/nongmin.js"
     },		
-    {      
-	"key": "csp_aidi",
-        "name": "(优)爱迪",      
-	"type": 3,
-        "api": "csp_AppYsV2",      
-	"searchable": 1,
-        "quickSearch": 1,      
-	"filterable": 1,
-        "ext": "https://aidiapp.xyz/xgapp.php/v2/"
-    },	
+    {
+      "key": "drpy_js_乐猪",
+      "name": "(优)乐猪",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/乐猪TV.js"
+    },
     {
 	"key": "csp_酷影",
 	"name": "(优)酷影",
@@ -148,6 +128,16 @@
       "filterable": 0,
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/ddys.js"
     },
+    {      
+	"key": "csp_aidi",
+        "name": "(优)爱迪",      
+	"type": 3,
+        "api": "csp_AppYsV2",      
+	"searchable": 1,
+        "quickSearch": 1,      
+	"filterable": 1,
+        "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+    },	
     {
       "key": "csp_AppTT",
       "name": "(优)图图",
