@@ -87,7 +87,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext": "http://cms.wbsys.top:9835/api.php/app/"
+	"ext": "https://www.tvkuys.xyz/api.php/app/"
     },
     {
 	"key":"csp_ruyi",
@@ -281,16 +281,6 @@
 	"ext": "http://app.mengdandan.com/xgapp.php/v1/"
     }, 
     {
-	"key":"csp_xml影视乐",
-	"name":"(良)乐乐影视",
-	"type":3,
-	"api":"csp_AppYsV2",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1,
-	"ext":"https://tv.ysle.cn/api.php/app/"
-    },	
-    {
 	"key": "csp_dongfang",
 	"name": "(良)东方影视",
 	"type": 3,
@@ -457,7 +447,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://api-aws.11ty.top"
+      "ext": "https://hk-api-cf.yqk5659.com"
     },
     {
       "key": "Kuaikan",
@@ -1411,5 +1401,5 @@
   "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://yydsys.top/bg.php","warningText": "提醒：用前请刷新",
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/6/custom_spider.jar;md5;11987544E83780B0147AC210239AB165"
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/7/custom_spider.jar;md5;E9D4D921B83E20F88725D7982A515654"
 }
