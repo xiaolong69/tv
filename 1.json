@@ -795,7 +795,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/js/B站精简.js?v=20230430"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/js/B站精简.js?v=20230430"
     },
     {
 	"key": "MV_vod",
@@ -1452,5 +1452,5 @@
   "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://yydsys.top/bg.php","warningText": "提醒：用前请刷新",
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/7/custom_spider.jar;md5;E9D4D921B83E20F88725D7982A515654"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/7/custom_spider.jar;md5;E9D4D921B83E20F88725D7982A515654"
 }
