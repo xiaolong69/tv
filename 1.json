@@ -271,6 +271,13 @@
 	"ext":"http://www.miniku.cc/xgapp.php/v1/"
     },
     {
+	"key": "apv2_瑞丰",
+	"name": "(良)瑞丰影视",
+	"type": 3,
+	"api": "csp_AppYsV2",
+	"ext": "http://www.miniku.cc/xgapp.php/v2/"
+    },
+    {
         "key": "csp_mdd",      
 	"name": "(良)萌蛋影视",
         "type": 3,      
@@ -308,6 +315,31 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://bitbucket.org/xduo/json/raw/master/tvb云播.json"
+    },
+    {
+	"key":"csp_侦探TV",
+	"name":"(良)侦探4K",
+	"type":3,
+	"api":"csp_AppYsV2",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":"http://longfei.lfytyl.com/api.php/app/"
+    },	
+    {
+	"key":"csp_DuoX",
+	"name":"(良)多线",
+	"type":3,
+	"api":"csp_DuoX",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1
+    },
+    {
+	"key": "app_影视之光",
+	"name": "(良)八仟影视",
+	"type": 1,
+	"api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod"
     },
     {
       "key": "csp_Btwtoo",
@@ -746,6 +778,16 @@
       "ext": "https://bitbucket.org/xduo/json/raw/master/动漫巴士.json"
     },
     {
+	"key": "js_童趣",
+	"name": "童趣",
+	"type": 3,
+	"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/tongqu.js"
+    },
+    {
       "key": "js_B站精简",
       "name": "Bili站点",
       "type": 3,
@@ -754,6 +796,15 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/js/B站精简.js?v=20230430"
+    },
+    {
+	"key": "MV_vod",
+	"name": "MTV合集",
+	"type": 1,
+	"api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1
     },
     {
       "key": "csp_斗鱼",
