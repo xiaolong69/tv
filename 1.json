@@ -100,16 +100,6 @@
       ]
     },
     {
-      "key": "csp_AppTT",
-      "name": "(优)图图",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
-    },
-    {
       "key": "js_企鹅",
       "name": "(优)腾讯[解析]",
       "type": 3,
