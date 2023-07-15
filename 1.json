@@ -598,16 +598,6 @@
       "ext": "https://bitbucket.org/xduo/json/raw/master/金眼影视.json"
     },
     {
-	"key": "csp_ptg",
-	"name": "平头影视",
-	"api":"csp_AppYsV2",
-	"type": 3,
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "http://www.pingtouge.top/ruifenglb_api.php/v1.vod"
-    }, 
-    {
 	"key": "csp_茉莉",
 	"name": "茉莉高清",
 	"type": 3,
@@ -615,35 +605,8 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext":"{ 
-	      \"免嗅\":\"0\",
-	      \"线路数组\":\"class=\\\"myui-panel__head&&</ul>\",
-	     \"播放数组\":\"class=\\\"myui-content__list sort-list clearfix&&</ul>\",
-	     \"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
-	     \"简介\":\"class=\\\"left text-muted\\\"&&</span>\", 
-	     \"分类\":\"电影$1#电视剧$2#动漫$41#综艺$39\",
-	     \"分类url\":\"https://hdmoli.com/mlist/index{cateId}.html\"}"
+	"ext": "https://bitbucket.org/xduo/json/raw/master/moli.json"
     },	
-    {
-	"key": "csp_速映",
-	"name": "速映影院",
-	"type": 3,
-	"api": "csp_XBPQ",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://bitbucket.org/xduo/json/raw/master/速映.json"
-    },		
-    {
-	"key": "csp_mingdi",
-	"name": "大明影视",
-	"type": 3,
-	"api": "csp_XBPQ",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://bitbucket.org/xduo/json/raw/master/明帝.json"
-    },
     {
       "key": "csp_Anime1",
       "name": "动漫",
@@ -697,20 +660,20 @@
 	"key": "MV_vod",
 	"name": "MTV合集",
 	"type": 1,
-	"api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
+	"api": "https://tvbox-mv.leevi0321.repl.co/mv/vod",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1
     },
     {
-      "key": "csp_斗鱼",
+      "key": "js_斗鱼直播",
       "name": "斗鱼直播",
       "type": 3,
-      "api": "csp_XYQBiu",
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/斗鱼.json"
+      "ext": "https://bitbucket.org/xduo/json/raw/master/斗鱼.js"
     },
     {
       "key": "网易CC",
