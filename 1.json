@@ -850,15 +850,49 @@
       "url": "Demo"
     },
     {
-      "name": "Web聚合",
-      "type": 3,
-      "url": "Web"
+      "name": "并发",
+      "type": 2,
+      "url": "Parallel"
     },
     {
-            "name": "1号线",
-            "type": 1,
-            "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
-        },
+      "name": "轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
+      "name": "自动解析",
+      "type": 1,
+      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+    },
+    {
+      "name": "1号线",
+      "type": 0,
+      "url": "https://vip.lianfaka.com/vip/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
         {
             "name": "2号线",
             "type": 0,
