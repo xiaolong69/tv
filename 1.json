@@ -353,28 +353,29 @@
 	"ext": "https://www.kuin.one/api.php/app/"
     },  		
     {
-	"key": "csp_baofeng",
+	"key": "cjzy_暴风资源",
 	"name": "(良)暴风",
 	"type": 1,
-	"api": "http://bfzy.tv/api.php/provide/vod/",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 0,
+	"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+	"playUrl": "",
 	"categories": [
 	"国产剧",
-	"欧美剧",
+	"国产动漫",
+	"大陆综艺",
+	"港台综艺",
 	"香港剧",
-	"韩国剧",
 	"台湾剧",
 	"日本剧",
-	"海外剧",
+	"欧美剧",
 	"泰国剧",
-	"动作片",
-	"爱情片",
-	"喜剧片",
+	"日本动漫",
+	"日本综艺",
+	"综艺频道",
+	"新马泰综艺",
+	"纪录片",
 	"科幻片",
-	"战争片",
-	"动漫片"
+	"喜剧片",
+	"战争片"
 	]
     },
     {
@@ -416,16 +417,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_无名",
-      "name": "无名小站",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/无名小站.json"
-    },
-    {
       "key": "csp_骚火",
       "name": "SH电影",
       "type": 3,
@@ -446,16 +437,6 @@
 	"ext": "https://bitbucket.org/xduo/json/raw/master/奇优影院.json"
     },		
     {
-	"key":"csp_appys_多米蓝光",
-	"name":"多米蓝光",
-	"type":3,
-	"api":"csp_AppYsV2",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1,
-	"ext":"http://v.dmdh.top/api.php/app/"
-    },
-    {
       "key": "csp_Lgyy",
       "name": "蓝光影院",
       "type": 3,
@@ -473,7 +454,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.ysgc.vip"
+      "ext": "https://www.ysgc.fun"
     },
     {
 	"key": "csp_Fantuan",
@@ -482,8 +463,7 @@
 	"api": "csp_Fantuan",
 	"searchable": 1,
 	"quickSearch": 1,
-	"filterable": 0,
-	"ext": "https://www.fantuanhd.com"
+	"filterable": 0
     },
     {
       "key": "js_电影先生",
@@ -506,22 +486,13 @@
 	"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/鸭奈飞.js"
     },
     {
-      "key": "csp_Bd",
-      "name": "哔嘀",
-      "type": 3,
-      "api": "csp_Bdys01",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "js_小狗影院",
       "name": "小狗影院",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/小狗.js"
     },	
     {
