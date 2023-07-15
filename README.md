@@ -17,3 +17,6 @@
 - 地址二（蜂蜜）  
 （必须加ghproxy.com，否则可能不能访问） [https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json](https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json)
 - 地址三（集合） [https://jihulab.com/duomv/apps/-/tree/main/](https://jihulab.com/duomv/apps/-/tree/main/)
+
+## zyplayer配置地址（引用）
+- 地址一 [http://shuyuan.miaogongzi.net/shuyuan/1688742214.json](http://shuyuan.miaogongzi.net/shuyuan/1688742214.json)
