@@ -1,17 +1,8 @@
 {
   "sites": [
     {
-      "key": "csp_Kunyu77",
-      "name": "(优)七七[SP]",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "js_酷云",
-      "name": "(优)七七[JS]",
+      "name": "(优)七七",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -57,7 +48,15 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext": "https://www.tvkuys.xyz/api.php/app/"
+	"ext": "http://ys.realdou.cn/api.php/app/",
+	"categories": [
+	"4K电影",
+	"4K电视剧",
+	"电影",
+	"电视剧",
+	"动漫",
+	"综艺"
+	]
     },
     {
       "key": "drpy_js_乐猪",
@@ -163,9 +162,9 @@
       "name": "豆瓣榜单",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/douban.js"
     },
     {
@@ -182,14 +181,14 @@
       ]
     },
     {
-      "key": "csp_Xinsj",
+      "key": "js_Xinsj",
       "name": "(良)新视觉",
       "type": 3,
-      "api": "csp_Xinsj",
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.6080yy3.com"
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/xsj.js"
     },
     {
 	"key": "csp_御龙",
@@ -1228,5 +1227,5 @@
   "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://yydsys.top/bg.php","warningText": "提醒：用前请刷新",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/7/custom_spider.jar;md5;E9D4D921B83E20F88725D7982A515654"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/8/custom_spider.jar;md5;EDAB3976B24E102336354D445026329F"
 }
