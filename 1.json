@@ -456,16 +456,6 @@
       "ext": "https://www.ysgc.fun"
     },
     {
-	"key": "csp_Fantuan",
-	"name": "饭团影视",
-	"type": 3,
-	"api": "csp_Fantuan",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 0,
-	"ext": "https://www.fantuanhd.com"
-    },
-    {
       "key": "js_电影先生",
       "name": "电影先生",
       "type": 3,
