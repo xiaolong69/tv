@@ -1,8 +1,17 @@
 {
   "sites": [
     {
+      "key": "csp_Kunyu77",
+      "name": "(优)七七[SP]",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "js_酷云",
-      "name": "(优)七七",
+      "name": "(优)七七[JS]",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
