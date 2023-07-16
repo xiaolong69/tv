@@ -559,7 +559,7 @@
     },
     {
 	"key": "csp_茉莉",
-	"name": "茉莉高清",
+	"name": "(良)茉莉高清",
 	"type": 3,
 	"api": "csp_XBPQ",
 	"searchable": 1,
@@ -569,10 +569,40 @@
     },	
     {
       "key": "js_ikanbot2",
-      "name": "爱看机器",
+      "name": "(良)爱看机器",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/ikanbot2.js"
+    },
+    {
+      "key": "csp_yayaya",
+      "name": "(良)耐菲影视",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+    },
+    {
+      "key": "js_布蕾",
+      "name": "(良)布雷蓝光",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/布蕾蓝光.js"
+    },
+    {
+      "key": "drpy_js_创艺",
+      "name": "(良)创艺影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/chuangyi.js"
     },
     {
       "key": "app_轻简",
@@ -585,36 +615,6 @@
         "综艺",
         "动漫"
       ]
-    },
-    {
-      "key": "csp_yayaya",
-      "name": "耐菲影视",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-    },
-    {
-      "key": "js_布蕾",
-      "name": "布雷蓝光",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/布蕾蓝光.js"
-    },
-    {
-      "key": "drpy_js_创艺",
-      "name": "创艺影视",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/chuangyi.js"
     },
     {
       "key": "js_荐片",
