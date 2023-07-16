@@ -408,7 +408,7 @@
     },
     {
       "key": "Kuaikan",
-      "name": "快看",
+      "name": "(良)快看",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -417,7 +417,7 @@
     },
     {
       "key": "csp_骚火",
-      "name": "SH电影",
+      "name": "(良)S火电影",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -427,7 +427,7 @@
     },
     {
 	"key": "csp_奇优",
-	"name": "奇优影院",
+	"name": "(良)奇优影院",
 	"type": 3,
 	"api": "csp_XBPQ",
 	"searchable": 1,
@@ -437,7 +437,7 @@
     },		
     {
       "key": "csp_Lgyy",
-      "name": "蓝光影院",
+      "name": "(良)蓝光影院",
       "type": 3,
       "api": "csp_Lgyy",
       "searchable": 1,
@@ -446,18 +446,8 @@
       "ext": "https://www.lgyy.vip"
     },
     {
-      "key": "csp_Ysgc",
-      "name": "影视工厂",
-      "type": 3,
-      "api": "csp_Ysgc",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.ysgc.fun"
-    },
-    {
       "key": "js_电影先生",
-      "name": "电影先生",
+      "name": "(良)电影先生",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -466,18 +456,8 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/电影先生.js"
     },
     {
-	"key": "js_奈飞",
-	"name": "奈飞",
-	"type": 3,
-	"api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/鸭奈飞.js"
-    },
-    {
       "key": "js_小狗影院",
-      "name": "小狗影院",
+      "name": "(良)小狗影院",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -486,18 +466,8 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/小狗.js"
     },	
     {
-      "key": "csp_555电影",
-      "name": "三五电影",
-      "type": 3,
-      "api": "csp_Ys555",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.555dyy1.com"
-    },
-    {
       "key": "js_稀饭",
-      "name": "稀饭影视",
+      "name": "(良)稀饭影视",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "searchable": 1,
@@ -507,7 +477,7 @@
     },	
     {
       "key": "csp_AppMr",
-      "name": "明明",
+      "name": "(良)明明",
       "type": 3,
       "api": "csp_AppMr",
       "searchable": 1,
@@ -516,7 +486,7 @@
     },
     {
       "key": "csp_非凡资源",
-      "name": "非凡资源",
+      "name": "(良)非凡资源",
       "type": 1,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "playurl":"json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -553,7 +523,7 @@
     },
     {
       "key": "量子资源",
-      "name": "量子资源",
+      "name": "(良)量子资源",
       "type": 1,
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "playurl":"json:http://jx.84jia.com/m3u8ts.php?url=",
@@ -579,7 +549,7 @@
     },
     {
       "key": "csp_金眼",
-      "name": "金眼影视",
+      "name": "(良)金眼影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
