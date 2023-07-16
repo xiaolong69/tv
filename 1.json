@@ -59,16 +59,6 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/乐猪TV.js"
     },
     {
-      "key": "js_酷云",
-      "name": "(优)七七",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/77.js"
-    },
-    {
       "key": "zy_新浪",
       "name": "(优)新浪资源",
       "type": 1,
@@ -626,6 +616,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "js_酷云",
+      "name": "七七",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/77.js"
     },
     {
       "key": "XYQH_电影港",
