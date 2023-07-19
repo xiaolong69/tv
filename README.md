@@ -5,7 +5,7 @@
 
 ## TVBox软件地址（引用）
 - 单仓版软件 [https://github.com/pvqogw/TVBoxOSC/releases](https://github.com/pvqogw/TVBoxOSC/releases)
-- [APP下载](https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20230717-0102.apk)
+- [APP下载](https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20230718-1204.apk)
 - [APP兼容版下载](https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20230716-2022.apk)
 - 多仓版软件 [https://leesh.lanzoul.com/b00qd4imj](https://leesh.lanzoul.com/b00qd4imj)  
 密码：1dnu
