@@ -38,7 +38,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext": "http://ys.realdou.cn/api.php/app/",
+	"ext": "http://cms.realdou.cn/api.php/app/",
 	"categories": [
 	"4K电影",
 	"4K电视剧",
@@ -593,6 +593,46 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/chuangyi.js"
+    },
+    {
+      "key": "侦探TV",
+      "name": "侦探盒子",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 1,
+      "ext": "http://ytcms.lfytyl.com/api.php/app/"
+    },
+    {
+      "key": "app_新建",
+      "name": "新建追剧",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
+    },
+    {
+      "key": "csp_aidi",
+      "name": "爱迪高清",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+    },
+    {
+      "key": "csp_Fantuan",
+      "name": "饭团影视",
+      "type": 3,
+      "api": "csp_Fantuan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "app_轻简",
@@ -1287,5 +1327,5 @@
   "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://yydsys.top/bg.php","warningText": "提醒：用前请刷新",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/8/custom_spider.jar;md5;EDAB3976B24E102336354D445026329F"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/9/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
 }
