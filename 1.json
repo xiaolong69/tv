@@ -59,6 +59,16 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/乐猪TV.js"
     },
     {
+      "key": "app_新建",
+      "name": "(优)新建追剧",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
+    },
+    {
       "key": "zy_新浪",
       "name": "(优)新浪资源",
       "type": 1,
@@ -596,7 +606,7 @@
     },
     {
       "key": "侦探TV",
-      "name": "侦探盒子",
+      "name": "(良)侦探盒子",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -604,16 +614,6 @@
       "filterable": 1,
       "playerType": 1,
       "ext": "http://ytcms.lfytyl.com/api.php/app/"
-    },
-    {
-      "key": "app_新建",
-      "name": "新建追剧",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
     },
     {
       "key": "csp_aidi",
@@ -624,15 +624,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://aidiapp.xyz/xgapp.php/v2/"
-    },
-    {
-      "key": "csp_Fantuan",
-      "name": "饭团影视",
-      "type": 3,
-      "api": "csp_Fantuan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "app_轻简",
