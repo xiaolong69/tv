@@ -41,6 +41,16 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/乐猪TV.js"
     },
     {
+      "key": "csp_aidi",
+      "name": "(优)爱迪",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+    },
+    {
       "key": "zy_新浪",
       "name": "(优)新浪资源",
       "type": 1,
@@ -569,16 +579,6 @@
       "filterable": 1,
       "playerType": 1,
       "ext": "http://ytcms.lfytyl.com/api.php/app/"
-    },
-    {
-      "key": "csp_aidi",
-      "name": "爱迪高清",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://aidiapp.xyz/xgapp.php/v2/"
     },
     {
       "key": "app_轻简",
