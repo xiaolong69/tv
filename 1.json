@@ -267,6 +267,16 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/ddys.js"
     },
     {
+      "key": "XBPQ_石榴",
+      "name": "(良)石榴",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/shiliu.json"
+    },
+    {
       "key": "csp_Btwtoo",
       "name": "(良)Bttwoo",
       "type": 3,
