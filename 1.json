@@ -41,16 +41,6 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/乐猪TV.js"
     },
     {
-      "key": "app_新建",
-      "name": "(优)新建追剧",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
-    },
-    {
       "key": "zy_新浪",
       "name": "(优)新浪资源",
       "type": 1,
@@ -173,6 +163,25 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/xsj.js"
     },
     {
+      "key": "csp_CZSPP",
+      "name": "(良)厂长[SP]",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dr_厂长资源",
+      "name": "(良)厂长[JS]",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/czspp.js"
+    },
+    {
 	"key": "csp_御龙",
 	"name": "(良)御龙",
 	"type": 3,
@@ -200,16 +209,6 @@
 	"ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
-        "key": "csp_mdd",      
-	"name": "(良)萌蛋影视",
-        "type": 3,      
-	"api": "csp_AppYsV2",
-        "searchable": 1,      
-	"quickSearch": 1,
-        "filterable": 1,      
-	"ext": "http://app.mengdandan.com/xgapp.php/v1/"
-    }, 
-    {
       "key": "csp_Dy1010",
       "name": "(良)双十影院",
       "type": 3,
@@ -227,25 +226,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://bitbucket.org/xduo/json/raw/master/tvb云播.json"
-    },
-    {
-      "key": "csp_CZSPP",
-      "name": "(良)厂长[SP]",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "dr_厂长资源",
-      "name": "(良)厂长[JS]",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/czspp.js"
     },
     {
       "key": "js_ddys",
@@ -668,6 +648,16 @@
 	"quickSearch":1,
 	"filterable":1
     },
+    {
+        "key": "csp_mdd",      
+	"name": "萌蛋影视",
+        "type": 3,      
+	"api": "csp_AppYsV2",
+        "searchable": 1,      
+	"quickSearch": 1,
+        "filterable": 1,      
+	"ext": "http://app.mengdandan.com/xgapp.php/v1/"
+    }, 
     {
       "key": "XYQH_电影港",
       "name": "港口(磁力)",
