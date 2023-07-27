@@ -31,24 +31,6 @@
 	"ext": "https://jihulab.com/duomv/duo/-/raw/main/js/nongmin.js"
     },		
     {
-	"key": "csp_酷影",
-	"name": "(优)酷影",
-	"type": 3,
-	"api": "csp_AppYsV2",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "http://cms.realdou.cn/api.php/app/",
-	"categories": [
-	"4K电影",
-	"4K电视剧",
-	"电影",
-	"电视剧",
-	"动漫",
-	"综艺"
-	]
-    },
-    {
       "key": "drpy_js_乐猪",
       "name": "(优)乐猪",
       "type": 3,
@@ -247,6 +229,25 @@
       "ext": "https://bitbucket.org/xduo/json/raw/master/tvb云播.json"
     },
     {
+      "key": "csp_CZSPP",
+      "name": "(良)厂长[SP]",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dr_厂长资源",
+      "name": "(良)厂长[JS]",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/czspp.js"
+    },
+    {
 	"key":"csp_DuoX",
 	"name":"(良)多线",
 	"type":3,
@@ -301,25 +302,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_CZSPP",
-      "name": "(良)厂长[SP]",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "dr_厂长资源",
-      "name": "(良)厂长[JS]",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/czspp.js"
     },
     {
       "key": "csp_dadagui",
@@ -657,6 +639,24 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/77.js"
+    },
+    {
+	"key": "csp_酷影",
+	"name": "酷影",
+	"type": 3,
+	"api": "csp_AppYsV2",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "http://cms.realdou.cn/api.php/app/",
+	"categories": [
+	"4K电影",
+	"4K电视剧",
+	"电影",
+	"电视剧",
+	"动漫",
+	"综艺"
+	]
     },
     {
       "key": "XYQH_电影港",
