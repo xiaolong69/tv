@@ -248,15 +248,6 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/czspp.js"
     },
     {
-	"key":"csp_DuoX",
-	"name":"(良)多线",
-	"type":3,
-	"api":"csp_DuoX",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1
-    },
-    {
       "key": "js_ddys",
       "name": "(良)低端",
       "type": 3,
@@ -667,6 +658,15 @@
 	"动漫",
 	"综艺"
 	]
+    },
+    {
+	"key":"csp_DuoX",
+	"name":"多线",
+	"type":3,
+	"api":"csp_DuoX",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1
     },
     {
       "key": "XYQH_电影港",
