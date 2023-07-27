@@ -550,16 +550,6 @@
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
     },
     {
-      "key": "js_布蕾",
-      "name": "(良)布雷蓝光",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/布蕾蓝光.js"
-    },
-    {
       "key": "drpy_js_创艺",
       "name": "(良)创艺影视",
       "type": 3,
@@ -568,17 +558,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/chuangyi.js"
-    },
-    {
-      "key": "侦探TV",
-      "name": "(良)侦探盒子",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 1,
-      "ext": "http://big.lfytyl.com/api.php/app/"
     },
     {
       "key": "app_轻简",
@@ -630,6 +609,17 @@
 	"动漫",
 	"综艺"
 	]
+    },
+    {
+      "key": "侦探TV",
+      "name": "侦探盒子",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 1,
+      "ext": "http://big.lfytyl.com/api.php/app/"
     },
     {
 	"key":"csp_DuoX",
