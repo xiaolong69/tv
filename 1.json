@@ -248,6 +248,16 @@
       "ext": "https://bitbucket.org/xduo/json/raw/master/shiliu.json"
     },
     {
+      "key": "鲸落",
+      "name": "(良)鲸落",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/jingluo.json"
+    },
+    {
       "key": "csp_dadagui",
       "name": "(良)达龟影视",
       "type": 3,
