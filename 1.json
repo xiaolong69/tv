@@ -545,6 +545,46 @@
 	"ext": "https://bitbucket.org/xduo/json/raw/master/moli.json"
     },	
     {
+      "key": "csp_瓜瓜",
+      "name": "瓜瓜影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://lg.tvcms.top/api.php/app/"
+    },
+    {
+      "key": "csp_aidi",
+      "name": "爱迪高清",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+    },
+    {
+      "key": "csp_蘑菇影视",
+      "name": "蘑菇影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.gvideo.me/api.php/app/"
+    },
+    {
+      "key": "js_磁力熊",
+      "name": "贝尔磁力",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/bear.js"
+    },
+    {
       "key": "app_轻简",
       "name": "轻简影视",
       "type": 1,
