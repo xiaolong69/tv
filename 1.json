@@ -172,14 +172,16 @@
       "filterable": 1
     },
     {
-      "key": "dr_厂长资源",
+      "key": "csp_Czsapp",
       "name": "(良)厂长[JS]",
       "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
-      "searchable": 0,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/czspp.js"
+      "filterable": 1,
+      "jar": "https://jihulab.com/duomv/duo/-/raw/main/spider.txt;md5;6F4C05A1C7BEF05DBF3F658FFFB9EE0A",
+      "ext": "https://czzy.fun"
     },
     {
       "key": "csp_aidi",
