@@ -585,6 +585,46 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/bear.js"
     },
     {
+      "key": "js_在线之家",
+      "name": "超前影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/zxzj.js"
+    },
+    {
+      "key": "csp_FreeOK",
+      "name": "富瑞影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/free.json"
+    },
+    {
+      "key": "js_酷客",
+      "name": "酷客影院",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/莱米.js"
+    },
+    {
+      "key": "js_bzys",
+      "name": "B站影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/bzys.js"
+    },
+    {
       "key": "app_轻简",
       "name": "轻简影视",
       "type": 1,
