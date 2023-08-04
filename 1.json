@@ -683,7 +683,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://ytcms.lfytyl.com/api.php/app/"
+      "ext": "http://yt3353.lfytyl.com/api.php/app/"
     },
     {
       "key": "csp_yayaya",
@@ -1410,5 +1410,5 @@
   "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://yydsys.top/bg.php","warningText": "提醒：用前请刷新",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/9/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/10/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
 }
