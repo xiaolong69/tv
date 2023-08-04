@@ -766,7 +766,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/10/jar/ali.jar;md5;4A4D30C599FE94670D5B89B1005F9987",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
     },
     {
@@ -777,7 +776,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/10/jar/ali.jar;md5;4A4D30C599FE94670D5B89B1005F9987",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
@@ -788,7 +786,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/10/jar/ali.jar;md5;4A4D30C599FE94670D5B89B1005F9987",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
@@ -799,7 +796,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/10/jar/ali.jar;md5;4A4D30C599FE94670D5B89B1005F9987",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
@@ -810,7 +806,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/10/jar/ali.jar;md5;4A4D30C599FE94670D5B89B1005F9987",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
@@ -821,7 +816,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/10/jar/ali.jar;md5;4A4D30C599FE94670D5B89B1005F9987",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
@@ -832,12 +826,21 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/10/jar/ali.jar;md5;4A4D30C599FE94670D5B89B1005F9987",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
       "key": "Zhaozy",
       "name": "阿里找片",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "阿里获取Token",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
