@@ -11,6 +11,16 @@
 	"ext": "https://www.zxzj.pro/"
     },		
     {
+      "key": "js_在线之家",
+      "name": "(优)超前影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/zxzj.js"
+    },
+    {
       "key": "csp_Nmys",
       "name": "(优)农民影视",
       "type": 3,
@@ -69,6 +79,17 @@
         "泰剧",
         "体育"
       ]
+    },
+    {
+      "key": "js_荐片",
+      "name": "(优)荐片",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/荐片.js",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "js_企鹅",
@@ -546,7 +567,7 @@
     },	
     {
       "key": "csp_瓜瓜",
-      "name": "瓜瓜影视",
+      "name": "(良)瓜瓜影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -555,18 +576,8 @@
       "ext": "https://lg.tvcms.top/api.php/app/"
     },
     {
-      "key": "csp_aidi",
-      "name": "爱迪高清",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://aidiapp.xyz/xgapp.php/v2/"
-    },
-    {
       "key": "csp_蘑菇影视",
-      "name": "蘑菇影视",
+      "name": "(良)蘑菇影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -583,16 +594,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/bear.js"
-    },
-    {
-      "key": "js_在线之家",
-      "name": "超前影视",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/zxzj.js"
     },
     {
       "key": "csp_FreeOK",
@@ -637,17 +638,6 @@
       ]
     },
     {
-      "key": "js_荐片",
-      "name": "荐片影视",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/荐片.js",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "js_酷云",
       "name": "七七",
       "type": 3,
@@ -658,26 +648,8 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/77.js"
     },
     {
-	"key": "csp_酷影",
-	"name": "酷影",
-	"type": 3,
-	"api": "csp_AppYsV2",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "http://cms.realdou.cn/api.php/app/",
-	"categories": [
-	"4K电影",
-	"4K电视剧",
-	"电影",
-	"电视剧",
-	"动漫",
-	"综艺"
-	]
-    },
-    {
       "key": "侦探TV",
-      "name": "侦探盒子",
+      "name": "(良)侦探盒子",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -687,22 +659,13 @@
     },
     {
       "key": "csp_yayaya",
-      "name": "耐菲影视",
+      "name": "(良)耐菲影视",
       "api": "csp_AppYsV2",
       "type": 3,
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-    },
-    {
-	"key":"csp_DuoX",
-	"name":"多线",
-	"type":3,
-	"api":"csp_DuoX",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1
     },
     {
         "key": "csp_mdd",      
