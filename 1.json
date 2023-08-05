@@ -251,6 +251,16 @@
       "filterable": 1
     },
     {
+      "key": "js_bzys",
+      "name": "(良)B站影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/bzys.js"
+    },
+    {
       "key": "csp_TVB",
       "name": "(良)TVB云播",
       "type": 3,
@@ -586,28 +596,8 @@
       "ext": "http://www.gvideo.me/api.php/app/"
     },
     {
-      "key": "js_磁力熊",
-      "name": "贝尔磁力",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/bear.js"
-    },
-    {
-      "key": "csp_FreeOK",
-      "name": "富瑞影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/free.json"
-    },
-    {
       "key": "js_酷客",
-      "name": "酷客影院",
+      "name": "(良)酷客影院",
       "type": 3,
       "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
       "searchable": 1,
@@ -616,14 +606,34 @@
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/莱米.js"
     },
     {
-      "key": "js_bzys",
-      "name": "B站影视",
+      "key": "侦探TV",
+      "name": "(良)侦探盒子",
       "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/bzys.js"
+      "ext": "http://yt3353.lfytyl.com/api.php/app/"
+    },
+    {
+        "key": "csp_mdd",      
+	"name": "(良)萌蛋影视",
+        "type": 3,      
+	"api": "csp_AppYsV2",
+        "searchable": 1,      
+	"quickSearch": 1,
+        "filterable": 1,      
+	"ext": "http://app.mengdandan.com/xgapp.php/v1/"
+    }, 
+    {
+      "key": "csp_yayaya",
+      "name": "(良)耐菲影视",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
     },
     {
       "key": "app_轻简",
@@ -638,6 +648,16 @@
       ]
     },
     {
+      "key": "csp_FreeOK",
+      "name": "富瑞影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/free.json"
+    },
+    {
       "key": "js_酷云",
       "name": "七七",
       "type": 3,
@@ -647,36 +667,6 @@
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/77.js"
     },
-    {
-      "key": "侦探TV",
-      "name": "(良)侦探盒子",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://yt3353.lfytyl.com/api.php/app/"
-    },
-    {
-      "key": "csp_yayaya",
-      "name": "(良)耐菲影视",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-    },
-    {
-        "key": "csp_mdd",      
-	"name": "萌蛋影视",
-        "type": 3,      
-	"api": "csp_AppYsV2",
-        "searchable": 1,      
-	"quickSearch": 1,
-        "filterable": 1,      
-	"ext": "http://app.mengdandan.com/xgapp.php/v1/"
-    }, 
     {
       "key": "csp_Auete",
       "name": "Auete",
@@ -694,6 +684,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "js_磁力熊",
+      "name": "贝尔磁力",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/bear.js"
     },
     {
       "key": "XYQH_电影港",
