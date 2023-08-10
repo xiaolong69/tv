@@ -695,6 +695,21 @@
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/bear.js"
     },
+     {
+      "key": "csp_woggcli",
+      "name": "玩偶磁力",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ali_cli",
+      "name": "聚搜磁力",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/ali/cli_Ali"
+    },
     {
       "key": "XYQH_电影港",
       "name": "港口(磁力)",
