@@ -14,11 +14,11 @@
       "key": "js_在线之家",
       "name": "(优)超前影视",
       "type": 3,
-      "api": "https://jihulab.com/duomv/duo/-/raw/main/js/drpymin2.js",
+      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duo/-/raw/main/js/zxzj.js"
+      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/zxzj.js"
     },
     {
       "key": "csp_Nmys",
