@@ -81,17 +81,6 @@
       ]
     },
     {
-      "key": "js_荐片",
-      "name": "(优)荐片",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
-      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/荐片.js",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "js_企鹅",
       "name": "(优)腾讯[解析]",
       "type": 3,
@@ -684,6 +673,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "js_荐片",
+      "name": "荐片",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/荐片.js",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "js_磁力熊",
