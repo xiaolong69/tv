@@ -183,15 +183,14 @@
     },
     {
       "key": "csp_Czsapp",
-      "name": "(良)厂长[JS]",
+      "name": "(良)厂长",
       "type": 3,
       "api": "csp_Czsapp",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/10/txt/spider.txt;md5;8B4D7815240224E910848D075A884058",
-      "ext": "https://czzy.fun"
+      "playerType": 2,
+      "ext": "https://cz01.me/"
     },
     {
       "key": "csp_aidi",
@@ -582,7 +581,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://www.gvideo.me/api.php/app/"
+      "ext": "http://guan.yy365.vip/api.php/app/"
     },
     {
       "key": "js_酷客",
@@ -1407,5 +1406,5 @@
   "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://yydsys.top/bg.php","warningText": "提醒：用前请刷新",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/10/custom_spider.jar;md5;8754968720B3083DC6D5E0F3F45D170F"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
 }
