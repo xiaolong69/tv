@@ -698,16 +698,21 @@
       "key": "csp_woggcli",
       "name": "玩偶磁力",
       "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
     },
     {
-      "key": "ali_cli",
+      "key": "聚搜磁力",
       "name": "聚搜磁力",
       "type": 4,
-      "api": "http://home.jundie.top:9520/ali/cli_Ali"
+      "api": "http://home.jundie.top:9520/ali/cli_Alii",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
     },
     {
       "key": "XYQH_电影港",
@@ -715,7 +720,7 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHiker",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/10/txt/spider.txt;md5;8B4D7815240224E910848D075A884058",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/txt/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
       "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
     },
     {
@@ -724,7 +729,7 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHikerAL",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/10/txt/spider.txt;md5;8B4D7815240224E910848D075A884058",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/txt/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
       "ext": "https://bitbucket.org/xduo/json/raw/master/4khdr.json"
     },
     {
@@ -732,7 +737,7 @@
       "name": "阿里YP",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/10/txt/spider.txt;md5;8B4D7815240224E910848D075A884058",
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/txt/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
       "ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"
     },
     {
