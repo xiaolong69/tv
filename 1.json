@@ -201,15 +201,6 @@
 	"ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
-      "key": "csp_Dy1010",
-      "name": "(良)双十影院",
-      "type": 3,
-      "api": "csp_Dy1010",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "js_bzys",
       "name": "(良)B站影视",
       "type": 3,
@@ -653,6 +644,15 @@
 	"quickSearch": 1,
 	"filterable": 1,
 	"ext": "https://bitbucket.org/xduo/json/raw/master/yulong.json"
+    },
+    {
+      "key": "csp_Dy1010",
+      "name": "双十影院",
+      "type": 3,
+      "api": "csp_Dy1010",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "js_荐片",
