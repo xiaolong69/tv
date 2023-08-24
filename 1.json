@@ -623,7 +623,17 @@
       "searchable": 1,
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
     },
-    {
+     {
+      "key": "js_ikanbot2",
+      "name": "爱看机器(良)",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/ikanbot2.js"
+    },
+   {
       "key": "app_轻简",
       "name": "轻简影视",
       "type": 1,
