@@ -184,16 +184,6 @@
       "ext": "https://aidiapp.xyz/xgapp.php/v2/"
     },
     {
-	"key": "csp_御龙",
-	"name": "(良)御龙",
-	"type": 3,
-	"api": "csp_XBPQ",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://bitbucket.org/xduo/json/raw/master/yulong.json"
-    },
-    {
 	"key":"csp_mini库",
 	"name":"(良)迷你库",
 	"type":3,
@@ -653,6 +643,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+	"key": "csp_御龙",
+	"name": "御龙",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://bitbucket.org/xduo/json/raw/master/yulong.json"
     },
     {
       "key": "js_荐片",
