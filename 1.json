@@ -239,16 +239,6 @@
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/bzys.js"
     },
     {
-      "key": "csp_TVB",
-      "name": "(良)TVB云播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/tvb云播.json"
-    },
-    {
       "key": "js_ddys",
       "name": "(良)低端",
       "type": 3,
