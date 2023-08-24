@@ -21,18 +21,8 @@
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/zxzj.js"
     },
     {
-      "key": "csp_Nmys",
-      "name": "(优)农民影视",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xiaolong69.github.io/tv/spider/8/json/Nmys.json"
-    },
-    {
 	"key": "js_农民",
-	"name": "(优)农民[JS]",
+	"name": "(优)农民影视",
 	"type": 3,
 	"api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
 	"searchable": 1,
