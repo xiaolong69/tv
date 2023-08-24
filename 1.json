@@ -625,7 +625,7 @@
     },
      {
       "key": "js_ikanbot2",
-      "name": "爱看机器(良)",
+      "name": "(良)爱看机器",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
       "searchable": 1,
