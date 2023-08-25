@@ -977,53 +977,48 @@
       "type": 1,
       "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
     },
-      {
+    {
       "name": "解析2",
       "type": 1,
-      "url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
-    },
-    {
-      "name": "解析3",
-      "type": 1,
-      "url": "https://b.umkan.cc/API.php?url=",
+      "url": "http://xhww.fun:63/小米特别爱肥猫.php?url=",
       "ext": {
         "flag": [
           "qq",
           "腾讯",
-          "企鹅",
-          "IQiYi",
           "qiyi",
-          "imgo",
           "爱奇艺",
           "奇艺",
           "youku",
-          "YouKu",
           "优酷",
           "sohu",
-          "SoHu",
           "搜狐",
           "letv",
-          "LeShi",
           "乐视",
-          "imgo",
           "mgtv",
-          "MangGuo",
           "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
+          "CL4K",
+          "renrenmi",
+          "ltnb",
           "bilibili",
-          "QEYSS",
+          "1905",
           "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ]
+          "nongmin",
+          "CL4K",
+          "xfyun",
+          "ffm3u8",
+          "lzm3u8",
+          "netease",
+          "pgyer",
+          "TD",
+          "qzone",
+          "FY",
+          "ppayun",
+          "Feiyun",
+          "zhibo"
+        ],
+        "header": {
+          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; PDHM00 Build/QKQ1.191222.002)"
+        }
       }
     },
     {
