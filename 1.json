@@ -52,6 +52,16 @@
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/乐猪TV.js"
     },
     {
+      "key": "js_ddys",
+      "name": "(优)低端",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/js/ddys.js"
+    },
+    {
       "key": "zy_新浪",
       "name": "(优)新浪资源",
       "type": 1,
@@ -211,16 +221,6 @@
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/bzys.js"
     },
     {
-      "key": "js_ddys",
-      "name": "(良)低端",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/js/ddys.js"
-    },
-    {
       "key": "XBPQ_石榴",
       "name": "(良)石榴",
       "type": 3,
@@ -286,16 +286,6 @@
 	"战争片"
 	]
     },
-    {
-	"key":"js_Lib",
-	"name": "(良)Libvio",
-	"type": 3,
-	"api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://jihulab.com/duomv/duox/-/raw/main/js/libvio.js"
-    },		
     {
       "key": "csp_Vofl",
       "name": "(良)Voflix",
@@ -654,6 +644,16 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/xduo/json/raw/master/jingluo.json"
     },
+    {
+	"key":"js_Lib",
+	"name": "Libvio",
+	"type": 3,
+	"api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://jihulab.com/duomv/duox/-/raw/main/js/libvio.js"
+    },		
     {
       "key": "js_荐片",
       "name": "荐片",
