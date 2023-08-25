@@ -410,6 +410,15 @@
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/ikanbot2.js"
     },
    {
+      "key": "csp_Cokemv",
+      "name": "(良)可乐影视",
+      "type": 3,
+      "api": "csp_Cokemv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "app_轻简",
       "name": "轻简影视",
       "type": 1,
@@ -439,15 +448,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_Cokemv",
-      "name": "可乐影视",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
 	"key": "csp_御龙",
