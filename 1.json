@@ -344,16 +344,6 @@
       "ext": "https://www.lgyy.vip"
     },
     {
-      "key": "js_稀饭",
-      "name": "(良)稀饭影视",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/稀饭.js"
-    },	
-    {
       "key": "csp_AppMr",
       "name": "(良)明明",
       "type": 3,
@@ -643,6 +633,16 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/小狗.js"
+    },	
+    {
+      "key": "js_稀饭",
+      "name": "稀饭影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/稀饭.js"
     },	
     {
       "key": "js_荐片",
