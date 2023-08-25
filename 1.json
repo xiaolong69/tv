@@ -390,36 +390,6 @@
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/莱米.js"
     },
     {
-      "key": "侦探TV",
-      "name": "(良)侦探盒子",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://yt3353.lfytyl.com/api.php/app/"
-    },
-    {
-        "key": "csp_mdd",      
-	"name": "(良)萌蛋影视",
-        "type": 3,      
-	"api": "csp_AppYsV2",
-        "searchable": 1,      
-	"quickSearch": 1,
-        "filterable": 1,      
-	"ext": "http://app.mengdandan.com/xgapp.php/v1/"
-    }, 
-    {
-      "key": "csp_yayaya",
-      "name": "(良)耐菲影视",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-    },
-     {
       "key": "js_ikanbot2",
       "name": "(良)爱看机器",
       "type": 3,
@@ -645,6 +615,26 @@
       "ext": "https://lg.tvcms.top/api.php/app/"
     },
     {
+        "key": "csp_mdd",      
+	"name": "萌蛋影视",
+        "type": 3,      
+	"api": "csp_AppYsV2",
+        "searchable": 1,      
+	"quickSearch": 1,
+        "filterable": 1,      
+	"ext": "http://app.mengdandan.com/xgapp.php/v1/"
+    }, 
+    {
+      "key": "csp_yayaya",
+      "name": "耐菲影视",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+    },
+     {
       "key": "js_荐片",
       "name": "荐片",
       "type": 3,
