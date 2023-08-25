@@ -41,6 +41,16 @@
       "ext": "http://guan.yy365.vip/api.php/app/"
     },
     {
+      "key": "js_酷云",
+      "name": "(优)七七",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/77.js"
+    },
+    {
       "key": "csp_Czsapp",
       "name": "(优)厂长",
       "type": 3,
@@ -420,16 +430,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/xduo/json/raw/master/free.json"
-    },
-    {
-      "key": "js_酷云",
-      "name": "七七",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/77.js"
     },
     {
       "key": "csp_Auete",
