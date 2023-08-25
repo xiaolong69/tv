@@ -344,16 +344,6 @@
       "ext": "https://www.lgyy.vip"
     },
     {
-      "key": "js_电影先生",
-      "name": "(良)电影先生",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/电影先生.js"
-    },
-    {
       "key": "js_小狗影院",
       "name": "(良)小狗影院",
       "type": 3,
@@ -643,6 +633,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://bitbucket.org/xduo/json/raw/master/骚火电影.json"
+    },
+    {
+      "key": "js_电影先生",
+      "name": "电影先生",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/电影先生.js"
     },
     {
       "key": "js_荐片",
