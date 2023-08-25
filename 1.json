@@ -21,16 +21,6 @@
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/zxzj.js"
     },
     {
-	"key": "js_农民",
-	"name": "(优)农民影视",
-	"type": 3,
-	"api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://jihulab.com/duomv/duox/-/raw/main/js/nongmin.js"
-    },		
-    {
       "key": "csp_蘑菇影视",
       "name": "(优)蘑菇影视",
       "type": 3,
@@ -420,6 +410,16 @@
         "动漫"
       ]
     },
+    {
+	"key": "js_农民",
+	"name": "农民影视",
+	"type": 3,
+	"api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://jihulab.com/duomv/duox/-/raw/main/js/nongmin.js"
+    },		
     {
       "key": "drpy_js_乐猪",
       "name": "乐猪",
@@ -976,55 +976,6 @@
       "name": "解析1",
       "type": 1,
       "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
-    },
-    {
-      "name": "解析2",
-      "type": 1,
-      "url": "http://xhww.fun:63/小米特别爱肥猫.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "CL4K",
-          "renrenmi",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua",
-          "nongmin",
-          "CL4K",
-          "xfyun",
-          "ffm3u8",
-          "lzm3u8",
-          "netease",
-          "pgyer",
-          "TD",
-          "qzone",
-          "FY",
-          "ppayun",
-          "Feiyun",
-          "zhibo"
-        ],
-        "header": {
-          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; PDHM00 Build/QKQ1.191222.002)"
-        }
-      }
-    },
-     {
-      "name": "解析3",
-      "type": 0,
-      "url": "https://okjx.cc/?url="
     },
     {
       "name": "1号线",
