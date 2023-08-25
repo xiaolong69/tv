@@ -344,16 +344,6 @@
       "ext": "https://www.lgyy.vip"
     },
     {
-      "key": "js_小狗影院",
-      "name": "(良)小狗影院",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/小狗.js"
-    },	
-    {
       "key": "js_稀饭",
       "name": "(良)稀饭影视",
       "type": 3,
@@ -644,6 +634,16 @@
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/电影先生.js"
     },
+    {
+      "key": "js_小狗影院",
+      "name": "小狗影院",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/小狗.js"
+    },	
     {
       "key": "js_荐片",
       "name": "荐片",
