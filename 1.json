@@ -963,6 +963,11 @@
       "url": "Sequence"
     },
     {
+      "name": "Web解析",
+      "type": 3,
+      "url": "Web"
+    },
+    {
       "name": "自动解析",
       "type": 1,
       "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
