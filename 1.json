@@ -979,7 +979,7 @@
     },
      {
       "name": "解析2",
-      "type": 0,
+      "type": 1,
       "url": "https://jx.zhanlangbu.com/?url=",
       "ext": {
         "flag": [
