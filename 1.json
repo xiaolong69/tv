@@ -41,27 +41,6 @@
       "ext": "http://guan.yy365.vip/api.php/app/"
     },
     {
-      "key": "csp_Czsapp",
-      "name": "(优)厂长",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": "https://cz01.me/"
-    },
-    {
-      "key": "drpy_js_乐猪",
-      "name": "(优)乐猪",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/乐猪TV.js"
-    },
-    {
       "key": "js_ddys",
       "name": "(优)低端",
       "type": 3,
@@ -202,6 +181,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/xsj.js"
+    },
+    {
+      "key": "csp_Czsapp",
+      "name": "(良)厂长",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "https://cz01.me/"
     },
     {
       "key": "csp_aidi",
@@ -429,6 +419,16 @@
         "综艺",
         "动漫"
       ]
+    },
+    {
+      "key": "drpy_js_乐猪",
+      "name": "乐猪",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/乐猪TV.js"
     },
     {
       "key": "csp_FreeOK",
