@@ -324,16 +324,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_骚火",
-      "name": "(良)S火电影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/骚火电影.json"
-    },
-    {
 	"key": "csp_奇优",
 	"name": "(良)奇优影院",
 	"type": 3,
@@ -644,6 +634,16 @@
 	"filterable": 1,
 	"ext": "https://jihulab.com/duomv/duox/-/raw/main/js/libvio.js"
     },		
+    {
+      "key": "csp_骚火",
+      "name": "S火电影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/骚火电影.json"
+    },
     {
       "key": "js_荐片",
       "name": "荐片",
