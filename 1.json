@@ -1001,55 +1001,16 @@
             "name": "省流线路4",
             "type": 0,
             "url": "https://www.pangujiexi.com/pangu/?url="
+    },
+    {
+      "name": "省流线路5",
+      "url": "https://www.playm3u8.cn/jiexi.php?url=",
+      "type": 0
     },	
    {
       "name": "线路1",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url="
-    },
-    {
-      "name": "线路2",
-      "type": 0,
-      "url": "https://jx.quankan.app/?url="
-    },
-   {
-      "name": "线路3",
       "type": 1,
       "url": "http://111.230.24.38:4433/qingfeng.php/?url="
-    },
-    {
-      "name": "线路4",
-      "type": 0,
-      "url": "https://www.yemu.xyz/?url="
-    },
-    {
-      "name": "线路5",
-      "type": 0,
-      "url": "https://h5.freejson.xyz/player/?url="
-    },
-    {
-      "name": "线路6",
-      "url": "http://api.wpsseo.cn/?v=",
-      "type": 0
-    },
-    {
-      "name": "线路7",
-      "url": "https://www.8090g.cn/?url="
-    },
-    {
-      "name": "线路8",
-      "url": "https://jx.000180.top/jx/?url=",
-      "type": 0
-    },   
- {
-      "name": "线路9",
-      "url": "https://vip.bljiex.com/?v=",
-      "type": 0
-    },
-    {
-      "name": "线路10",
-      "url": "https://www.playm3u8.cn/jiexi.php?url=",
-      "type": 0
     }
   ],
   "flags": [
