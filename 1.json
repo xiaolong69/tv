@@ -845,8 +845,8 @@
 	"name": "MTV合集",
 	"type": 1,
 	"api": "https://mv.wogg.link/mv/vod",
-	"searchable": 1,
-	"quickSearch": 1,
+	"searchable": 0,
+	"quickSearch": 0,
 	"filterable": 1
     },
     {
@@ -874,8 +874,8 @@
       "name": "直播合集",
       "type": 3,
       "api": "csp_Yj1211",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1
     },
     {
@@ -883,8 +883,8 @@
       "name": "310直播",
       "type": 3,
       "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0,
       "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/310.js"
     }
