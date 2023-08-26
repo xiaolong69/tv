@@ -968,106 +968,101 @@
       "url": "Web"
     },
     {
-      "name": "自动解析",
+      "name": "优质线路1",
       "type": 1,
       "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
     },
     {
-      "name": "解析1",
-      "type": 1,
-      "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
-    },
-    {
-      "name": "解析5",
+      "name": "优质线路2",
       "type": 1,
       "url": "http:/xhww.fun:63/小米.php?url="
     },
     {
-      "name": "解析11",
+      "name": "优质线路3",
+      "type": 1,
+      "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
+    },
+    {
+      "name": "省流线路1",
       "url": "https://www.8090.la/8090/?url=",
       "type": 0
     },
     {
-      "name": "解析12",
+      "name": "省流线路2",
       "url": "https://www.8090g.cn/?url=",
       "type": 0
     },
     {
-      "name": "解析15",
+      "name": "省流线路3",
       "url": "https://www.ckplayer.vip/jiexi/?url=",
       "type": 0
     },
      {
-            "name": "5号线",
+            "name": "省流线路4",
             "type": 0,
             "url": "https://www.pangujiexi.com/pangu/?url="
-        },	
-	{
-      "name": "解析2",
-      "type": 0,
-      "url": "https://www.pangujiexi.cc/jiexi.php?url="
-    },
+    },	
    {
-      "name": "解析3",
+      "name": "线路1",
       "type": 0,
       "url": "https://jx.yparse.com/index.php?url="
     },
     {
-      "name": "解析4",
+      "name": "线路2",
       "type": 0,
       "url": "https://jx.quankan.app/?url="
     },
    {
-      "name": "解析6",
+      "name": "线路3",
       "type": 1,
       "url": "http://111.230.24.38:4433/qingfeng.php/?url="
     },
     {
-      "name": "解析7",
+      "name": "线路4",
       "type": 0,
       "url": "https://www.yemu.xyz/?url="
     },
     {
-      "name": "解析8",
+      "name": "线路5",
       "type": 0,
       "url": "https://h5.freejson.xyz/player/?url="
     },
     {
-      "name": "解析9",
+      "name": "线路6",
       "url": "http://api.wpsseo.cn/?v=",
       "type": 0
     },
     {
-      "name": "解析10",
+      "name": "线路7",
       "url": "https://www.8090g.cn/?url="
     },
     {
-      "name": "解析13",
+      "name": "线路8",
       "url": "https://jx.000180.top/jx/?url=",
       "type": 0
     },   
  {
-      "name": "解析14",
+      "name": "线路9",
       "url": "https://vip.bljiex.com/?v=",
       "type": 0
     },
     {
-      "name": "解析16",
+      "name": "线路10",
       "url": "https://www.playm3u8.cn/jiexi.php?url=",
       "type": 0
     },
    {
-      "name": "解析17",
+      "name": "线路11",
       "url": "https://jx.yparse.com/index.php?url=",
       "type": 0
     },
      {
-      "name": "解析18",
+      "name": "线路12",
       "url": "https://www.xymav.com/?url=",
       "type": 0
     },
     {
-      "name": "1号线",
+      "name": "线路13",
       "type": 0,
       "url": "https://vip.lianfaka.com/vip/?url=",
       "ext": {
@@ -1096,27 +1091,27 @@
       }
     },
         {
-            "name": "2号线",
+            "name": "线路14",
             "type": 0,
             "url": "https://jx.xmflv.com/?url="
         },
 		{
-            "name": "3号线",
+            "name": "线路15",
             "type": 0,
             "url": "https://www.pouyun.com/?url="
         },
 		{
-            "name": "4号线",
+            "name": "线路16",
             "type": 0,
             "url": "https://api.jiexi.la/?url="
         },
 		{
-            "name": "6号线",
+            "name": "线路17",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
         },		
         {
-            "name": "7号线",
+            "name": "线路18",
             "type": 0,
             "url": "https://www.yemu.xyz/?url=",
             "ext": {
@@ -1143,7 +1138,7 @@
             }
         },
         {
-      "name": "8号线",
+      "name": "线路19",
       "type": 0,
       "url": "https://jx.zhanlangbu.com/?url=",
       "ext": {
@@ -1172,7 +1167,7 @@
       }
     },
     {
-      "name": "9号线",
+      "name": "线路20",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
     }
