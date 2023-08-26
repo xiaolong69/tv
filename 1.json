@@ -978,6 +978,31 @@
       "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
     },
     {
+      "name": "解析5",
+      "type": 1,
+      "url": "http:/xhww.fun:63/小米.php?url="
+    },
+    {
+      "name": "解析11",
+      "url": "https://www.8090.la/8090/?url=",
+      "type": 0
+    },
+    {
+      "name": "解析12",
+      "url": "https://www.8090g.cn/?url=",
+      "type": 0
+    },
+    {
+      "name": "解析15",
+      "url": "https://www.ckplayer.vip/jiexi/?url=",
+      "type": 0
+    },
+     {
+            "name": "5号线",
+            "type": 0,
+            "url": "https://www.pangujiexi.com/pangu/?url="
+        },	
+	{
       "name": "解析2",
       "type": 0,
       "url": "https://www.pangujiexi.cc/jiexi.php?url="
@@ -993,11 +1018,6 @@
       "url": "https://jx.quankan.app/?url="
     },
    {
-      "name": "解析5",
-      "type": 1,
-      "url": "http:/xhww.fun:63/小米.php?url="
-    },
-    {
       "name": "解析6",
       "type": 1,
       "url": "http://111.230.24.38:4433/qingfeng.php/?url="
@@ -1022,16 +1042,6 @@
       "url": "https://www.8090g.cn/?url="
     },
     {
-      "name": "解析11",
-      "url": "https://www.8090.la/8090/?url=",
-      "type": 0
-    },
-    {
-      "name": "解析12",
-      "url": "https://www.8090g.cn/?url=",
-      "type": 0
-    },
-     {
       "name": "解析13",
       "url": "https://jx.000180.top/jx/?url=",
       "type": 0
@@ -1039,11 +1049,6 @@
  {
       "name": "解析14",
       "url": "https://vip.bljiex.com/?v=",
-      "type": 0
-    },
-    {
-      "name": "解析15",
-      "url": "https://www.ckplayer.vip/jiexi/?url=",
       "type": 0
     },
     {
@@ -1106,11 +1111,6 @@
             "url": "https://api.jiexi.la/?url="
         },
 		{
-            "name": "5号线",
-            "type": 0,
-            "url": "https://www.pangujiexi.com/pangu/?url="
-        },	
-	{
             "name": "6号线",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
