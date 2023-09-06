@@ -844,15 +844,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://xiaolong69.github.io/tv/spider/11/json/网易CC.json"
-    },
-    {
-      "key": "csp_Yj1211",
-      "name": "直播合集",
-      "type": 3,
-      "api": "csp_Yj1211",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
     }
   ],
   "lives":[
