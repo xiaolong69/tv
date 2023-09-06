@@ -843,16 +843,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1
-    },
-    {
-      "key": "js_310直播",
-      "name": "310直播",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/310.js"
     }
   ],
   "lives":[
