@@ -668,36 +668,6 @@
       "filterable": 1
     },
     {
-      "key": "js_磁力熊",
-      "name": "贝尔磁力",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/duox/-/raw/main/js/drpymin2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/duox/-/raw/main/js/bear.js"
-    },
-     {
-      "key": "csp_woggcli",
-      "name": "玩偶磁力",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
-      "key": "聚搜磁力",
-      "name": "聚搜磁力",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/ali/cli_Alii",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-    },
-    {
       "key": "csp_WoGG",
       "name": "阿里玩偶",
       "type": 3,
