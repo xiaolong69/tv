@@ -22,8 +22,8 @@ var rule = {
     host:'https://api.live.bilibili.com',
     homeUrl:'/xlive/web-interface/v1/second/getUserRecommend?page=1&page_size=30&platform=web',//用于"分类获取"和"推荐获取"
     url:'/xlive/web-interface/v1/second/getList?platform=web&parent_area_id=fyclass&area_id=fyfilter&sort_type=online&page=fypage',
-    class_name:'生活&网游&手游&单机游戏&娱乐&电台&虚拟主播&知识&赛事',
-    class_url:'10&2&3&6&1&5&9&11&13',
+    class_name:'网游&手游&单机游戏&虚拟主播&知识&赛事',
+    class_url:'2&3&6&9&11&13',
     filterable: 1,
     filter_url: '{{fl.area}}',
     filter_def:{
