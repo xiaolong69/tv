@@ -698,32 +698,6 @@
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
     },
     {
-      "key": "XYQH_电影港",
-      "name": "港口(磁力)",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_XYQHiker",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/txt/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
-      "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
-    },
-    {
-      "key": "XYQaL_4kHDR",
-      "name": "4kHDR(磁力+阿里YP)",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_XYQHikerAL",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/txt/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
-      "ext": "https://bitbucket.org/xduo/json/raw/master/4khdr.json"
-    },
-    {
-      "key": "cps_aliyunpan",
-      "name": "阿里YP",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/txt/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
-      "ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"
-    },
-    {
       "key": "csp_WoGG",
       "name": "阿里玩偶",
       "type": 3,
