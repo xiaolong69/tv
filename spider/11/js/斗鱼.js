@@ -28,8 +28,8 @@ var rule = {
         znl:{cateId:'znl'},
         scjj:{cateId:'znl'}
     },
-    class_name:'娱乐天地&网游竞技&单机热游&手游休闲&颜值&科技文化&语音互动&语音直播&正能量&赛车竞技',// /api/cate/list
-    class_url:'yl&PCgame&djry&syxx&yz&kjwh&yp&voice&znl&scjj',
+    class_name:'娱乐天地&网游竞技&单机热游&手游休闲&科技文化&语音互动&语音直播&正能量&赛车竞技',// /api/cate/list
+    class_url:'yl&PCgame&djry&syxx&kjwh&yp&voice&znl&scjj',
     // detailUrl:'/fyid',//二级详情拼接链接(json格式用)
     detailUrl: 'http://live.yj1211.work/api/live/getRoomInfo?uid=&platform=douyu&roomId=fyid',// JustLive
     searchUrl:'/api/search/liveRoom?#did=10000000000000000000000000001501&limit=20&offset=0&sk=**;post',
