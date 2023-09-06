@@ -38,7 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/js/ddys.js"
+      "ext": "https://xiaolong69.github.io/tv/spider/11/js/ddys.js"
     },
     {
       "key": "骑骑影院",
@@ -703,7 +703,7 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHiker",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/txt/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/txt/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
       "ext": "https://bitbucket.org/xduo/json/raw/master/港口.json"
     },
     {
@@ -712,7 +712,7 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_XYQHikerAL",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/txt/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/txt/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
       "ext": "https://bitbucket.org/xduo/json/raw/master/4khdr.json"
     },
     {
@@ -720,7 +720,7 @@
       "name": "阿里YP",
       "type": 3,
       "api": "csp_XYQHikerAL",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/txt/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/txt/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C",
       "ext": "https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"
     },
     {
@@ -860,7 +860,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/js/B站精简.js?v=20230430"
+      "ext": "https://xiaolong69.github.io/tv/spider/4/js/B站精简.js?v=20230430"
     },
     {
 	"key": "MV_vod",
@@ -1235,5 +1235,5 @@
   ],
   "wallpaper": "https://yydsys.top/bg.php",
   "warningText": "提醒：用前请刷新",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/custom_spider.jar;md5;1FFF6D331BFDA53590174A65D5844171"
 }
