@@ -42,6 +42,23 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
+	"key":"csp_mini库",
+	"name":"(优)迷你库",
+	"type":3,
+	"api":"csp_AppYsV2",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":"http://www.miniku.cc/xgapp.php/v1/"
+    },
+    {
+	"key": "apv2_瑞丰",
+	"name": "(优)瑞丰",
+	"type": 3,
+	"api": "csp_AppYsV2",
+	"ext": "http://www.miniku.cc/xgapp.php/v2/"
+    },
+    {
       "key": "zy_新浪",
       "name": "(优)新浪资源",
       "type": 1,
@@ -192,23 +209,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://aidiapp.xyz/xgapp.php/v2/"
-    },
-    {
-	"key":"csp_mini库",
-	"name":"(良)迷你库",
-	"type":3,
-	"api":"csp_AppYsV2",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1,
-	"ext":"http://www.miniku.cc/xgapp.php/v1/"
-    },
-    {
-	"key": "apv2_瑞丰",
-	"name": "(良)瑞丰影视",
-	"type": 3,
-	"api": "csp_AppYsV2",
-	"ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
       "key": "js_bzys",
