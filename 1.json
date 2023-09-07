@@ -370,16 +370,6 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/莱米.js"
     },
     {
-      "key": "js_ikanbot2",
-      "name": "(良)爱看机器",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/ikanbot2.js"
-    },
-   {
       "key": "csp_Cokemv",
       "name": "(良)可乐影视",
       "type": 3,
@@ -500,6 +490,16 @@
       "filterable": 1
     },
     {
+      "key": "js_ikanbot2",
+      "name": "爱看机器",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/ikanbot2.js"
+    },
+   {
       "key": "鲸落",
       "name": "鲸落",
       "type": 3,
