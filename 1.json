@@ -211,16 +211,6 @@
       "ext": "https://aidiapp.xyz/xgapp.php/v2/"
     },
     {
-      "key": "js_bzys",
-      "name": "(良)B站影视",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/bzys.js"
-    },
-    {
       "key": "XBPQ_石榴",
       "name": "(良)石榴",
       "type": 3,
@@ -460,6 +450,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/77.js"
+    },
+    {
+      "key": "js_bzys",
+      "name": "B站影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/bzys.js"
     },
     {
       "key": "csp_FreeOK",
