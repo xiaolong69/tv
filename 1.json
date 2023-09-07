@@ -31,16 +31,6 @@
       "ext": "http://guan.yy365.vip/api.php/app/"
     },
     {
-      "key": "js_ddys",
-      "name": "(优)低端",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xiaolong69.github.io/tv/spider/11/js/ddys.js"
-    },
-    {
       "key": "骑骑影院",
       "name": "(优)骑骑",
       "type": 3,
@@ -52,25 +42,14 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
-      "key": "js_悠米",
-      "name": "(优)悠米",
+      "key": "js_ddys",
+      "name": "(优)低端",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/youmi.js"
-    },
-    {
-      "key": "js_秒看",
-      "name": "(优)秒看",
-      "type": 3,
-      "playerType": 2,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/ytcms.js"
+      "ext": "https://xiaolong69.github.io/tv/spider/11/js/ddys.js"
     },
     {
       "key": "zy_新浪",
@@ -101,16 +80,6 @@
         "泰剧",
         "体育"
       ]
-    },
-    {
-      "key": "js_酷云",
-      "name": "(优)七七[省流]",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/77.js"
     },
     {
       "key": "js_企鹅",
@@ -461,6 +430,37 @@
 	"filterable": 1,
 	"ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nongmin.js"
     },		
+    {
+      "key": "js_悠米",
+      "name": "悠米",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/youmi.js"
+    },
+    {
+      "key": "js_秒看",
+      "name": "秒看",
+      "type": 3,
+      "playerType": 2,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/ytcms.js"
+    },
+    {
+      "key": "js_酷云",
+      "name": "七七",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/77.js"
+    },
     {
       "key": "csp_FreeOK",
       "name": "富瑞影院",
