@@ -28,7 +28,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://guan.yy365.vip/api.php/app/"
+      "ext": "http://11111111.moguys.xyz/api.php/app/"
     },
     {
       "key": "js_ddys",
@@ -205,15 +205,14 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/xsj.js"
     },
     {
-      "key": "csp_Czsapp",
+      "key": "js_czsapp",
       "name": "(良)厂长",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
-      "ext": "https://cz01.me/"
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/czspp.js"
     },
     {
       "key": "drpy_js_乐猪",
@@ -811,8 +810,8 @@
 	"name": "MTV合集",
 	"type": 1,
 	"api": "https://mv.wogg.link/mv/vod",
-	"searchable": 0,
-	"quickSearch": 0,
+	"searchable": 1,
+	"quickSearch": 1,
 	"filterable": 1
     },
     {
