@@ -42,16 +42,6 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
-      "key": "js_ddys",
-      "name": "(优)低端",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/js/ddys.js"
-    },
-    {
       "key": "zy_新浪",
       "name": "(优)新浪资源",
       "type": 1,
@@ -174,16 +164,6 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/xsj.js"
     },
     {
-      "key": "js_czsapp",
-      "name": "(良)厂长",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/czspp.js"
-    },
-    {
       "key": "drpy_js_乐猪",
       "name": "(良)乐猪",
       "type": 3,
@@ -192,6 +172,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/乐猪TV.js"
+    },
+    {
+      "key": "js_ddys",
+      "name": "(良)低端",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/js/ddys.js"
     },
     {
       "key": "csp_aidi",
@@ -407,6 +397,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "js_czsapp",
+      "name": "(良)厂长",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/czspp.js"
     },
     {
       "key": "app_轻简",
