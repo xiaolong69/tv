@@ -21,16 +21,6 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/zxzj.js"
     },
     {
-      "key": "csp_蘑菇影视",
-      "name": "(优)蘑菇影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://guan.yy365.vip/api.php/app/"
-    },
-    {
       "key": "骑骑影院",
       "name": "(优)骑骑",
       "type": 3,
@@ -389,6 +379,26 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/czspp.js"
     },
     {
+      "key": "js_ikanbot2",
+      "name": "(良)爱看机器",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/ikanbot2.js"
+    },
+   {
+	"key":"js_Lib",
+	"name": "(良)Libvio",
+	"type": 3,
+	"api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/libvio.js"
+    },		
+    {
       "key": "app_轻简",
       "name": "轻简影视",
       "type": 1,
@@ -410,6 +420,16 @@
 	"filterable": 1,
 	"ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nongmin.js"
     },		
+    {
+      "key": "csp_蘑菇影视",
+      "name": "蘑菇影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://guan.yy365.vip/api.php/app/"
+    },
     {
       "key": "js_悠米",
       "name": "悠米",
@@ -490,16 +510,6 @@
       "filterable": 1
     },
     {
-      "key": "js_ikanbot2",
-      "name": "爱看机器",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/ikanbot2.js"
-    },
-   {
       "key": "鲸落",
       "name": "鲸落",
       "type": 3,
@@ -509,16 +519,6 @@
       "filterable": 1,
       "ext": "https://bitbucket.org/xduo/json/raw/master/jingluo.json"
     },
-    {
-	"key":"js_Lib",
-	"name": "Libvio",
-	"type": 3,
-	"api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/libvio.js"
-    },		
     {
       "key": "csp_骚火",
       "name": "S火电影",
