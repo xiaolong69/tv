@@ -49,6 +49,26 @@
 	"ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
+      "key": "js_nangua",
+      "name": "(优)南瓜",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
+    },
+    {
+      "key": "csp_lianyu",
+      "name": "(优)恋雨",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://mp4.ghlyys.com/api.php/app/"
+    },
+    {
       "key": "zy_新浪",
       "name": "(优)新浪资源",
       "type": 1,
@@ -410,36 +430,6 @@
       "filterable": 1
     },
     {
-      "key": "js_nangua",
-      "name": "南瓜",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
-    },
-    {
-      "key": "csp_lianyu",
-      "name": "恋雨",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://mp4.ghlyys.com/api.php/app/"
-    },
-    {
-      "key": "js_star",
-      "name": "星辰",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/star.js"
-    },
-    {
       "key": "app_轻简",
       "name": "轻简影视",
       "type": 1,
@@ -501,6 +491,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/77.js"
+    },
+    {
+      "key": "js_star",
+      "name": "星辰",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/star.js"
     },
     {
       "key": "js_bzys",
