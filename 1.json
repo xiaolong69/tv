@@ -262,6 +262,16 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/xsj.js"
     },
     {
+      "key": "csp_YQKAPP",
+      "name": "(良)一起看",
+      "type": 3,
+      "api": "csp_YQKAPP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://hk-api-cf.yqk5659.com"
+    },
+    {
       "key": "csp_AppMr",
       "name": "(良)明明",
       "type": 3,
@@ -354,16 +364,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_YQKAPP",
-      "name": "(良)一起看",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://hk-api-cf.yqk5659.com"
     },
     {
       "key": "Kuaikan",
