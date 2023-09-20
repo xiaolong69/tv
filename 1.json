@@ -531,6 +531,25 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/小狗.js"
     },	
     {
+      "key": "csp_FreeOK",
+      "name": "(良)富瑞影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/free.json"
+    },
+    {
+      "key": "csp_Auete",
+      "name": "(良)Auete",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "鲸落",
       "name": "(良)鲸落",
       "type": 3,
@@ -595,16 +614,6 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/77.js"
     },
     {
-      "key": "js_star",
-      "name": "星辰",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/star.js"
-    },
-    {
       "key": "js_bzys",
       "name": "B站影视",
       "type": 3,
@@ -615,23 +624,14 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/bzys.js"
     },
     {
-      "key": "csp_FreeOK",
-      "name": "富瑞影院",
+      "key": "js_star",
+      "name": "星辰",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/free.json"
-    },
-    {
-      "key": "csp_Auete",
-      "name": "Auete",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/star.js"
     },
     {
       "key": "csp_Dy1010",
