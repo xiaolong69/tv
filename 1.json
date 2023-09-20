@@ -541,6 +541,16 @@
       "ext": "https://bitbucket.org/xduo/json/raw/master/free.json"
     },
     {
+      "key": "js_star",
+      "name": "(良)星辰",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/star.js"
+    },
+    {
       "key": "csp_Auete",
       "name": "(良)Auete",
       "type": 3,
@@ -622,16 +632,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/bzys.js"
-    },
-    {
-      "key": "js_star",
-      "name": "星辰",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/star.js"
     },
     {
       "key": "csp_Dy1010",
