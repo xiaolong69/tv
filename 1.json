@@ -366,15 +366,6 @@
       "filterable": 1
     },
     {
-      "key": "Kuaikan",
-      "name": "(良)快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
 	"key": "csp_奇优",
 	"name": "(良)奇优影院",
 	"type": 3,
@@ -661,6 +652,15 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://bitbucket.org/xduo/json/raw/master/金眼影视.json"
+    },
+    {
+      "key": "Kuaikan",
+      "name": "快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_WoGG",
