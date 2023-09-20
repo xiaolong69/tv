@@ -48,16 +48,6 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
     },
     {
-      "key": "csp_lianyu",
-      "name": "(优)恋雨",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://mp4.ghlyys.com/api.php/app/"
-    },
-    {
       "key": "csp_SNzy",
       "name": "(优)索尼高清",
       "type": 1,
@@ -612,6 +602,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/ytcms.js"
+    },
+    {
+      "key": "csp_lianyu",
+      "name": "恋雨",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://mp4.ghlyys.com/api.php/app/"
     },
     {
       "key": "js_酷云",
