@@ -488,16 +488,6 @@
 	"ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nongmin.js"
     },		
     {
-      "key": "js_悠米",
-      "name": "悠米",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/youmi.js"
-    },
-    {
       "key": "js_秒看",
       "name": "秒看",
       "type": 3,
@@ -558,16 +548,6 @@
       "filterable": 1
     },
     {
-	"key": "csp_御龙",
-	"name": "御龙",
-	"type": 3,
-	"api": "csp_XBPQ",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://bitbucket.org/xduo/json/raw/master/yulong.json"
-    },
-    {
       "key": "csp_Dy1010",
       "name": "双十影院",
       "type": 3,
@@ -617,16 +597,6 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/小狗.js"
     },	
     {
-      "key": "js_稀饭",
-      "name": "稀饭影视",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/稀饭.js"
-    },	
-    {
       "key": "csp_AppMr",
       "name": "明明",
       "type": 3,
@@ -673,16 +643,6 @@
       ]
     },
     {
-      "key": "drpy_js_创艺",
-      "name": "创艺影视",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/chuangyi.js"
-    },
-    {
       "key": "csp_金眼",
       "name": "金眼影视",
       "type": 3,
@@ -703,26 +663,6 @@
 	"ext": "https://bitbucket.org/xduo/json/raw/master/moli.json"
     },	
     {
-        "key": "csp_mdd",      
-	"name": "萌蛋影视",
-        "type": 3,      
-	"api": "csp_AppYsV2",
-        "searchable": 1,      
-	"quickSearch": 1,
-        "filterable": 1,      
-	"ext": "http://app.mengdandan.com/xgapp.php/v1/"
-    }, 
-    {
-      "key": "csp_yayaya",
-      "name": "耐菲影视",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-    },
-     {
       "key": "csp_WoGG",
       "name": "阿里玩偶",
       "type": 3,
