@@ -58,6 +58,15 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/乐猪TV.js"
     },
     {
+      "key": "csp_Btwtoo",
+      "name": "(优)Bttwoo",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_SNzy",
       "name": "(优)索尼高清",
       "type": 1,
@@ -342,15 +351,6 @@
       "name": "(良)Voflix",
       "type": 3,
       "api": "csp_Voflix",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Btwtoo",
-      "name": "(良)Bttwoo",
-      "type": 3,
-      "api": "csp_Bttwoo",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
