@@ -488,16 +488,6 @@
 	"ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nongmin.js"
     },		
     {
-      "key": "csp_蘑菇影视",
-      "name": "蘑菇影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://guan.yy365.vip/api.php/app/"
-    },
-    {
       "key": "js_悠米",
       "name": "悠米",
       "type": 3,
