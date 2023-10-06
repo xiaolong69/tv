@@ -308,6 +308,25 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/czspp.js"
     },
     {
+      "key": "Kuaikan",
+      "name": "(良)快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_XBPQ_haoxi",
+      "name": "(良)好戏",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/好戏.json"
+    },
+    {
       "key": "csp_AppMr",
       "name": "(良)明明",
       "type": 3,
@@ -522,16 +541,6 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/star.js"
     },
     {
-      "key": "csp_XBPQ_haoxi",
-      "name": "(良)好戏",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/好戏.json"
-    },
-    {
       "key": "csp_Auete",
       "name": "(良)Auete",
       "type": 3,
@@ -583,16 +592,6 @@
 	"filterable": 1,
 	"ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nongmin.js"
     },		
-    {
-      "key": "csp_lianyu",
-      "name": "恋雨",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://mp4.ghlyys.com/api.php/app/"
-    },
     {
       "key": "js_ddys",
       "name": "低端",
@@ -651,15 +650,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://bitbucket.org/xduo/json/raw/master/金眼影视.json"
-    },
-    {
-      "key": "Kuaikan",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_WoGG",
