@@ -4,6 +4,28 @@
 笑红尘,http://52bsj.vip:81/api/v3/file/get/97713/ba22f6ad1be11c9679f19bc8d866da15.mp4?sign=7T4la_UuJ8JzHAVur7ltNQwo6MqSkg5lQ6u2yh3XjOU%3D%3A0
 沧海一声笑,http://52bsj.vip:81/api/v3/file/get/129480/%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91.mp4?sign=xePyCzwnjsEkFhQ16uNlI2ndDiyOUnTptvBgj5DAXqE%3D%3A0
 
+🇨🇳｜精品央视,#genre#
+CCTV-1 综合,https://cntv.sbs/tv?auth=231005&id=cctv1
+CCTV-2 财经,https://cntv.sbs/tv?auth=231005&id=cctv2
+CCTV-3 综艺,https://cntv.sbs/tv?auth=231005&id=cctv3
+CCTV-4 中文国际,https://cntv.sbs/tv?auth=231005&id=cctv4
+CCTV-5 体育,https://cntv.sbs/tv?auth=231005&id=cctv5
+CCTV-5+ 体育赛事,https://cntv.sbs/tv?auth=231005&id=cctv5p
+CCTV-6 电影,https://cntv.sbs/tv?auth=231005&id=cctv6
+CCTV-7 国防军事,https://cntv.sbs/tv?auth=231005&id=cctv7
+CCTV-8 电视剧,https://cntv.sbs/tv?auth=231005&id=cctv8
+CCTV-9 纪录,https://cntv.sbs/tv?auth=231005&id=cctv9
+CCTV-10 科教,https://cntv.sbs/tv?auth=231005&id=cctv10
+CCTV-11 戏曲,https://cntv.sbs/tv?auth=231005&id=cctv11
+CCTV-12 社会与法,https://cntv.sbs/tv?auth=231005&id=cctv12
+CCTV-13 新闻,https://cntv.sbs/tv?auth=231005&id=cctv13
+CCTV-14 少儿,https://cntv.sbs/tv?auth=231005&id=cctv14
+CCTV-15 音乐,https://cntv.sbs/tv?auth=231005&id=cctv15
+CCTV-16 奥林匹克,https://cntv.sbs/tv?auth=231005&id=cctv16
+CCTV-17 农业农村,https://cntv.sbs/tv?auth=231005&id=cctv17
+CCTV-4K 超高清,https://cntv.sbs/tv?auth=231005&id=cctv4k
+CCTV-16 4K,https://cntv.sbs/tv?auth=231005&id=cctv164k
+
 🇨🇳｜央视,#genre#
 CCTV-1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV-2,http://125.210.152.19:9120/live/hzgq-cctv2gq-h264.m3u8
