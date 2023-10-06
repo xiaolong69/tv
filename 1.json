@@ -522,6 +522,16 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/star.js"
     },
     {
+      "key": "csp_XBPQ_haoxi",
+      "name": "(良)好戏",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://bitbucket.org/xduo/json/raw/master/好戏.json"
+    },
+    {
       "key": "csp_Auete",
       "name": "(良)Auete",
       "type": 3,
@@ -573,17 +583,6 @@
 	"filterable": 1,
 	"ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nongmin.js"
     },		
-    {
-      "key": "js_秒看",
-      "name": "秒看",
-      "type": 3,
-      "playerType": 2,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/ytcms.js"
-    },
     {
       "key": "csp_lianyu",
       "name": "恋雨",
