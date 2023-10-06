@@ -6,20 +6,13 @@
 
 🇨🇳｜精品4K,#genre#
 CCTV-4K 超高清,https://cntv.sbs/tv?auth=231005&id=cctv4k
+CCTV4K-25P-HLG源 ,http://159.75.85.63:5679/cctv4k.php
+CCTV4K-25P-SDR源 ,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV-16 4K,https://cntv.sbs/tv?auth=231005&id=cctv164k
-4K60PSDR-H264-AAC测试 ,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
-4K60PHLG-HEVC-EAC3测试 ,http://159.75.85.63:5680/d/ad/playad.m3u8
 苏州4K ,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 欢笑剧场4K银河源 ,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 欢笑剧场4K ,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
-纯享4K ,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
-纯享4K备 ,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-CCTV4K-25P-HLG源 ,http://159.75.85.63:5679/cctv4k.php
-CCTV4K-25P-SDR源 ,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV16-4K25P-SDR源 ,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
-CCTV16-4K-25PHLG源 ,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-爱上4K ,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-北京IPTV-4K ,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 4K影视 ,http://nas.jdshipin.com:8801/4kys.php
 虎牙4K王者荣耀 ,http://159.75.85.63:35455/huya/wzgxs1
 虎牙魔兽世界4K ,http://159.75.85.63:35455/huya/shangdi
