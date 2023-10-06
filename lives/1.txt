@@ -16,8 +16,8 @@ CCTV16-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 4K影视 ,http://nas.jdshipin.com:8801/4kys.php
 
 🇨🇳｜精品8K,#genre#
-CCTV8K,http://159.75.85.63:8765/xxtv8k.php
 CCTV8K,http://159.75.85.63:8654/xx8k50fps.php
+CCTV8K,http://159.75.85.63:8765/xxtv8k.php
 
 🇨🇳｜精品央视,#genre#
 CCTV-1 综合,https://cntv.sbs/tv?auth=231005&id=cctv1
