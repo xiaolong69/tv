@@ -14,6 +14,7 @@ CCTV16-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 欢笑剧场4K,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 4K影视 ,http://nas.jdshipin.com:8801/4kys.php
+CCTV1 8M,https://live.metshop.top/bestv.php?id=cctv1hd8m/8000000
 
 🇨🇳｜精品8K,#genre#
 CCTV8K,http://159.75.85.63:8654/xx8k50fps.php
