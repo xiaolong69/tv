@@ -957,6 +957,21 @@
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
     },
     {
+      "name": "线路1",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "线路2",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "线路3",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
       "name": "省流线路1",
       "url": "https://www.8090.la/8090/?url=",
       "type": 0
