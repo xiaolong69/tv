@@ -4,6 +4,10 @@
 笑红尘,http://52bsj.vip:81/api/v3/file/get/97713/ba22f6ad1be11c9679f19bc8d866da15.mp4?sign=7T4la_UuJ8JzHAVur7ltNQwo6MqSkg5lQ6u2yh3XjOU%3D%3A0
 沧海一声笑,http://52bsj.vip:81/api/v3/file/get/129480/%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91.mp4?sign=xePyCzwnjsEkFhQ16uNlI2ndDiyOUnTptvBgj5DAXqE%3D%3A0
 
+🇨🇳｜精品4K,#genre#
+CCTV-4K 超高清,https://cntv.sbs/tv?auth=231005&id=cctv4k
+CCTV-16 4K,https://cntv.sbs/tv?auth=231005&id=cctv164k
+
 🇨🇳｜精品央视,#genre#
 CCTV-1 综合,https://cntv.sbs/tv?auth=231005&id=cctv1
 CCTV-2 财经,https://cntv.sbs/tv?auth=231005&id=cctv2
@@ -25,6 +29,94 @@ CCTV-16 奥林匹克,https://cntv.sbs/tv?auth=231005&id=cctv16
 CCTV-17 农业农村,https://cntv.sbs/tv?auth=231005&id=cctv17
 CCTV-4K 超高清,https://cntv.sbs/tv?auth=231005&id=cctv4k
 CCTV-16 4K,https://cntv.sbs/tv?auth=231005&id=cctv164k
+
+🇨🇳｜精品卫视,#genre#
+北京卫视,https://cntv.sbs/tv?auth=231005&id=bjws
+东方卫视,https://cntv.sbs/tv?auth=231005&id=dfws
+天津卫视,https://cntv.sbs/tv?auth=231005&id=tjws
+重庆卫视,https://cntv.sbs/tv?auth=231005&id=cqws
+黑龙江卫视,https://cntv.sbs/tv?auth=231005&id=hljws
+吉林卫视,https://cntv.sbs/tv?auth=231005&id=jlws
+辽宁卫视,https://cntv.sbs/tv?auth=231005&id=lnws
+内蒙古卫视,https://cntv.sbs/tv?auth=231005&id=nmws
+宁夏卫视,https://cntv.sbs/tv?auth=231005&id=nxws
+甘肃卫视,https://cntv.sbs/tv?auth=231005&id=gsws
+青海卫视,https://cntv.sbs/tv?auth=231005&id=qhws
+陕西卫视,https://cntv.sbs/tv?auth=231005&id=sxws
+河北卫视,https://cntv.sbs/tv?auth=231005&id=hbws
+山西卫视,https://cntv.sbs/tv?auth=231005&id=sxiws
+山东卫视,https://cntv.sbs/tv?auth=231005&id=sdws
+安徽卫视,https://cntv.sbs/tv?auth=231005&id=ahws
+河南卫视,https://cntv.sbs/tv?auth=231005&id=hnws
+湖北卫视,https://cntv.sbs/tv?auth=231005&id=hubws
+湖南卫视,https://cntv.sbs/tv?auth=231005&id=hunws
+江西卫视,https://cntv.sbs/tv?auth=231005&id=jxws
+江苏卫视,https://cntv.sbs/tv?auth=231005&id=jsws
+浙江卫视,https://cntv.sbs/tv?auth=231005&id=zjws
+东南卫视,https://cntv.sbs/tv?auth=231005&id=dnws
+厦门卫视,https://cntv.sbs/tv?auth=231005&id=xmws
+广东卫视,https://cntv.sbs/tv?auth=231005&id=gdws
+深圳卫视,https://cntv.sbs/tv?auth=231005&id=szws
+广西卫视,https://cntv.sbs/tv?auth=231005&id=gxws
+云南卫视,https://cntv.sbs/tv?auth=231005&id=ynws
+贵州卫视,https://cntv.sbs/tv?auth=231005&id=gzws
+四川卫视,https://cntv.sbs/tv?auth=231005&id=scws
+康巴卫视,https://cntv.sbs/tv?auth=231005&id=kbws
+新疆卫视,https://cntv.sbs/tv?auth=231005&id=xjws
+兵团卫视,https://cntv.sbs/tv?auth=231005&id=btws
+西藏卫视,https://cntv.sbs/tv?auth=231005&id=xzws
+海南卫视,https://cntv.sbs/tv?auth=231005&id=hinws
+三沙卫视,https://cntv.sbs/tv?auth=231005&id=ssws
+海峡卫视,https://cntv.sbs/tv?auth=231005&id=hxws
+北京纪实科教,https://cntv.sbs/tv?auth=231005&id=bjjskj
+
+🇨🇳｜港澳,#genre#
+翡翠台,https://pi.0472.org/tv/fct.php?auth=231005
+明珠台,https://pi.0472.org/tv/mzt.php?auth=231005
+澳视澳门,https://pi.0472.org/tv/asam.php?auth=231005
+澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=231005
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+莲花卫视,https://cntv.sbs/tv/lhws.php
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+
+🇨🇳｜国际,#genre#
+CGTN,https://cntv.sbs/tv?auth=231005&id=cgtn
+CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
+NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+Thai PBS 3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+FASHIONTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+金砖电视,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+亚洲新闻720P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+亚洲新闻1080P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+💫｜️电影,#genre#
+CHC高清电影,https://cntv.sbs/tv/chc1.php
+CHC动作电影,https://cntv.sbs/tv/chc2.php
+CHC家庭影院,https://cntv.sbs/tv/chc3.php
+
+💫｜️其他,#genre#
+看天下精选,https://cntv.sbs/tv?auth=231005&id=ktxjx
+华语影院,https://cntv.sbs/tv?auth=231005&id=hyyy
+电竞天堂,https://cntv.sbs/tv?auth=231005&id=djtt
+青春动漫,https://cntv.sbs/tv?auth=231005&id=qcdm
+星光影院,https://cntv.sbs/tv?auth=231005&id=xgyy
+谍战剧场,https://cntv.sbs/tv?auth=231005&id=dzjc
+全球大片,https://cntv.sbs/tv?auth=231005&id=qqdp
+热门剧场,https://cntv.sbs/tv?auth=231005&id=rmjc
+热门综艺,https://cntv.sbs/tv?auth=231005&id=rmzy
+戏曲精选,https://cntv.sbs/tv?auth=231005&id=xqjx
+健康养生,https://cntv.sbs/tv?auth=231005&id=jkys
+百变课堂,https://cntv.sbs/tv?auth=231005&id=bbkt
+宝宝动画,https://cntv.sbs/tv?auth=231005&id=bbdh
 
 🇨🇳｜央视,#genre#
 CCTV-1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
