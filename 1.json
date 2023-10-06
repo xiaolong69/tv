@@ -948,51 +948,51 @@
     },
     {
       "name": "优质线路1",
-      "type": 1,
-      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
-    },
-    {
-      "name": "优质线路2",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
-    },
-    {
-      "name": "线路1",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
     },
     {
-      "name": "线路2",
+      "name": "优质线路2",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url="
     },
     {
-      "name": "线路3",
+      "name": "优质线路3",
+      "type": 1,
+      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
+    },
+    {
+      "name": "优质线路4",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+    },
+    {
+      "name": "省流线路1",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "省流线路1",
+      "name": "省流线路2",
       "url": "https://www.8090.la/8090/?url=",
       "type": 0
     },
     {
-      "name": "省流线路2",
+      "name": "省流线路3",
       "url": "https://www.8090g.cn/?url=",
       "type": 0
     },
     {
-      "name": "省流线路3",
+      "name": "省流线路4",
       "url": "https://www.ckplayer.vip/jiexi/?url=",
       "type": 0
     },
      {
-            "name": "省流线路4",
-            "type": 0,
-            "url": "https://www.pangujiexi.com/pangu/?url="
+       "name": "省流线路5",
+       "type": 0,
+       "url": "https://www.pangujiexi.com/pangu/?url="
     },
     {
-      "name": "省流线路5",
+      "name": "省流线路6",
       "url": "https://www.playm3u8.cn/jiexi.php?url=",
       "type": 0
     }
