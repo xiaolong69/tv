@@ -307,16 +307,6 @@
       "ext": "https://bitbucket.org/xduo/json/raw/master/好戏.json"
     },
     {
-      "key": "drpy_js_乐猪",
-      "name": "(良)乐猪",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/乐猪TV.js"
-    },
-    {
       "key": "csp_AppMr",
       "name": "(良)明明",
       "type": 3,
@@ -521,6 +511,16 @@
       "ext": "https://bitbucket.org/xduo/json/raw/master/free.json"
     },
     {
+      "key": "drpy_js_乐猪",
+      "name": "(良)乐猪",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/乐猪TV.js"
+    },
+    {
       "key": "js_star",
       "name": "(良)星辰",
       "type": 3,
@@ -529,15 +529,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/star.js"
-    },
-    {
-      "key": "csp_Auete",
-      "name": "(良)Auete",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "鲸落",
@@ -650,6 +641,15 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://bitbucket.org/xduo/json/raw/master/金眼影视.json"
+    },
+    {
+      "key": "csp_Auete",
+      "name": "Auete",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_WoGG",
