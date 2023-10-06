@@ -5,6 +5,10 @@
             "name": "自用版本"
         },
         {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json",
+            "name": "自用版本备用"
+        },
+        {
             "url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
         },
@@ -17,17 +21,13 @@
             "name": "🚀阿里精品专线"
         }, 		
         {
-            "url": "http://饭太硬.ml/tv",
+            "url": "http://饭太硬.top/tv",
             "name": "🚀饭太硬线路"
         },          
         {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "url": "http://肥猫.love",
             "name": "🚀肥猫线路"
-        },          
-        {
-            "url": "https://gh.t4tv.hz.cz/newtang.bmp",
-            "name": "🚀唐三线路"
-        }, 
+        },                    
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
@@ -37,17 +37,21 @@
             "name": "🚀道长线路"
         },                    
         {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "🚀香雅情线路"
+        },   
+        {
             "url": "https://tvbox.cainisi.cf",
             "name": "🚀菜妮丝线路"
+        },                     
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "🚀俊佬线路"
         },
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "🚀小米线路"
-        },                   
-        {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "🚀俊佬线路"
-        }, 
+        },   		
         {
             "url": "http://101.34.67.237/config/1",
             "name": "🚀小雅线路"
@@ -85,8 +89,8 @@
             "name": "🐹运输车(有跑马灯)"
         },         
         {
-            "url":"https://download.kstore.space/download/3313/mao/ymz",
+            "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymxx",
             "name": "🐹夜猫子(有跑马灯)"
-        } 
+        }
     ]
 }
