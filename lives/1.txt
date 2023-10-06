@@ -5,14 +5,14 @@
 沧海一声笑,http://52bsj.vip:81/api/v3/file/get/129480/%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91.mp4?sign=xePyCzwnjsEkFhQ16uNlI2ndDiyOUnTptvBgj5DAXqE%3D%3A0
 
 🇨🇳｜精品4K,#genre#
-CCTV-4K 超高清,https://cntv.sbs/tv?auth=231005&id=cctv4k
-CCTV4K-25P-HLG源 ,http://159.75.85.63:5679/cctv4k.php
-CCTV4K-25P-SDR源 ,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
-CCTV-16 4K,https://cntv.sbs/tv?auth=231005&id=cctv164k
+CCTV-4K,https://cntv.sbs/tv?auth=231005&id=cctv4k
+CCTV-4K,http://159.75.85.63:5679/cctv4k.php
+CCTV-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+CCTV16-4K,https://cntv.sbs/tv?auth=231005&id=cctv164k
+CCTV16-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 苏州4K ,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-欢笑剧场4K银河源 ,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-欢笑剧场4K ,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
-CCTV16-4K25P-SDR源 ,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+欢笑剧场4K,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 4K影视 ,http://nas.jdshipin.com:8801/4kys.php
 虎牙4K王者荣耀 ,http://159.75.85.63:35455/huya/wzgxs1
 虎牙魔兽世界4K ,http://159.75.85.63:35455/huya/shangdi
