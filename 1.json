@@ -252,7 +252,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/caigou.js"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/caigou.js"
     },
     {
       "key": "js豆瓣",
@@ -304,7 +304,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/好戏.json"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/好戏.json"
     },
     {
       "key": "csp_AppMr",
@@ -359,7 +359,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/shiliu.json"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/shiliu.json"
     },
     {
       "key": "csp_dadagui",
@@ -369,7 +369,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/达达龟.json"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/达达龟.json"
     },
     {
 	"key": "csp_jbb",
@@ -379,7 +379,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext": "https://bitbucket.org/xduo/json/raw/master/剧白白.json"
+	"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/剧白白.json"
     },
     {
         "key": "csp_beijihu",      
@@ -408,7 +408,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext": "https://bitbucket.org/xduo/json/raw/master/奇优影院.json"
+	"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/奇优影院.json"
     },		
     {
       "key": "csp_Lgyy",
@@ -478,7 +478,7 @@
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext": "https://bitbucket.org/xduo/json/raw/master/moli.json"
+	"ext": "https://agit.ai/leevi/duo/raw/branch/master/json/moli.json"
     },	
     {
       "key": "js_电影先生",
@@ -508,7 +508,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/free.json"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/free.json"
     },
     {
       "key": "drpy_js_乐猪",
@@ -538,7 +538,21 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/jingluo.json"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/jingluo.json"
+    },
+    {
+      "key": "秒看资源",
+      "name": "(良)秒看",
+      "type": 1,
+      "api": "https://www.xy1080.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "综艺",
+        "电视剧",
+        "电影",
+        "动漫"
+      ]
     },
     {
       "key": "js_荐片",
@@ -630,7 +644,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/骚火电影.json"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/骚火电影.json"
     },
     {
       "key": "csp_金眼",
@@ -640,7 +654,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/金眼影视.json"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/金眼影视.json"
     },
     {
       "key": "csp_Auete",
@@ -738,7 +752,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/动漫直链.json"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/动漫直链.json"
     },
     {
       "key": "csp_动漫巴士",
@@ -748,7 +762,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://bitbucket.org/xduo/json/raw/master/动漫巴士.json"
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/动漫巴士.json"
     },
     {
 	"key": "js_童趣",
