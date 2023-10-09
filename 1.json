@@ -583,13 +583,6 @@
       ]
     },
     {
-      "key": "蜗牛有广告",
-      "name": "(良)蜗牛",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/蜗牛.json"
-    },
-    {
       "key": "js_荐片",
       "name": "(良)荐片",
       "type": 3,
