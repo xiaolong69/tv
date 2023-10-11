@@ -1004,11 +1004,6 @@
       "url": "http://119.91.123.253:1234/Api/cs.php?url="
     },
     {
-      "name": "线路3",
-      "type": 0,
-      "url": "https://dx.maclsj.com/blue/json.php?url="
-    },
-    {
       "name": "线路1",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
