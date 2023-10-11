@@ -583,6 +583,16 @@
       ]
     },
     {
+      "key": "csp_AppYsV2_365",
+      "name": "(良)天天",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://mp4.ghlyys.com:916/api.php/app/"
+    },
+    {
       "key": "js_荐片",
       "name": "(良)荐片",
       "type": 3,
