@@ -979,6 +979,11 @@
   ], 
 "parses": [
     {
+      "name": "自动线路1",
+      "type": 1,
+      "url": "http://119.91.123.253:1234/Api/cs.php?url="
+    },
+    {
       "name": "解析聚合",
       "type": 3,
       "url": "Demo"
@@ -997,11 +1002,6 @@
       "name": "Web解析",
       "type": 3,
       "url": "Web"
-    },
-    {
-      "name": "自动线路1",
-      "type": 1,
-      "url": "http://119.91.123.253:1234/Api/cs.php?url="
     },
     {
       "name": "线路1",
