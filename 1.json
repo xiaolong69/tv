@@ -1027,21 +1027,6 @@
       "url": "http://119.91.123.253:1234/Api/cs.php?url="
     },
     {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "并发",
-      "type": 2,
-      "url": "Parallel"
-    },
-    {
-      "name": "轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-    {
       "name": "Web解析",
       "type": 3,
       "url": "Web"
