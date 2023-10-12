@@ -620,7 +620,7 @@
     },
     {
       "key": "app_轻简",
-      "name": "轻简影视",
+      "name": "(良)轻简影视",
       "type": 1,
       "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
       "categories": [
@@ -632,7 +632,7 @@
     },
     {
 	"key": "js_农民",
-	"name": "农民影视",
+	"name": "(良)农民影视",
 	"type": 3,
 	"api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
 	"searchable": 1,
@@ -642,7 +642,7 @@
     },		
     {
       "key": "csp_YQKAPP",
-      "name": "一起看",
+      "name": "(良)一起看",
       "type": 3,
       "api": "csp_YQKAPP",
       "searchable": 1,
@@ -652,13 +652,23 @@
     },
     {
       "key": "js_ddys",
-      "name": "低端",
+      "name": "(良)低端",
       "type": 3,
       "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/js/ddys.js"
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/ddys.js"
+    },
+    {
+      "key": "js_bzys",
+      "name": "(良)B站影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/bzys.js"
     },
     {
       "key": "js_酷云",
@@ -669,16 +679,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/77.js"
-    },
-    {
-      "key": "js_bzys",
-      "name": "B站影视",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/bzys.js"
     },
     {
       "key": "csp_Dy1010",
