@@ -593,6 +593,49 @@
       "ext": "http://mp4.ghlyys.com:916/api.php/app/"
     },
     {
+      "key": "csp_XBPQ_aoaotv",
+      "name": "(良)短剧嗷嗷",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
+        "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
+      }
+    },
+    {
+      "key": "js_影探",
+      "name": "(良)侦探盒子",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/侦探.js"
+    },
+    {
+      "key": "js_热剧猫",
+      "name": "(良)热剧猫",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/热剧猫.js"
+    },
+    {
+      "key": "js_4K视界",
+      "name": "(良)4K视界",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/4K视界.js"
+    },
+    {
       "key": "js_荐片",
       "name": "(良)荐片",
       "type": 3,
