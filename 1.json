@@ -681,6 +681,16 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/bzys.js"
     },
     {
+      "key": "js_酷吧",
+      "name": "(良)磁力酷吧",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/kuba.js"
+    },
+    {
       "key": "js_酷云",
       "name": "七七",
       "type": 3,
