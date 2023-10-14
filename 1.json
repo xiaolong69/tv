@@ -565,16 +565,6 @@
       "ext": "http://mp4.ghlyys.com:916/api.php/app/"
     },
     {
-      "key": "js_mogu",
-      "name": "(良)蘑菇影视",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/蘑菇.js"
-    },
-    {
       "key": "鑫鑫影视",
       "name": "(良)鑫鑫影视",
       "type": 3,
@@ -759,6 +749,16 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/金眼影视.json"
+    },
+    {
+      "key": "js_mogu",
+      "name": "蘑菇影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/蘑菇.js"
     },
     {
       "key": "csp_Auete",
