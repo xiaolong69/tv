@@ -565,6 +565,37 @@
       "ext": "http://mp4.ghlyys.com:916/api.php/app/"
     },
     {
+      "key": "js_mogu",
+      "name": "(良)蘑菇影视",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/蘑菇.js"
+    },
+    {
+      "key": "鑫鑫影视",
+      "name": "(良)鑫鑫影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+    },
+    {
+      "key": "加亮",
+      "name": "(良)加亮影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://api.jialiangos.com:88/api.php/app/"
+    },
+    {
       "key": "csp_XBPQ_aoaotv",
       "name": "(良)短剧嗷嗷",
       "type": 3,
@@ -737,34 +768,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "快帆",
-      "name": "快帆",
-      "type": 1,
-      "api": "https://api.kuaifan.tv/api.php/provide/vod",
-      "categories": [
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "韩国剧",
-        "日本剧",
-        "欧美剧",
-        "动作片",
-        "动画片",
-        "短片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "古装片",
-        "历史片",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "国产动漫",
-        "欧美动漫",
-        "日本动漫"
-      ]
     },
     {
       "key": "csp_WoGG",
