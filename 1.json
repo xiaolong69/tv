@@ -609,16 +609,6 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/侦探.js"
     },
     {
-      "key": "js_热剧猫",
-      "name": "(良)热剧猫",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/热剧猫.js"
-    },
-    {
       "key": "js_4K视界",
       "name": "(良)4K视界",
       "type": 3,
