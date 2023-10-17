@@ -48,16 +48,6 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/nangua.js"
     },
     {
-      "key": "js_czsapp",
-      "name": "(优)厂长",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/czspp.js"
-    },
-    {
       "key": "csp_Btwtoo",
       "name": "(优)Bttwoo",
       "type": 3,
@@ -627,6 +617,36 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/阿布影院.js"
+    },
+    {
+      "key": "XBPQ_蚂蚁",
+      "name": "(良)蚂蚁",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/mayi.json"
+    },
+    {
+      "key": "js_changmeng",
+      "name": "(良)畅梦",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/changmeng.js"
+    },
+    {
+      "key": "js_czsapp",
+      "name": "(良)厂长",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/czspp.js"
     },
     {
       "key": "js_荐片",
