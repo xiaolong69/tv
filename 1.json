@@ -609,16 +609,6 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/4K视界.js"
     },
     {
-      "key": "js_阿布",
-      "name": "(良)阿布",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/js/阿布影院.js"
-    },
-    {
       "key": "XBPQ_蚂蚁",
       "name": "(良)蚂蚁",
       "type": 3,
