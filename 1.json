@@ -712,6 +712,16 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/hoho.js"
     },
     {
+      "key": "csp_XBPQ_JOJO",
+      "name": "(良)久久",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/jojo.json"
+    },
+    {
       "key": "js_酷吧",
       "name": "(良)磁力酷吧",
       "type": 3,
