@@ -827,6 +827,16 @@
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
+      "key": "csp_XiaoZhiTiao",
+      "name": "阿里纸条",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+    {
       "key": "PanSearch",
       "name": "阿里PanS",
       "type": 3,
