@@ -702,6 +702,16 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/bzys.js"
     },
     {
+      "key": "js_轰轰",
+      "name": "(良)轰轰",
+      "type": 3,
+      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/hoho.js"
+    },
+    {
       "key": "js_酷吧",
       "name": "(良)磁力酷吧",
       "type": 3,
