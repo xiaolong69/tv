@@ -1120,9 +1120,24 @@
   ], 
 "parses": [
     {
-      "name": "自动线路1",
-      "type": 1,
-      "url": "http://119.91.123.253:1234/Api/cs.php?url="
+      "name": "线路1",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "线路2",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "线路3",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name":"线路4",
+      "url":"https://jx.xmflv.com/?url=",
+      "type":0
     },
     {
       "name": "Web解析",
@@ -1130,24 +1145,9 @@
       "url": "Web"
     },
     {
-      "name": "线路1",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-    {
-      "name": "线路2",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
-      "name":"线路3",
-      "url":"https://jx.xmflv.com/?url=",
-      "type":0
-    },
-    {
-      "name": "线路4",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
+      "name": "自动线路1",
+      "type": 1,
+      "url": "http://119.91.123.253:1234/Api/cs.php?url="
     },
     {
       "name": "省流线路1",
