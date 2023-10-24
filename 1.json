@@ -739,6 +739,16 @@
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/jojo.json"
     },
     {
+      "key": "csp_XBPQ_圣城",
+      "name": "(良)圣城",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/圣城.json"
+    },
+    {
       "key": "js_酷吧",
       "name": "(良)磁力酷吧",
       "type": 3,
