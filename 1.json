@@ -586,11 +586,10 @@
       "name": "(良)加亮影视",
       "type": 3,
       "api": "csp_AppYsV2",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://api.jialiangos.com:88/api.php/app/"
+      "ext": "http://api.jialiangos.com:81/api.php/app/"
     },
     {
       "key": "csp_XBPQ_aoaotv",
