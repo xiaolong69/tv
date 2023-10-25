@@ -15,89 +15,13 @@ CCTV16-4K,https://cntv.sbs/tv?auth=2310201855&id=cctv164k
 欢笑剧场4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 4K影视 ,http://nas.jdshipin.com:8801/4kys.php
 
-🇨🇳｜精品8K,#genre#
-CCTV8K,http://159.75.85.63:8654/xx8k50fps.php
-CCTV8K,http://159.75.85.63:8765/xxtv8k.php
-
-🇨🇳｜精品央视,#genre#
-CCTV-1 综合,https://cntv.sbs/tv?auth=231005&id=cctv1
-CCTV-2 财经,https://cntv.sbs/tv?auth=231005&id=cctv2
-CCTV-3 综艺,https://cntv.sbs/tv?auth=231005&id=cctv3
-CCTV-4 中文国际,https://cntv.sbs/tv?auth=231005&id=cctv4
-CCTV-5 体育,https://cntv.sbs/tv?auth=231005&id=cctv5
-CCTV-5+ 体育赛事,https://cntv.sbs/tv?auth=231005&id=cctv5p
-CCTV-6 电影,https://cntv.sbs/tv?auth=231005&id=cctv6
-CCTV-7 国防军事,https://cntv.sbs/tv?auth=231005&id=cctv7
-CCTV-8 电视剧,https://cntv.sbs/tv?auth=231005&id=cctv8
-CCTV-9 纪录,https://cntv.sbs/tv?auth=231005&id=cctv9
-CCTV-10 科教,https://cntv.sbs/tv?auth=231005&id=cctv10
-CCTV-11 戏曲,https://cntv.sbs/tv?auth=231005&id=cctv11
-CCTV-12 社会与法,https://cntv.sbs/tv?auth=231005&id=cctv12
-CCTV-13 新闻,https://cntv.sbs/tv?auth=231005&id=cctv13
-CCTV-14 少儿,https://cntv.sbs/tv?auth=231005&id=cctv14
-CCTV-15 音乐,https://cntv.sbs/tv?auth=231005&id=cctv15
-CCTV-16 奥林匹克,https://cntv.sbs/tv?auth=231005&id=cctv16
-CCTV-17 农业农村,https://cntv.sbs/tv?auth=231005&id=cctv17
-CCTV-4K 超高清,https://cntv.sbs/tv?auth=231005&id=cctv4k
-CCTV-16 4K,https://cntv.sbs/tv?auth=231005&id=cctv164k
-
-🇨🇳｜精品卫视,#genre#
-北京卫视,https://cntv.sbs/tv?auth=231005&id=bjws
-东方卫视,https://cntv.sbs/tv?auth=231005&id=dfws
-天津卫视,https://cntv.sbs/tv?auth=231005&id=tjws
-重庆卫视,https://cntv.sbs/tv?auth=231005&id=cqws
-黑龙江卫视,https://cntv.sbs/tv?auth=231005&id=hljws
-吉林卫视,https://cntv.sbs/tv?auth=231005&id=jlws
-辽宁卫视,https://cntv.sbs/tv?auth=231005&id=lnws
-内蒙古卫视,https://cntv.sbs/tv?auth=231005&id=nmws
-宁夏卫视,https://cntv.sbs/tv?auth=231005&id=nxws
-甘肃卫视,https://cntv.sbs/tv?auth=231005&id=gsws
-青海卫视,https://cntv.sbs/tv?auth=231005&id=qhws
-陕西卫视,https://cntv.sbs/tv?auth=231005&id=sxws
-河北卫视,https://cntv.sbs/tv?auth=231005&id=hbws
-山西卫视,https://cntv.sbs/tv?auth=231005&id=sxiws
-山东卫视,https://cntv.sbs/tv?auth=231005&id=sdws
-安徽卫视,https://cntv.sbs/tv?auth=231005&id=ahws
-河南卫视,https://cntv.sbs/tv?auth=231005&id=hnws
-湖北卫视,https://cntv.sbs/tv?auth=231005&id=hubws
-湖南卫视,https://cntv.sbs/tv?auth=231005&id=hunws
-江西卫视,https://cntv.sbs/tv?auth=231005&id=jxws
-江苏卫视,https://cntv.sbs/tv?auth=231005&id=jsws
-浙江卫视,https://cntv.sbs/tv?auth=231005&id=zjws
-东南卫视,https://cntv.sbs/tv?auth=231005&id=dnws
-厦门卫视,https://cntv.sbs/tv?auth=231005&id=xmws
-广东卫视,https://cntv.sbs/tv?auth=231005&id=gdws
-深圳卫视,https://cntv.sbs/tv?auth=231005&id=szws
-广西卫视,https://cntv.sbs/tv?auth=231005&id=gxws
-云南卫视,https://cntv.sbs/tv?auth=231005&id=ynws
-贵州卫视,https://cntv.sbs/tv?auth=231005&id=gzws
-四川卫视,https://cntv.sbs/tv?auth=231005&id=scws
-康巴卫视,https://cntv.sbs/tv?auth=231005&id=kbws
-新疆卫视,https://cntv.sbs/tv?auth=231005&id=xjws
-兵团卫视,https://cntv.sbs/tv?auth=231005&id=btws
-西藏卫视,https://cntv.sbs/tv?auth=231005&id=xzws
-海南卫视,https://cntv.sbs/tv?auth=231005&id=hinws
-三沙卫视,https://cntv.sbs/tv?auth=231005&id=ssws
-海峡卫视,https://cntv.sbs/tv?auth=231005&id=hxws
-北京纪实科教,https://cntv.sbs/tv?auth=231005&id=bjjskj
-
 🇨🇳｜港澳,#genre#
-翡翠台,https://pi.0472.org/tv/fct.php?auth=231005
-明珠台,https://pi.0472.org/tv/mzt.php?auth=231005
-澳视澳门,https://pi.0472.org/tv/asam.php?auth=231005
-澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=231005
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 莲花卫视,https://cntv.sbs/tv/lhws.php
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
 🇨🇳｜国际,#genre#
-CGTN,https://cntv.sbs/tv?auth=231005&id=cgtn
 CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
-CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
-CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
@@ -108,26 +32,6 @@ FASHIONTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 金砖电视,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 亚洲新闻720P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻1080P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-💫｜️电影,#genre#
-CHC高清电影,https://cntv.sbs/tv/chc1.php
-CHC动作电影,https://cntv.sbs/tv/chc2.php
-CHC家庭影院,https://cntv.sbs/tv/chc3.php
-
-💫｜️其他,#genre#
-看天下精选,https://cntv.sbs/tv?auth=231005&id=ktxjx
-华语影院,https://cntv.sbs/tv?auth=231005&id=hyyy
-电竞天堂,https://cntv.sbs/tv?auth=231005&id=djtt
-青春动漫,https://cntv.sbs/tv?auth=231005&id=qcdm
-星光影院,https://cntv.sbs/tv?auth=231005&id=xgyy
-谍战剧场,https://cntv.sbs/tv?auth=231005&id=dzjc
-全球大片,https://cntv.sbs/tv?auth=231005&id=qqdp
-热门剧场,https://cntv.sbs/tv?auth=231005&id=rmjc
-热门综艺,https://cntv.sbs/tv?auth=231005&id=rmzy
-戏曲精选,https://cntv.sbs/tv?auth=231005&id=xqjx
-健康养生,https://cntv.sbs/tv?auth=231005&id=jkys
-百变课堂,https://cntv.sbs/tv?auth=231005&id=bbkt
-宝宝动画,https://cntv.sbs/tv?auth=231005&id=bbdh
 
 🇨🇳｜央视,#genre#
 CCTV-1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
