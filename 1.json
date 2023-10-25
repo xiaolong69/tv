@@ -749,6 +749,23 @@
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/圣城.json"
     },
     {
+      "key": "毛子影视",
+      "name": "(良)毛子影视",
+      "type": 1,
+      "api": "http://ys.qtw.asia/lvdou_api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories": [
+        "4K",
+        "电影",
+        "连续剧",
+        "动漫",
+        "综艺"
+      ]
+    },
+    {
       "key": "js_酷吧",
       "name": "(良)磁力酷吧",
       "type": 3,
