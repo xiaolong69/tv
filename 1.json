@@ -759,7 +759,7 @@
     },
     {
       "key": "毛子影视",
-      "name": "(良)毛子影视",
+      "name": "(良)毛子影视1",
       "type": 1,
       "api": "http://ys.qtw.asia/lvdou_api.php/provide/vod/",
       "searchable": 1,
@@ -773,6 +773,16 @@
         "动漫",
         "综艺"
       ]
+    },
+    {
+      "key": "csp_appysv2_毛子",
+      "name": "(良)毛子影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
     },
     {
       "key": "js_酷吧",
