@@ -57,23 +57,6 @@
       "filterable": 1
     },
     {
-      "key": "小战影视",
-      "name": "(优)小战",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://zy.xzam.cn/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "电影",
-        "国产剧",
-        "欧美剧",
-        "日韩剧"
-      ]
-    },
-    {
       "key": "csp_SNzy",
       "name": "(优)索尼高清",
       "type": 1,
@@ -758,23 +741,6 @@
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/圣城.json"
     },
     {
-      "key": "毛子影视",
-      "name": "(良)毛子影视1",
-      "type": 1,
-      "api": "http://ys.qtw.asia/lvdou_api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "4K",
-        "电影",
-        "连续剧",
-        "动漫",
-        "综艺"
-      ]
-    },
-    {
       "key": "csp_appysv2_毛子",
       "name": "(良)毛子影视",
       "type": 3,
@@ -842,6 +808,23 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/蘑菇.js"
+    },
+    {
+      "key": "小战影视",
+      "name": "小战",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://zy.xzam.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "国产剧",
+        "欧美剧",
+        "日韩剧"
+      ]
     },
     {
       "key": "csp_Auete",
