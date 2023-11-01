@@ -116,23 +116,6 @@
       "filterable": 1
     },
     {
-      "key": "小战影视",
-      "name": "(优)小战",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://zy.xzam.cn/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "电影",
-        "国产剧",
-        "欧美剧",
-        "日韩剧"
-      ]
-    },
-    {
       "key": "js_酷吧",
       "name": "(优)磁力酷吧",
       "type": 3,
@@ -459,16 +442,6 @@
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/free.json"
     },
     {
-      "key": "js_star",
-      "name": "(良)星辰",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/star.js"
-    },
-    {
       "key": "秒看资源",
       "name": "(良)秒看",
       "type": 1,
@@ -563,6 +536,26 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
+    },
+    {
+      "key": "XBPQ_星辰",
+      "name": "(良)星辰",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/星辰影视.json"
+    },
+    {
+      "key": "XBPQ_九八",
+      "name": "(良)九八",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/98影视.json"
     },
     {
       "key": "csp_WoGG",
