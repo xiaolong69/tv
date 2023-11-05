@@ -674,7 +674,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/4/js/B站精简.js?v=20230430"
+      "ext": "https://xiaolong69.github.io/tv/spider/4/js/B站精简.js?v=20230430"
     },
     {
 	"key": "MV_vod",
@@ -693,7 +693,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/js/哔哩直播.js"
+      "ext": "https://xiaolong69.github.io/tv/spider/11/js/哔哩直播.js"
     },
     {
       "key": "js_斗鱼直播",
@@ -703,7 +703,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/js/斗鱼.js"
+      "ext": "https://xiaolong69.github.io/tv/spider/11/js/斗鱼.js"
     },
     {
       "key": "网易CC",
@@ -713,7 +713,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/11/json/网易CC.json"
+      "ext": "https://xiaolong69.github.io/tv/spider/11/json/网易CC.json"
     }
   ],
   "lives":[
@@ -1154,5 +1154,5 @@
   ],
   "wallpaper": "https://yydsys.top/bg.php",
   "warningText": "提醒：用前请刷新",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/13/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/13/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224"
 }
