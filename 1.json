@@ -274,6 +274,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/好戏.json"
     },
     {
