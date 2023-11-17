@@ -528,17 +528,6 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/hoho.js"
     },
     {
-      "key": "csp_XBPQ_圣城",
-      "name": "(良)圣城",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/圣城.json"
-    },
-    {
       "key": "csp_appysv2_毛子",
       "name": "(良)毛子影视",
       "type": 3,
