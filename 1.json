@@ -29,7 +29,7 @@
     },
     {
       "key": "小战影视",
-      "name": "(优)小战┃",
+      "name": "(优)小战",
       "type": 1,
       "playerType": 1,
       "api": "http://d.xzam.cn/api.php/provide/vod/",
@@ -567,7 +567,7 @@
     },
     {
       "key": "49zy",
-      "name": "(良)狮九┃资源",
+      "name": "(良)狮九资源",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -677,7 +677,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "┃阿里┃找片",
+      "name": "阿里找片",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
