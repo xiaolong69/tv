@@ -18,6 +18,33 @@
 	"ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
+      "key": "csp_YQKan",
+      "name": "(优)一起看",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408"
+    },
+    {
+      "key": "小战影视",
+      "name": "(优)小战┃",
+      "type": 1,
+      "playerType": 1,
+      "api": "http://d.xzam.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "国产剧",
+        "欧美剧",
+        "日韩剧"
+      ]
+    },
+    {
       "key": "js_荐片",
       "name": "(优)荐片",
       "type": 3,
@@ -67,15 +94,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },
-    {
-      "key": "csp_AppMr",
-      "name": "(优)明明",
-      "type": 3,
-      "api": "csp_AppMr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "drpy_js_乐猪",
@@ -488,16 +506,6 @@
       "ext": "https://jihulab.com/duomv/xduo/-/raw/main/libs/nangua.js"
     },
     {
-      "key": "csp_YQKAPP",
-      "name": "(良)一起看",
-      "type": 3,
-      "api": "csp_YQKAPP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://hk-api-cf.yqk5659.com"
-    },
-    {
       "key": "js_bzys",
       "name": "(良)B站影视",
       "type": 3,
@@ -558,14 +566,59 @@
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/98影视.json"
     },
     {
+      "key": "49zy",
+      "name": "(良)狮九┃资源",
+      "type": 1,
+      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "纪录片",
+        "欧美剧",
+        "香港剧",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "喜剧片",
+        "动画片",
+        "犯罪片",
+        "韩国剧",
+        "动漫",
+        "电影",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "台湾剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "泰国剧",
+        "日剧",
+        "电影解说",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "其他片",
+        "体育赛事",
+        "海外剧"
+      ]
+    },
+    {
       "key": "csp_WoGG",
       "name": "阿里玩偶",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+      "changeable": 0,
+      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
       "key": "csp_七夜",
@@ -575,16 +628,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "csp_XiaoZhiTiao",
-      "name": "阿里纸条",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
+      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
@@ -595,6 +639,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
@@ -605,6 +650,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
@@ -615,6 +661,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
@@ -625,7 +672,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
+      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "┃阿里┃找片",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
     },
     {
       "key": "push_agent",
@@ -1191,5 +1250,5 @@
   ],
   "wallpaper": "https://yydsys.top/bg.php",
   "warningText": "提醒：用前请刷新",
-  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/14/custom_spider.jar;md5;521D78A10B5DA52046832A14735A901B"
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/main.jar;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
 }
