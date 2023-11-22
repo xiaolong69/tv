@@ -5,7 +5,7 @@
             "name": "自用版本"
         },
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json",
             "name": "自用版本备用"
         },
         {
@@ -33,7 +33,7 @@
             "name": "🚀肥猫线路"
         },                    
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
         },                                                        
         {
@@ -41,7 +41,7 @@
             "name": "🚀道长线路"
         },                    
         {
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "🚀香雅情线路"
         },   
         {
@@ -97,7 +97,7 @@
             "name": "🐹夜猫子"
         }, 		
         {
-            "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🐹高天流云"
         }
     ]
