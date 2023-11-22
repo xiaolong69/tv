@@ -11,13 +11,6 @@
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/zxzj.js"
     },
     {
-	"key": "apv2_瑞丰",
-	"name": "(优)瑞丰",
-	"type": 3,
-	"api": "csp_AppYsV2",
-	"ext": "http://www.miniku.cc/xgapp.php/v2/"
-    },
-    {
       "key": "csp_YQKan",
       "name": "(优)一起看",
       "type": 3,
@@ -66,16 +59,6 @@
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/czspp.js"
     },
     {
-      "key": "鑫鑫影视",
-      "name": "(优)鑫鑫影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },
-    {
       "key": "csp_dadagui",
       "name": "(优)达龟影视",
       "type": 3,
@@ -105,16 +88,6 @@
       "filterable": 1
     },
     {
-	"key":"js_Lib",
-	"name": "(优)Libvio",
-	"type": 3,
-	"api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1,
-	"ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/libvio.js"
-    },		
-    {
       "key": "Kuaikan",
       "name": "(优)快看",
       "type": 3,
@@ -124,35 +97,14 @@
       "filterable": 1
     },
     {
-      "key": "csp_XBPQ_348z",
-      "name": "(优)3Z电影",
+      "key": "鑫鑫影视",
+      "name": "(优)鑫鑫影视",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/348z.json"
-    },
-    {
-      "key": "js_555",
-      "name": "(优)三五",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/555.js"
-    },
-    {
-      "key": "js_酷吧",
-      "name": "(优)磁力酷吧",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/kuba.js"
+      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
     {
       "key": "zy_新浪",
@@ -277,41 +229,11 @@
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/xsj.js"
     },
     {
-      "key": "csp_XBPQ_haoxi",
-      "name": "(良)好戏",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/好戏.json"
-    },
-    {
-	"key": "cjzy_暴风资源",
-	"name": "(良)暴风资源",
-	"type": 1,
-	"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-	"playUrl": "",
-	"categories": [
-	"国产剧",
-	"国产动漫",
-	"大陆综艺",
-	"港台综艺",
-	"香港剧",
-	"台湾剧",
-	"日本剧",
-	"欧美剧",
-	"泰国剧",
-	"日本动漫",
-	"日本综艺",
-	"综艺频道",
-	"新马泰综艺",
-	"纪录片",
-	"科幻片",
-	"喜剧片",
-	"战争片"
-	]
+	"key": "apv2_瑞丰",
+	"name": "(良)瑞丰",
+	"type": 3,
+	"api": "csp_AppYsV2",
+	"ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
       "key": "csp_非凡资源",
@@ -413,6 +335,32 @@
       ]
     },
     {
+	"key": "cjzy_暴风资源",
+	"name": "(良)暴风资源",
+	"type": 1,
+	"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+	"playUrl": "",
+	"categories": [
+	"国产剧",
+	"国产动漫",
+	"大陆综艺",
+	"港台综艺",
+	"香港剧",
+	"台湾剧",
+	"日本剧",
+	"欧美剧",
+	"泰国剧",
+	"日本动漫",
+	"日本综艺",
+	"综艺频道",
+	"新马泰综艺",
+	"纪录片",
+	"科幻片",
+	"喜剧片",
+	"战争片"
+	]
+    },
+    {
       "key": "js_ikanbot2",
       "name": "(良)爱看机器",
       "type": 3,
@@ -437,6 +385,16 @@
       ]
     },
     {
+      "key": "js_555",
+      "name": "(良)三五",
+      "type": 3,
+      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/555.js"
+    },
+    {
       "key": "js_bzys",
       "name": "(良)B站影视",
       "type": 3,
@@ -445,6 +403,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/bzys.js"
+    },
+    {
+      "key": "csp_XBPQ_haoxi",
+      "name": "(良)好戏",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/好戏.json"
     },
     {
       "key": "js_轰轰",
