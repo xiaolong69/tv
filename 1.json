@@ -76,6 +76,16 @@
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
     {
+      "key": "csp_dadagui",
+      "name": "(优)达龟影视",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/达达龟.json"
+    },
+    {
       "key": "drpy_js_乐猪",
       "name": "(优)乐猪",
       "type": 3,
@@ -403,34 +413,6 @@
       ]
     },
     {
-      "key": "csp_dadagui",
-      "name": "(良)达龟影视",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/达达龟.json"
-    },
-    {
-      "key": "csp_Vofl",
-      "name": "(良)Voflix",
-      "type": 3,
-      "api": "csp_Voflix",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Cokemv",
-      "name": "(良)可乐影视",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "js_ikanbot2",
       "name": "(良)爱看机器",
       "type": 3,
@@ -441,27 +423,6 @@
       "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/ikanbot2.js"
     },
    {
-      "key": "骑骑影院",
-      "name": "(良)骑骑",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
-    {
-      "key": "csp_FreeOK",
-      "name": "(良)富瑞影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/free.json"
-    },
-    {
       "key": "秒看资源",
       "name": "(良)秒看",
       "type": 1,
@@ -474,16 +435,6 @@
         "电影",
         "动漫"
       ]
-    },
-    {
-      "key": "XBPQ_蚂蚁",
-      "name": "(良)蚂蚁",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/mayi.json"
     },
     {
       "key": "js_bzys",
@@ -514,6 +465,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
+    },
+    {
+      "key": "骑骑影院",
+      "name": "(良)骑骑",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
       "key": "XBPQ_九八",
@@ -569,6 +531,26 @@
         "体育赛事",
         "海外剧"
       ]
+    },
+    {
+      "key": "XBPQ_蚂蚁",
+      "name": "(良)蚂蚁",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/mayi.json"
+    },
+    {
+      "key": "csp_FreeOK",
+      "name": "(良)富瑞影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/free.json"
     },
     {
       "key": "csp_WoGG",
