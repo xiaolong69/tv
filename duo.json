@@ -5,7 +5,7 @@
             "name": "自用版本"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json",
             "name": "自用版本备用"
         },
         {
@@ -13,7 +13,7 @@
             "name": "🏡应用多多家庭版"
         },
         {
-            "url": "https://download.kstore.space/download/3010/xm.json",
+            "url": "https://pan.shangui.cc/f/v68xuk/xm.json",
             "name": "🏡应用多多备用"
         },
         {
@@ -21,7 +21,7 @@
             "name": "🚀阿里精品专线"
         }, 
         {
-            "url": "https://download.kstore.space/download/3010/ppa.json",
+            "url": "https://pan.shangui.cc/f/eoVMFQ/ppa.json",
             "name": "🚀阿里备用专线"
         }, 			
         {
@@ -29,11 +29,11 @@
             "name": "🚀饭太硬线路"
         },          
         {
-            "url": "http://肥猫.love",
+            "url": "http://肥猫.live",
             "name": "🚀肥猫线路"
         },                    
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "🚀蜂蜜线路"
         },                                                        
         {
@@ -41,7 +41,7 @@
             "name": "🚀道长线路"
         },                    
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "🚀香雅情线路"
         },   
         {
@@ -81,7 +81,7 @@
             "name": "🐹云星日记"
         }, 
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/ygbox.json",
+            "url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json",
             "name": "🐹月光宝盒"
         },               
         {
@@ -91,10 +91,14 @@
         {
             "url": "https://weixine.net/ysc.json",
             "name": "🐹运输车(有跑马灯)"
-        },         
+        },
+          {
+            "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+            "name": "🐹夜猫子"
+        }, 		
         {
-            "url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🐹高天流云"
-        } 
+        }
     ]
 }
