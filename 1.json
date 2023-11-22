@@ -486,28 +486,6 @@
       "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/mayi.json"
     },
     {
-      "key": "app_轻简",
-      "name": "(良)轻简",
-      "type": 1,
-      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
-    },
-    {
-      "key": "js_nangua",
-      "name": "(良)南瓜",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/nangua.js"
-    },
-    {
       "key": "js_bzys",
       "name": "(良)B站影视",
       "type": 3,
@@ -536,16 +514,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
-    },
-    {
-      "key": "XBPQ_星辰",
-      "name": "(良)星辰",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/星辰影视.json"
     },
     {
       "key": "XBPQ_九八",
