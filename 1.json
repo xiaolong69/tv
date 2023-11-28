@@ -4,11 +4,11 @@
       "key": "js_在线之家",
       "name": "(优)超前影视",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/zxzj.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/zxzj.js"
     },
     {
       "key": "csp_YQKan",
@@ -41,8 +41,8 @@
       "key": "js_荐片",
       "name": "(优)荐片",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/荐片.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/荐片.js",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -52,11 +52,11 @@
       "key": "js_czsapp",
       "name": "(优)厂长",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/czspp.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/czspp.js"
     },
     {
       "key": "csp_dadagui",
@@ -66,17 +66,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/json/达达龟.json"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/json/达达龟.json"
     },
     {
       "key": "drpy_js_乐猪",
       "name": "(优)乐猪",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/乐猪TV.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/乐猪TV.js"
     },
     {
       "key": "csp_Btwtoo",
@@ -140,41 +140,41 @@
       "key": "js_企鹅",
       "name": "(优)腾讯[解析]",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/qtv.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/qtv.js"
     },
     {
       "key": "js_奇异",
       "name": "(优)爱奇艺[解析]",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/qzys.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/qzys.js"
     },
     {
       "key": "js_芒果",
       "name": "(优)芒果[解析]",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/baimang.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/baimang.js"
     },
     {
       "key": "js_优酷",
       "name": "(优)优酷[解析]",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/youku.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/youku.js"
     },
     {
       "key": "360_spider",
@@ -189,21 +189,21 @@
       "key": "js_菜狗",
       "name": "(优)搜狗[解析]",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/caigou.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/caigou.js"
     },
     {
       "key": "js豆瓣",
       "name": "豆瓣榜单",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/douban.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/douban.js"
     },
     {
       "key": "新片热播",
@@ -222,11 +222,11 @@
       "key": "js_Xinsj",
       "name": "(良)新视觉",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/xsj.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/xsj.js"
     },
     {
 	"key": "apv2_瑞丰",
@@ -364,11 +364,11 @@
       "key": "js_ikanbot2",
       "name": "(良)爱看机器",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/ikanbot2.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/ikanbot2.js"
     },
    {
       "key": "秒看资源",
@@ -388,21 +388,21 @@
       "key": "js_555",
       "name": "(良)三五",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/555.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/555.js"
     },
     {
       "key": "js_bzys",
       "name": "(良)B站影视",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/bzys.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/bzys.js"
     },
     {
       "key": "csp_XBPQ_haoxi",
@@ -413,17 +413,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/json/好戏.json"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/json/好戏.json"
     },
     {
       "key": "js_轰轰",
       "name": "(良)轰轰",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/hoho.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/hoho.js"
     },
     {
       "key": "csp_appysv2_毛子",
@@ -453,7 +453,7 @@
       "api": "csp_XBPQ",
       "playerType": 1,
       "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/json/黑狐.json"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/json/黑狐.json"
     },
     {
       "key": "XBPQ_九八",
@@ -463,7 +463,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/json/98影视.json"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/json/98影视.json"
     },
     {
       "key": "49zy",
@@ -518,7 +518,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/json/mayi.json"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/json/mayi.json"
     },
     {
       "key": "csp_FreeOK",
@@ -528,7 +528,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/json/free.json"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/json/free.json"
     },
     {
       "key": "csp_WoGG",
@@ -624,27 +624,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/json/动漫巴士.json"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/json/动漫巴士.json"
     },
     {
 	"key": "js_童趣",
 	"name": "童趣",
 	"type": 3,
-	"api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+	"api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 1,
-	"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/tongqu.js"
+	"ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/tongqu.js"
     },
     {
       "key": "js_B站精简",
       "name": "Bili站点",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/B站精简.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/B站精简.js"
     },
     {
 	"key": "MV_vod",
@@ -659,21 +659,21 @@
       "key": "js_哔哩直播",
       "name": "哔哩直播",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/哔哩直播.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/哔哩直播.js"
     },
     {
       "key": "js_斗鱼直播",
       "name": "斗鱼直播",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/js/斗鱼.js"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/斗鱼.js"
     },
     {
       "key": "网易CC",
@@ -683,7 +683,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/json/网易CC.json"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/json/网易CC.json"
     }
   ],
   "lives":[
