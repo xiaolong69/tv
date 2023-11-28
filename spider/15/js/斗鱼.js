@@ -28,8 +28,8 @@ var rule = {
         znl:{cateId:'znl'},
         scjj:{cateId:'znl'}
     },
-    class_name:'娱乐天地&网游竞技&单机热游&手游休闲&颜值&科技文化&语音互动&语音直播&正能量&赛车竞技',// /api/cate/list
-    class_url:'yl&PCgame&djry&syxx&yz&kjwh&yp&voice&znl&scjj',
+    class_name:'娱乐天地&网游竞技&单机热游&手游休闲&科技文化&正能量&赛车竞技',// /api/cate/list
+    class_url:'yl&PCgame&djry&syxx&kjwh&znl&scjj',
     // detailUrl:'/fyid',//二级详情拼接链接(json格式用)
     detailUrl: 'http://live.yj1211.work/api/live/getRoomInfo?uid=&platform=douyu&roomId=fyid',// JustLive
     searchUrl:'/api/search/liveRoom?#did=10000000000000000000000000001501&limit=20&offset=0&sk=**;post',
@@ -47,6 +47,6 @@ var rule = {
     double:true,
     一级:'json:data.list;roomName;roomSrc;nickname;rid',
     // 二级:'*',
-    二级:'js:var d=[];var jo=JSON.parse(request(input)).data;VOD={vod_id:jo.roomId,vod_name:jo.roomName,vod_pic:jo.roomPic,type_name:jo.platForm.replace("douyu","斗鱼")+"."+jo.categoryName,vod_content:"🏷分区："+jo.platForm.replace("douyu","斗鱼")+"·"+jo.categoryName+" 🏷UP主："+jo.ownerName+" 🏷人气："+jo.online+(jo.isLive===1?" 🏷状态：正在直播":"状态：未开播"),};var playurl=JSON.parse(request("http://live.yj1211.work/api/live/getRealUrl?platform="+jo.platForm+"&roomId="+jo.roomId)).data;var name={OD:"JustLive",FD:"流畅",LD:"标清",SD:"高清",HD:"JustLive(预览)","2K":"2K","4K":"4K",FHD:"全高清",XLD:"极速",SQ:"普通音质",HQ:"高音质",};Object.keys(playurl).forEach(function(key){if(!/ayyuid|to/.test(key)){d.push({title:name[key],url:playurl[key]})}});d.push({title:"斗鱼解析1",url:"http://epg.112114.xyz/douyu/"+jo.roomId},{title:"斗鱼解析2",url:"https://www.aois.eu.org/live/douyu/"+jo.roomId},{title:"斗鱼解析3",url:"https://www.goodiptv.club/douyu/"+jo.roomId},{title:"斗鱼解析4",url:"http://maomao.kandiantv.cn/douyu1.php?id="+jo.roomId});VOD.vod_play_from="播放源";VOD.vod_play_url=d.map(function(it){return it.title+"$"+it.url}).join("#");setResult(d);',
+    二级:'js:var d=[];var jo=JSON.parse(request(input)).data;VOD={vod_id:jo.roomId,vod_name:jo.roomName,vod_pic:jo.roomPic,type_name:jo.platForm.replace("douyu","斗鱼")+"."+jo.categoryName,vod_content:"🏷分区："+jo.platForm.replace("douyu","斗鱼")+"·"+jo.categoryName+" 🏷UP主："+jo.ownerName+" 🏷人气："+jo.online+(jo.isLive===1?" 🏷状态：正在直播":"状态：未开播"),};var playurl=JSON.parse(request("http://live.yj1211.work/api/live/getRealUrl?platform="+jo.platForm+"&roomId="+jo.roomId)).data;var name={OD:"JustLive",FD:"流畅",LD:"标清",SD:"高清",HD:"JustLive(预览)","2K":"2K","4K":"4K",FHD:"全高清",XLD:"极速",SQ:"普通音质",HQ:"高音质",};Object.keys(playurl).forEach(function(key){if(!/ayyuid|to/.test(key)){d.push({title:name[key],url:playurl[key]})}});d.push({title:"斗鱼解析1",url:"http://epg.112114.xyz/douyu/"+jo.roomId},{title:"斗鱼解析2",url:"https://www.aois.eu.org/live/douyu/"+jo.roomId},{title:"斗鱼解析3",url:"https://www.goodiptv.club/douyu/"+jo.roomId});VOD.vod_play_from="播放源";VOD.vod_play_url=d.map(function(it){return it.title+"$"+it.url}).join("#");setResult(d);',
     搜索:'json:data.list;*;*;*;roomId',
 }
