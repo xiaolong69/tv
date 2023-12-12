@@ -43,23 +43,6 @@
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
-      "key": "小战影视",
-      "name": "(优)小战",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://d.xzam.cn/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "电影",
-        "国产剧",
-        "欧美剧",
-        "日韩剧"
-      ]
-    },
-    {
       "key": "js_czsapp",
       "name": "(优)厂长",
       "type": 3,
