@@ -414,16 +414,6 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/hoho.js"
     },
     {
-      "key": "csp_appysv2_毛子",
-      "name": "(良)毛子影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
-    },
-    {
       "key": "XBPQ_黑狐",
       "name": "(良)黑狐",
       "type": 3,
