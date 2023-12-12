@@ -349,16 +349,6 @@
 	]
     },
     {
-      "key": "js_ikanbot2",
-      "name": "(良)爱看机器",
-      "type": 3,
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/ikanbot2.js"
-    },
-   {
       "key": "秒看资源",
       "name": "(良)秒看",
       "type": 1,
