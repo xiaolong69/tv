@@ -1,6 +1,17 @@
 {
   "sites": [
     {
+      "key": "js_荐片",
+      "name": "(优)荐片",
+      "type": 3,
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/荐片.js",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "js_在线之家",
       "name": "(优)超前影视",
       "type": 3,
@@ -21,32 +32,15 @@
       "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408"
     },
     {
-      "key": "小战影视",
-      "name": "(优)小战",
-      "type": 1,
-      "playerType": 1,
-      "api": "http://d.xzam.cn/api.php/provide/vod/",
+      "key": "骑骑影院",
+      "name": "(优)骑骑",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "电影",
-        "国产剧",
-        "欧美剧",
-        "日韩剧"
-      ]
-    },
-    {
-      "key": "js_荐片",
-      "name": "(优)荐片",
-      "type": 3,
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/荐片.js",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
       "key": "js_czsapp",
@@ -196,19 +190,6 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/douban.js"
     },
     {
-      "key": "新片热播",
-      "name": "新片热播",
-      "type": 1,
-      "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "连续剧",
-        "动漫"
-      ]
-    },
-    {
       "key": "js_Xinsj",
       "name": "(良)新视觉",
       "type": 3,
@@ -325,42 +306,6 @@
       ]
     },
     {
-	"key": "cjzy_暴风资源",
-	"name": "(良)暴风资源",
-	"type": 1,
-	"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-	"playUrl": "",
-	"categories": [
-	"国产剧",
-	"国产动漫",
-	"大陆综艺",
-	"港台综艺",
-	"香港剧",
-	"台湾剧",
-	"日本剧",
-	"欧美剧",
-	"泰国剧",
-	"日本动漫",
-	"日本综艺",
-	"综艺频道",
-	"新马泰综艺",
-	"纪录片",
-	"科幻片",
-	"喜剧片",
-	"战争片"
-	]
-    },
-    {
-      "key": "js_ikanbot2",
-      "name": "(良)爱看机器",
-      "type": 3,
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/ikanbot2.js"
-    },
-   {
       "key": "秒看资源",
       "name": "(良)秒看",
       "type": 1,
@@ -404,37 +349,6 @@
       "filterable": 1,
       "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/json/好戏.json"
-    },
-    {
-      "key": "js_轰轰",
-      "name": "(良)轰轰",
-      "type": 3,
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/hoho.js"
-    },
-    {
-      "key": "csp_appysv2_毛子",
-      "name": "(良)毛子影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
-    },
-    {
-      "key": "骑骑影院",
-      "name": "(良)骑骑",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
       "key": "XBPQ_黑狐",
@@ -499,16 +413,6 @@
         "体育赛事",
         "海外剧"
       ]
-    },
-    {
-      "key": "XBPQ_蚂蚁",
-      "name": "(良)蚂蚁",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/json/mayi.json"
     },
     {
       "key": "csp_FreeOK",
@@ -824,34 +728,6 @@
       "name": "线路6",
       "url": "https://www.playm3u8.cn/jiexi.php?url=",
       "type": 0
-    },
-    {
-      "name": "自动1",
-      "type": 1,
-      "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "imgo",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
     },
     {
       "name": "Web解析",
