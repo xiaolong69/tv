@@ -53,25 +53,6 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/czspp.js"
     },
     {
-      "key": "csp_dadagui",
-      "name": "(优)达龟影视",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/json/达达龟.json"
-    },
-    {
-      "key": "csp_Btwtoo",
-      "name": "(优)Bttwoo",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "Kuaikan",
       "name": "(优)快看",
       "type": 3,
@@ -205,6 +186,16 @@
 	"type": 3,
 	"api": "csp_AppYsV2",
 	"ext": "http://www.miniku.cc/xgapp.php/v2/"
+    },
+    {
+      "key": "csp_dadagui",
+      "name": "(良)达龟影视",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/json/达达龟.json"
     },
     {
       "key": "csp_非凡资源",
