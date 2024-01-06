@@ -181,13 +181,6 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/xsj.js"
     },
     {
-	"key": "apv2_瑞丰",
-	"name": "(良)瑞丰",
-	"type": 3,
-	"api": "csp_AppYsV2",
-	"ext": "http://www.miniku.cc/xgapp.php/v2/"
-    },
-    {
       "key": "csp_dadagui",
       "name": "(良)达龟影视",
       "type": 3,
@@ -294,20 +287,6 @@
         "港台综艺",
         "日韩综艺",
         "欧美综艺"
-      ]
-    },
-    {
-      "key": "秒看资源",
-      "name": "(良)秒看",
-      "type": 1,
-      "api": "https://www.xy1080.net/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "综艺",
-        "电视剧",
-        "电影",
-        "动漫"
       ]
     },
     {
@@ -542,15 +521,6 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/B站精简.js"
     },
     {
-	"key": "MV_vod",
-	"name": "MTV合集",
-	"type": 1,
-	"api": "https://mv.wogg.link/mv/vod",
-	"searchable": 1,
-	"quickSearch": 1,
-	"filterable": 1
-    },
-    {
       "key": "js_哔哩直播",
       "name": "哔哩直播",
       "type": 3,
@@ -569,16 +539,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/斗鱼.js"
-    },
-    {
-      "key": "网易CC",
-      "name": "网易CC",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/json/网易CC.json"
     }
   ],
   "lives":[
