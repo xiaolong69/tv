@@ -12,16 +12,6 @@
       "filterable": 1
     },
     {
-      "key": "js_在线之家",
-      "name": "(优)超前影视",
-      "type": 3,
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/zxzj.js"
-    },
-    {
       "key": "csp_YQKan",
       "name": "(优)一起看",
       "type": 3,
@@ -30,17 +20,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408"
-    },
-    {
-      "key": "骑骑影院",
-      "name": "(优)骑骑",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
       "key": "js_czsapp",
@@ -403,6 +382,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/nongmin.js"
+    },
+   {
+      "key": "js_在线之家",
+      "name": "(良)超前影视",
+      "type": 3,
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/zxzj.js"
     },
     {
       "key": "csp_WoGG",
