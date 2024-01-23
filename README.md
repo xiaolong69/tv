@@ -18,12 +18,10 @@
 - 地址一 [https://xhdwc.tk/0](https://xhdwc.tk/0)  原[https://dxawi.github.io/0/0.json](https://dxawi.github.io/0/0.json)
 
 ## 其他APP推荐
-
 - [洛雪 lx-music-mobile-v1.2.0-beta.6-arm64-v8a.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.2.0-beta.6-arm64-v8a.apk)
 - [洛雪音源](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/sixyin-music-source-v1.0.7.js)
-
 - [小书包_23.05.06.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/小书包_23.05.06.apk)
-
 - [adbhelper_v1.3.0.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/adbhelper_v1.3.0.apk)
+- [via浏览器.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/via浏览器.apk)
 
 
