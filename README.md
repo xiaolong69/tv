@@ -10,7 +10,7 @@
 
 - 多仓版软件 [https://leesh.lanzoul.com/b00qd4imj](https://leesh.lanzoul.com/b00qd4imj)
 密码：1dnu
-- [多仓版APP下载 (影视仓tv版5.0.13.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/%E5%BD%B1%E8%A7%86%E4%BB%93tv%E7%89%885.0.13.apk)
+- [多仓版APP下载 (影视仓_5.0.22.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓_5.0.22.apk)
 - 微信公众号：多多APP
 - QQ频道：[应用多多](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1XbWa3rLtqN&businessType=9&from=181074&biz=ka&mainSourceId=share&subSourceId=others&jumpsource=shorturl#/out)
 
