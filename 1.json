@@ -394,7 +394,7 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/15/js/zxzj.js"
     },
     {
-      "key": "玩偶哥哥",
+      "key": "csp_WoGG",
       "name": "阿里玩偶",
       "type": 3,
       "api": "csp_WoGG",
@@ -404,7 +404,7 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt+4k|fhd|auto"
     },
     {
-      "key": "七夜",
+      "key": "csp_七夜",
       "name": "阿里七夜",
       "type": 3,
       "api": "csp_Dovx",
@@ -426,7 +426,7 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt+4k|fhd|auto"
     },
     {
-      "key": "UpYun",
+      "key": "Upyunso",
       "name": "阿里云搜",
       "type": 3,
       "api": "csp_UpYun",
@@ -437,7 +437,7 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt+4k|fhd|auto"
     },
     {
-      "key": "PanSou",
+      "key": "Alips",
       "name": "阿里盘搜",
       "type": 3,
       "api": "csp_PanSou",
@@ -448,7 +448,7 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt+4k|fhd|auto"
     },
     {
-      "key": "YiSo",
+      "key": "Yisou",
       "name": "阿里易搜",
       "type": 3,
       "api": "csp_YiSo",
