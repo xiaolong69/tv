@@ -4,15 +4,11 @@
 - 多仓 [https://xiaolong69.github.io/tv/duo.json](https://xiaolong69.github.io/tv/duo.json)
 
 ## TVBox软件地址（引用）
-- 单仓版软件 [https://github.com/pvqogw/TVBoxOSC/releases](https://github.com/pvqogw/TVBoxOSC/releases)
+- [APP下载（推荐） (TVBox_takagen99_20240130-1747.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20240130-1747.apk)
 - [APP兼容版下载 (TVBox_q215613905_20230716-2022.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20230716-2022.apk)
-- [APP下载 (TVBox_takagen99_20240128-0939.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20240128-0939.apk)
+- 单仓版软件源地址 [https://github.com/pvqogw/TVBoxOSC/releases](https://github.com/pvqogw/TVBoxOSC/releases)
 
-- 多仓版软件 [https://leesh.lanzoul.com/b00qd4imj](https://leesh.lanzoul.com/b00qd4imj)
-密码：1dnu
-- [多仓版APP下载 (影视仓_5.0.22.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓_5.0.22.apk)
-- 微信公众号：多多APP
-- QQ频道：[应用多多](https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1XbWa3rLtqN&businessType=9&from=181074&biz=ka&mainSourceId=share&subSourceId=others&jumpsource=shorturl#/out)
+- [多仓版APP下载 (影视仓_5.0.23.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓_5.0.23.apk)
 
 ## 其他APP推荐
 - [洛雪 lx-music-mobile-v1.2.0-beta.6-arm64-v8a.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.2.0-beta.6-arm64-v8a.apk)
