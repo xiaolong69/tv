@@ -248,16 +248,6 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt+4k|auto|fhd"
     },
     {
-      "key": "七夜",
-      "name": "阿里七夜",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt+4k|auto|fhd"
-    },
-    {
       "key": "Zhaozy",
       "name": "阿里找资源",
       "type": 3,
