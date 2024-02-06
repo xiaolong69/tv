@@ -52,6 +52,16 @@
       "changeable": 1
     },
     {
+      "key": "南坊",
+      "name": "(优)南坊",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
+    },
+    {
       "key": "毛驴",
       "name": "(优)毛驴",
       "type": 3,
@@ -69,16 +79,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "南坊",
-      "name": "(优)南坊",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
     },
     {
       "key": "酷看",
@@ -100,17 +100,6 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/nmys.json"
     },
     {
-      "key": "Czsapp",
-      "name": "(优)厂长",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy66.com/"
-    },
-     {
       "key": "DiDuan",
       "name": "(优)低端",
       "type": 3,
