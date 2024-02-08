@@ -4,6 +4,11 @@
 笑红尘,http://52bsj.vip:81/api/v3/file/get/97713/ba22f6ad1be11c9679f19bc8d866da15.mp4?sign=7T4la_UuJ8JzHAVur7ltNQwo6MqSkg5lQ6u2yh3XjOU%3D%3A0
 沧海一声笑,http://52bsj.vip:81/api/v3/file/get/129480/%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91.mp4?sign=xePyCzwnjsEkFhQ16uNlI2ndDiyOUnTptvBgj5DAXqE%3D%3A0
 
+🇨🇳｜央视,#genre#
+CCTV-1综合,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
+CCTV-2财经,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8#http://180.174.54.152:8801/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV-13新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504#https://pi.0472.org/tv/asam.php?auth=231110#https://pi.0472.org/tv/asam.php?auth=231110#http://hls.hsrtv.cn/live/hsyouxian.m3u8
+
 🇨🇳｜央视移动,#genre#
 CCTV-1综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-2财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
@@ -96,11 +101,9 @@ Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 🇨🇳｜国际,#genre#
 CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
-NHKWORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 半岛新闻AJA,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 半岛新闻AJE,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-金砖电视,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 亚洲新闻720P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻1080P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -119,6 +122,7 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 欧洲华文01,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39 
 欧洲华文02,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 欧洲华文06,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe 
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 
 💫｜️星驰经典,#genre#
 功夫,https://hnzy.bfvvs.com/play/lej5zYdj/index.m3u8
