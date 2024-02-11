@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/fan.txt;md5;1f399f48364375f6687cb69873482cc6",
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/fan.txt;md5;4eec8bf0a642330662224a01636e0df6",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
    {
@@ -13,7 +13,16 @@
       "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/drpy2.min.js",
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/jp.js"
     },
-     {
+      {
+      "key": "77",
+      "name": "(优)七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "一起看 ",
       "name": "(优)一起看",
       "type": 3,
@@ -42,16 +51,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "77",
-      "name": "(优)七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
+   {
       "key": "南坊",
       "name": "(优)南坊",
       "type": 3,
@@ -148,6 +148,16 @@
       ]
     },
     {
+      "key": "短剧",
+      "name": "(优)短剧在线",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://duanju.one"
+    },
+    {
       "key": "豆豆",
       "name": "豆瓣榜单",
       "type": 3,
@@ -166,16 +176,6 @@
       "changeable": 0
     },
     {
-      "key": "九六",
-      "name": "(良)九六",
-      "type": 3,
-      "api": "csp_Cs1369",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-   {
       "key": "Auete",
       "name": "(良)奥特",
       "type": 3,
@@ -183,7 +183,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://haozhansou.com/"
+      "ext": "https://auete.pro/"
     },
     {
       "key": "csp_SP33",
@@ -347,16 +347,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/MTV.json"
-    },
-    {
-      "key": "短剧",
-      "name": "短剧在线",
-      "type": 3,
-      "api": "csp_Duanju",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://duanju.one"
     },
     {
       "key": "虎牙直播js",
