@@ -41,45 +41,7 @@
       "changeable": 1,
       "ext": "https://www.hdmyy.com/"
     },
-   {
-      "key": "南瓜",
-      "name": "(优)南瓜",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-   {
-      "key": "南坊",
-      "name": "(优)南坊",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
-    },
-    {
-      "key": "率率",
-      "name": "(优)率率",
-      "type": 3,
-      "api": "csp_AppLd",
-      "playerType": 1,
-      "ext": "FbjSZ1FapovNr0QF4QvEpcoxKYZaFIdGVjVHqOzmh0sHApOErDLDkEnd/fT0RWOxfniO12FgzTJjcg0PGaZSYgk9BKPOkG6SZz0wlkFM9O11CrjANWExcUutLQ=="
-    },
-    {
-      "key": "毛驴",
-      "name": "(优)毛驴",
-      "type": 3,
-      "api": "csp_MLYS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/"
-    },
-    {
+  {
       "key": "csp_Bttoo",
       "name": "(优)比特",
       "type": 3,
@@ -96,16 +58,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "csp_Nmys",
-      "name": "(优)农民",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/nmys.json"
     },
     {
       "key": "DiDuan",
@@ -184,6 +136,44 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://auete.pro/"
+    },
+     {
+      "key": "毛驴",
+      "name": "(良)毛驴",
+      "type": 3,
+      "api": "csp_MLYS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.maolvys.com/"
+    },
+    {
+      "key": "南瓜",
+      "name": "(良)南瓜",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+   {
+      "key": "csp_Nmys",
+      "name": "(良)农民",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/nmys.json"
+    },
+    {
+      "key": "率率",
+      "name": "(良)率率",
+      "type": 3,
+      "api": "csp_AppLd",
+      "playerType": 1,
+      "ext": "FbjSZ1FapovNr0QF4QvEpcoxKYZaFIdGVjVHqOzmh0sHApOErDLDkEnd/fT0RWOxfniO12FgzTJjcg0PGaZSYgk9BKPOkG6SZz0wlkFM9O11CrjANWExcUutLQ=="
     },
     {
       "key": "csp_SP33",
@@ -264,15 +254,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt+4k|auto|fhd"
     },
     {
       "key": "csp_Dm84",
@@ -458,6 +439,15 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/高中课堂.json"
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt+4k|auto|fhd"
     }
   ],
   "parses": [
