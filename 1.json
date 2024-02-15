@@ -70,16 +70,6 @@
       "changeable": 1
     },
     {
-      "key": "南坊",
-      "name": "(优)南坊",
-      "type": 3,
-      "api": "csp_Appto",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJGU3QP9+aykEFcCJTRtWyLyATI/Kr0RWOrdmmE82op1Sp3CSI5WoN6fFdLHN+LxA+CamUTj3pr0P4lAumpPCpzMgL5ZXIuytPprjLXKt5kbYcwtkFA9gT8BgdcY6mr40MUeodBOmAdLR2v8uYbpugEDOo5fQ=="
-    },
-    {
       "key": "zy_新浪",
       "name": "(优)新浪资源",
       "type": 1,
