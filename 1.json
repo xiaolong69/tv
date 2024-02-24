@@ -110,6 +110,15 @@
       "ext": "http://aiduanju.vip/"
     },
     {
+      "key": "种子短剧",
+      "name": "(优)短剧种子",
+      "type": 3,
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/js/drpy2.min.js",
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/js/种子短剧.js",
+      "playerType": 2,
+      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/custom_spider.jar;md5;C0BCD1D11086FF61FEC8B850E7A3196A"
+    },
+    {
       "key": "豆豆",
       "name": "豆瓣榜单",
       "type": 3,
