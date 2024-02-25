@@ -2,16 +2,7 @@
   "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/fan.txt;md5;87d5916b7bb5c8acacac5490e802828e",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
-  {
-      "key": "77",
-      "name": "(优)七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-     {
+    {
       "key": "贱贱",
       "name": "(优)荐片",
       "type": 3,
@@ -22,7 +13,26 @@
       "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/drpy2.min.js",
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/jp.js"
     },
-      {
+    {
+      "key": "77",
+      "name": "(优)七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "(优)农民",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/nmys.json"
+    },
+   {
       "key": "一起看 ",
       "name": "(优)一起看",
       "type": 3,
@@ -31,17 +41,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-   {
-      "key": "Xinsj",
-      "name": "(优)新视觉",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.hdmyy.com/"
-    },
-  {
+    {
       "key": "csp_Bttoo",
       "name": "(优)比特",
       "type": 3,
@@ -58,6 +58,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "攻阁",
+      "name": "(优)攻阁",
+      "type": 3,
+      "api": "csp_Lggys",
+      "playerType": 2,
+      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/custom_spider.jar;md5;C0BCD1D11086FF61FEC8B850E7A3196A"
     },
     {
       "key": "DiDuan",
@@ -100,16 +108,6 @@
       ]
     },
     {
-      "key": "短剧",
-      "name": "(优)短剧在线",
-      "type": 3,
-      "api": "csp_Duanju",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://aiduanju.vip/"
-    },
-    {
       "key": "种子短剧",
       "name": "(优)短剧种子",
       "type": 3,
@@ -117,6 +115,16 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/js/种子短剧.js",
       "playerType": 2,
       "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/custom_spider.jar;md5;C0BCD1D11086FF61FEC8B850E7A3196A"
+    },
+    {
+      "key": "短剧",
+      "name": "短剧在线",
+      "type": 3,
+      "api": "csp_Duanju",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://aiduanju.vip/"
     },
     {
       "key": "豆豆",
@@ -146,16 +154,6 @@
       "changeable": 1,
       "ext": "https://auete.pro/"
     },
-     {
-      "key": "毛驴",
-      "name": "(良)毛驴",
-      "type": 3,
-      "api": "csp_MLYS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/"
-    },
     {
       "key": "南瓜",
       "name": "(良)南瓜",
@@ -165,16 +163,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-   {
-      "key": "csp_Nmys",
-      "name": "(良)农民",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/nmys.json"
     },
     {
       "key": "csp_SP33",
