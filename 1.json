@@ -45,6 +45,17 @@
       "name": "(优)酷看",
       "type": 3,
       "api": "csp_Kkys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+   {
+      "key": "原创",
+      "name": "(优)原创",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -92,10 +103,11 @@
       "name": "(优)新视觉",
       "type": 3,
       "api": "csp_Xinsj",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.hdmyy.com/"
+      "ext": "https://www.80yy3.com/"
     },
     {
       "key": "zy_新浪",
@@ -135,16 +147,6 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/js/种子短剧.js",
       "playerType": 2,
       "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/PandaQ240301.jar;md5;2bd36e31012694d10a19fab6515d60d8"
-    },
-    {
-      "key": "短剧",
-      "name": "短剧在线",
-      "type": 3,
-      "api": "csp_Duanju",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://aiduanju.vip/"
     },
     {
       "key": "豆豆",
