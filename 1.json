@@ -180,6 +180,7 @@
       "name": "(优)AList",
       "type": 3,
       "api": "csp_AList",
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
