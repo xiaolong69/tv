@@ -84,17 +84,6 @@
       "changeable": 1
     },
    {
-      "key": "csp_Nmys",
-      "name": "(优)农民",
-      "type": 3,
-      "api": "csp_Nmys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/nmys.json"
-    },
-    {
       "key": "DiDuan",
       "name": "(优)低端",
       "type": 3,
@@ -380,6 +369,17 @@
       "ext": "https://www.maolvys.com/"
     },
     {
+      "key": "csp_Nmys",
+      "name": "(良)农民",
+      "type": 3,
+      "api": "csp_Nmys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/nmys.json"
+    },
+    {
       "key": "csp_SP33",
       "name": "(良)三三[解析]",
       "type": 3,
@@ -451,13 +451,13 @@
     },
     {
       "key": "夸搜",
-      "name": "🐺夸搜┃搜索",
+      "name": "夸搜搜索",
       "type": 3,
       "api": "csp_QuarkPanso",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt---4k|auto|fhd"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt---4k|auto|fhd"
     },
     {
       "key": "csp_Dm84",
