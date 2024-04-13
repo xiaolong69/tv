@@ -1,14 +1,14 @@
 ## TVBox配置地址（自用）
-- 单仓（方式一） [https://xiaolong69.github.io/tv/1.json](https://xiaolong69.github.io/tv/1.json)  
-- 单仓（方式二）[https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json)
-- 多仓 [https://xiaolong69.github.io/tv/duo.json](https://xiaolong69.github.io/tv/duo.json)
+- 单仓（方式一） <https://xiaolong69.github.io/tv/1.json>
+- 单仓（方式二）<https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json>
+- 多仓 <https://xiaolong69.github.io/tv/duo.json>
 
 ## TVBox软件地址（引用）
-- [APP下载（推荐） (TVBox_takagen99_20240330-2141.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20240330-2141.apk)
+- [APP下载（推荐） (TVBox_takagen99_20240331-1227.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20240331-1227.apk)
 - [APP兼容版下载 (TVBox_q215613905_20230716-2022.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20230716-2022.apk)
-- 单仓版软件源地址 [https://github.com/pvqogw/TVBoxOSC/releases](https://github.com/pvqogw/TVBoxOSC/releases)
+- 单仓版软件源地址 <https://github.com/pvqogw/TVBoxOSC/releases>
 
-- [多仓版APP下载 (影视仓_5.0.25.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓_5.0.25.apk)
+- [多仓版APP下载 (影视仓_5.0.28.1.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓_5.0.28.1.apk)
 
 ## 其他APP推荐
 - [洛雪 lx-music-mobile-v1.2.0-arm64-v8a.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.2.0-arm64-v8a.apk)

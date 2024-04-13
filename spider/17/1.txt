@@ -1,5 +1,5 @@
 {
-  "spider": "http://happy.xn--z7x900a.live/jar/PandaQ240327.jar;md5;d1f7fe48d8dbb45338d393d55086116f",
+  "spider": "http://happy.xn--z7x900a.live/jar/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "sites": [
     {
@@ -193,9 +193,7 @@
       "name": "🌅┃白嫖┃影视",
       "type": 3,
       "api": "csp_BaiPiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "playerType": "2"
     },
     {
       "key": "saohuo",
@@ -694,9 +692,7 @@
         "ffzy"
       ],
       "regex": [
-        "25.0666",
-        "25.08",
-        "20.52"
+        "18.0"
       ]
     },
     {
@@ -705,8 +701,8 @@
         "lz"
       ],
       "regex": [
-        "18.5333",
-        "19.52"
+        "17.2",
+        "19.84"
       ]
     },
     {
@@ -724,6 +720,7 @@
         "yzzy"
       ],
       "regex": [
+        "18.66",
         "19.52",
         "19.13"
       ]
@@ -745,20 +742,8 @@
         "kuaikan"
       ],
       "regex": [
-        "20.123",
-        "20.167"
-      ]
-    },
-    {
-      "name": "♻️索尼",
-      "hosts": [
-        "suonizy"
-      ],
-      "regex": [
-        "16.3333",
-        "15.1666",
-        "15.2666",
-        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+"
+        "15.32",
+        "15.231"
       ]
     },
     {
@@ -768,16 +753,6 @@
       ],
       "regex": [
         "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
-      ]
-    },
-    {
-      "name": "♻️蜗牛",
-      "hosts": [
-        "vip.123pan.cn",
-        "rescdn.wuxivlog.cn"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY[\\s\\S]+?#EXT-X-DISCONTINUITY"
       ]
     },
     {

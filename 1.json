@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/fan.txt;md5;a94015e02cd9886492add6f9b1705dba",
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/fan.txt;md5;29b4ef28be2f88e3ae3f37682e19e309",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -25,7 +25,7 @@
       "ext": "https://www.zxzja.com/"
     },
     {
-      "key": "77",
+      "key": "七七",
       "name": "(优)七七",
       "type": 3,
       "api": "csp_Kunyu77",
@@ -44,7 +44,7 @@
       "changeable": 1
     },
     {
-      "key": "csp_Bttoo",
+      "key": "比特",
       "name": "(优)比特",
       "type": 3,
       "api": "csp_Bttwoo",
@@ -84,7 +84,7 @@
       "changeable": 1
     },
    {
-      "key": "DiDuan",
+      "key": "低端",
       "name": "(优)低端",
       "type": 3,
       "api": "csp_Ddrk",
@@ -94,7 +94,7 @@
       "changeable": 1
     },
     {
-      "key": "Xinsj",
+      "key": "视觉",
       "name": "(优)新视觉",
       "type": 3,
       "api": "csp_Xinsj",
@@ -114,7 +114,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy77.com/"
+      "ext": "https://www.czys03.com/"
     },
      {
       "key": "zy_新浪",
@@ -153,7 +153,7 @@
       "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/js/drpy2.min.js",
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/js/种子短剧.js",
       "playerType": 2,
-      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/PandaQ.jar;md5;d1f7fe48d8dbb45338d393d55086116f"
+      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/PandaQ.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43"
     },
     {
       "key": "短剧",
@@ -184,15 +184,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "YGP",
-      "name": "新片推荐",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
     },
     {
       "key": "csp_非凡资源",
@@ -352,6 +343,7 @@
       "name": "(良)奥特",
       "type": 3,
       "api": "csp_Auete",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -369,7 +361,7 @@
       "ext": "https://www.maolvys.com/"
     },
     {
-      "key": "csp_Nmys",
+      "key": "农民",
       "name": "(良)农民",
       "type": 3,
       "api": "csp_Nmys",
@@ -378,16 +370,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/nmys.json"
-    },
-    {
-      "key": "csp_SP33",
-      "name": "(良)三三[解析]",
-      "type": 3,
-      "api": "csp_SP33",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
     },
     {
       "key": "新6V",
@@ -400,16 +382,22 @@
       "ext": "http://www.xb6v.com/"
     },
     {
-      "key": "玩偶哥哥",
+      "key": "玩偶",
       "name": "阿里玩偶",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt---4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+      "ext": {
+        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "quarkCookie": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
+        "from": "4k|auto|fhd",
+        "siteUrl": "https://api.wogg.xyz/",
+        "danMu": "弹"
+      }
     },
-    {
+   {
       "key": "YiSo",
       "name": "阿里易搜",
       "type": 3,
@@ -417,7 +405,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt---4k|auto|fhd"
+      "ext": {
+        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "PanSou",
@@ -427,7 +418,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt---4k|auto|fhd"
+      "ext": {
+        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "UpYun",
@@ -437,7 +431,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt---4k|auto|fhd"
+      "ext": {
+        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "PanSearch",
@@ -447,7 +444,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt---4k|auto|fhd"
+      "ext": {
+        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "夸搜",
@@ -457,7 +457,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt---4k|auto|fhd"
+      "ext": {
+        "quarkCookie": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "csp_Dm84",
