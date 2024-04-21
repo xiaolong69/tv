@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/fan.txt;md5;29b4ef28be2f88e3ae3f37682e19e309",
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/fan.txt;md5;5d951f2dbd9e24ce7cc82c59d46f8417",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -23,15 +23,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzja.com/"
-    },
-    {
-      "key": "一起看 ",
-      "name": "(优)一起看",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "比特",
@@ -104,7 +95,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czys03.com/"
+      "ext": "https://www.cz233.com/"
     },
      {
       "key": "zy_新浪",
@@ -144,16 +135,6 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/js/种子短剧.js",
       "playerType": 2,
       "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/PandaQ.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43"
-    },
-    {
-      "key": "短剧",
-      "name": "(优)上头短剧",
-      "type": 3,
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/drpy2.min.js",
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/上头短剧.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
     },
     {
       "key": "alist",
@@ -443,11 +424,12 @@
       "key": "夸搜",
       "name": "夸搜搜索",
       "type": 3,
-      "api": "csp_QuarkPanso",
+      "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": {
+      "ext":  {
+        "pan": "quark",
         "quarkCookie": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
         "from": "4k|auto|fhd"
       }
@@ -499,7 +481,7 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/biliych.json"
     },
     {
-      "key": "酷奇js",
+      "key": "酷奇",
       "name": "酷奇MV",
       "type": 3,
       "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/drpy2.min.js",
