@@ -11,9 +11,9 @@
 - [多仓版APP下载 (影视仓_5.0.28.1.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓_5.0.28.1.apk)
 
 ## 其他APP推荐
-- [洛雪 lx-music-mobile-v1.2.0-arm64-v8a.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.2.0-arm64-v8a.apk)
-- [洛雪音源](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/sixyin-music-source-v1.1.0.zip)
-- [小书包_23.05.06.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/小书包_23.05.06.apk)
+- [洛雪 lx-music-mobile-v1.3.0-arm64-v8a.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.3.0-arm64-v8a.apk)
+- [洛雪音源](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/sixyin-music-source-v1.1.0.js)
+- [小书包_24.04.14.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/小书包_24.04.14.apk)
 - [adbhelper_v1.3.0.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/adbhelper_v1.3.0.apk)
 - [via浏览器.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/via浏览器.apk)
 
