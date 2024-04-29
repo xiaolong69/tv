@@ -1,5 +1,5 @@
 {
-  "spider": "http://happy.xn--z7x900a.live/jar/PandaQ240408.jar;md5;88F56CB18FA3F1EB16C96FD0C00B6F43",
+  "spider": "https://cloud.lxweb.cn/f/ePJWIa/PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
   "sites": [
     {
@@ -30,7 +30,7 @@
       "name": "🐦┃视觉┃影视",
       "type": 3,
       "api": "csp_Xinsj",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.80yy3.com/"
@@ -40,8 +40,28 @@
       "name": "🏔┃耐看┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "csp_Nkdy",
-      "searchable": 0
+      "api": "csp_Nkdy"
+    },
+    {
+      "key": "csp_NfApp",
+      "name": "🔷┃南坊┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_NfApp"
+    },
+    {
+      "key": "csp_Czys",
+      "name": "🍊┃橙汁┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Czys"
+    },
+    {
+      "key": "csp_Juqq",
+      "name": "⭕┃剧圈┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Juqq"
     },
     {
       "key": "csp_LiteApple",
@@ -92,7 +112,8 @@
       "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://www.cz233.com/"
     },
     {
       "key": "csp_AppRZ",
@@ -101,13 +122,6 @@
       "playerType": "2",
       "api": "csp_AppRZ",
       "ext": "http://rzys.xyz/"
-    },
-    {
-      "key": "攻阁",
-      "name": "🏮┃攻阁┃影视",
-      "type": 3,
-      "api": "csp_Lggys",
-      "playerType": 2
     },
     {
       "key": "csp_Freeok",
@@ -212,19 +226,19 @@
       "ext": "http://dt.xn--yety82d.love/js/爱看.js"
     },
     {
-      "key": "外剧影视",
-      "name": "🙋┃外剧┃影视",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_KmeiJu"
-    },
-    {
       "key": "云播影视",
       "name": "☁️┃云播┃影视",
       "type": 3,
       "playerType": "2",
       "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
       "ext": "http://dt.xn--yety82d.love/js/TVB云播.js"
+    },
+    {
+      "key": "小蚂蚁",
+      "name": "🐜┃蚂蚁┃影视",
+      "type": 3,
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/小蚂蚁2.js"
     },
     {
       "key": "csp_Xb6v",
