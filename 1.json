@@ -137,13 +137,13 @@
       ]
     },
     {
-      "key": "种子短剧",
-      "name": "(优)短剧种子",
+      "key": "短剧",
+      "name": "(优)短剧",
       "type": 3,
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/js/drpy2.min.js",
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/js/种子短剧.js",
-      "playerType": 2,
-      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/PandaQ.jar;md5;9f15ade02721f30f65880bef1271be69"
+      "api": "csp_Djuu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "alist",
