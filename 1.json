@@ -65,17 +65,6 @@
       "changeable": 1
     },
     {
-      "key": "南瓜",
-      "name": "(优)南瓜",
-      "type": 3,
-      "api": "csp_NanGua",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-   {
       "key": "低端",
       "name": "(优)低端",
       "type": 3,
