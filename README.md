@@ -12,7 +12,7 @@
 
 ## 其他APP推荐
 - [洛雪 lx-music-mobile-v1.4.2-arm64-v8a.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.4.2-arm64-v8a.apk)
-- [洛雪音源](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/sixyin-music-source-v1.1.0.js)
+- [洛雪音源](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/sixyin-music-source-v1.2.0.js)
 - [小书包_24.04.14.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/小书包_24.04.14.apk)
 - [adbhelper_v1.3.0.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/adbhelper_v1.3.0.apk)
 - [via浏览器.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/via浏览器.apk)
