@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -13,16 +13,15 @@
       "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/drpy2.min.js",
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/jp.js"
     },
-    {
-      "key": "zxzj",
-      "name": "(优)在线之家",
+     {
+      "key": "文采",
+      "name": "(优)文采",
       "type": 3,
-      "api": "csp_Zxzj",
-      "timeout": 15,
+      "api": "csp_Jpys",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
+      "changeable": 1
     },
     {
       "key": "比特",
@@ -301,6 +300,17 @@
       ]
     },
     {
+      "key": "zxzj",
+      "name": "(良)在线之家",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
+    },
+    {
       "key": "新6V",
       "name": "(良)新6V[磁力]",
       "type": 3,
@@ -344,6 +354,19 @@
       "name": "阿里盘搜",
       "type": 3,
       "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "from": "4k|auto|fhd"
+      }
+    },
+    {
+      "key": "UpYun",
+      "name": "阿里Up搜",
+      "type": 3,
+      "api": "csp_UpYun",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,

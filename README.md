@@ -4,7 +4,7 @@
 - 多仓 <https://xiaolong69.github.io/tv/duo.json>
 
 ## TVBox软件地址（引用）
-- [APP下载（推荐） (TVBox_takagen99_20240331-1227.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20240331-1227.apk)
+- [APP下载（推荐） (TVBox_takagen99_20240612-1920.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20240612-1920.apk)
 - [APP老设备版本下载 (TVBox_q215613905_20230716-2022.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20230716-2022.apk)
 - 单仓版软件源地址 <https://github.com/pvqogw/TVBoxOSC/releases>
 
