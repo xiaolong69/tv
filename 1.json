@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/fan.txt;md5;5ee96d541532306c3acc8c0fc229acbf",
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -83,7 +83,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.libvio.pw/"
+      "ext": "https://www.libvio.cc/"
     },
     {
       "key": "视觉",
@@ -94,7 +94,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.80yy3.com/"
+      "ext": "https://www.6080yy3.com/"
     },
    {
       "key": "zy_新浪",
@@ -125,6 +125,20 @@
         "泰剧",
         "体育"
       ]
+    },
+    {
+      "key": "在线短剧",
+      "name": "(优)在线短剧",
+      "type": 3,
+      "api": "csp_Duanju",
+      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/18/okjpg.txt;md5;2e4fb417f533ea049b6a29693d2e5818",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "timeout": 10
     },
     {
       "key": "短剧",
@@ -252,51 +266,6 @@
         "港台综艺",
         "日韩综艺",
         "欧美综艺"
-      ]
-    },
-    {
-      "key": "49zy",
-      "name": "(良)狮九资源",
-      "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "纪录片",
-        "欧美剧",
-        "香港剧",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "喜剧片",
-        "动画片",
-        "犯罪片",
-        "韩国剧",
-        "动漫",
-        "电影",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "台湾剧",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "泰国剧",
-        "日剧",
-        "电影解说",
-        "奇幻片",
-        "灾难片",
-        "悬疑片",
-        "其他片",
-        "体育赛事",
-        "海外剧"
       ]
     },
     {
