@@ -317,8 +317,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
-        "quarkCookie": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
         "from": "4k|auto",
         "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
@@ -346,7 +345,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
         "from": "4k|auto"
       }
     },
@@ -359,7 +358,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
         "from": "4k|auto"
       }
     },
@@ -372,7 +371,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
         "from": "4k|auto"
       }
     },
@@ -386,7 +385,7 @@
       "changeable": 0,
       "ext":  {
         "pan": "quark",
-        "quarkCookie": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
         "from": "4k|auto"
       }
     },
