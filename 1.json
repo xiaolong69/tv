@@ -100,36 +100,6 @@
       "changeable": 0
     },
      {
-      "key": "zy_新浪",
-      "name": "(优)新浪资源",
-      "type": 3,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/", 
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "动漫",
-        "综艺",
-        "纪录片",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "剧情片",
-        "恐怖片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "体育"
-      ]
-    },
-    {
       "key": "短剧",
       "name": "(优)上头短剧",
       "type": 3,
