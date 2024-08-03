@@ -1,17 +1,8 @@
 {
-  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/fan.txt;md5;87d5916b7bb5c8acacac5490e802828e",
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
-  {
-      "key": "77",
-      "name": "(优)七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-     {
+    {
       "key": "贱贱",
       "name": "(优)荐片",
       "type": 3,
@@ -22,27 +13,18 @@
       "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/drpy2.min.js",
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/jp.js"
     },
-      {
-      "key": "一起看 ",
-      "name": "(优)一起看",
+     {
+      "key": "文采",
+      "name": "(优)文采",
       "type": 3,
-      "api": "csp_YQKan",
+      "api": "csp_Jpys",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
-   {
-      "key": "Xinsj",
-      "name": "(优)新视觉",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.hdmyy.com/"
-    },
-  {
-      "key": "csp_Bttoo",
+    {
+      "key": "比特",
       "name": "(优)比特",
       "type": 3,
       "api": "csp_Bttwoo",
@@ -55,12 +37,23 @@
       "name": "(优)酷看",
       "type": 3,
       "api": "csp_Kkys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+   {
+      "key": "原创",
+      "name": "(优)原创",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
     {
-      "key": "DiDuan",
+      "key": "低端",
       "name": "(优)低端",
       "type": 3,
       "api": "csp_Ddrk",
@@ -70,6 +63,40 @@
       "changeable": 1
     },
     {
+      "key": "厂长",
+      "name": "(优)厂长",
+      "type": 3,
+      "api": "csp_NewCz",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://czzy.top/"
+    },
+    {
+      "key": "Lib",
+      "name": "(优)立播",
+      "type": 3,
+      "api": "csp_Libvio",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.libvio.cc/"
+    },
+    {
+      "key": "视觉",
+      "name": "(优)新视觉",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.6080yy3.com/"
+    },
+   {
       "key": "zy_新浪",
       "name": "(优)新浪资源",
       "type": 1,
@@ -100,14 +127,38 @@
       ]
     },
     {
-      "key": "短剧",
-      "name": "(优)短剧在线",
+      "key": "在线短剧",
+      "name": "(优)在线短剧",
       "type": 3,
       "api": "csp_Duanju",
+      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/18/okjpg.txt;md5;2e4fb417f533ea049b6a29693d2e5818",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "timeout": 10
+    },
+    {
+      "key": "短剧",
+      "name": "(优)短剧",
+      "type": 3,
+      "api": "csp_Djuu",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://aiduanju.vip/"
+      "changeable": 1
+    },
+    {
+      "key": "alist",
+      "name": "(优)AList",
+      "type": 3,
+      "api": "csp_AList",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/alist.json"
     },
     {
       "key": "豆豆",
@@ -119,63 +170,114 @@
       "filterable": 0
     },
     {
-      "key": "YGP",
-      "name": "新片推荐",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "Auete",
-      "name": "(良)奥特",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.pro/"
-    },
-     {
-      "key": "毛驴",
-      "name": "(良)毛驴",
-      "type": 3,
-      "api": "csp_MLYS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/"
-    },
-    {
-      "key": "南瓜",
-      "name": "(良)南瓜",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-   {
-      "key": "csp_Nmys",
-      "name": "(良)农民",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/nmys.json"
-    },
-    {
-      "key": "csp_SP33",
-      "name": "(良)三三[解析]",
-      "type": 3,
-      "api": "csp_SP33",
+      "key": "csp_非凡资源",
+      "name": "(良)非凡资源",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "playurl":"json:http://jx.84jia.com/m3u8ts.php?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 0
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "量子资源",
+      "name": "(良)量子资源",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "playurl":"json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ]
+    },
+    {
+      "key": "csp_SNzy",
+      "name": "(良)索尼高清",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "zxzj",
+      "name": "(良)在线之家",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
     },
     {
       "key": "新6V",
@@ -188,16 +290,22 @@
       "ext": "http://www.xb6v.com/"
     },
     {
-      "key": "玩偶哥哥",
+      "key": "玩偶",
       "name": "阿里玩偶",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+      "ext": {
+        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "quarkCookie": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
+        "from": "4k|auto|fhd",
+        "siteUrl": "https://www.wogg.link/",
+        "danMu": "弹"
+      }
     },
-    {
+   {
       "key": "YiSo",
       "name": "阿里易搜",
       "type": 3,
@@ -205,7 +313,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt+4k|auto|fhd"
+      "ext": {
+        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "PanSou",
@@ -215,7 +326,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt+4k|auto|fhd"
+      "ext": {
+        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "UpYun",
@@ -225,7 +339,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt+4k|auto|fhd"
+      "ext": {
+        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
       "key": "PanSearch",
@@ -235,21 +352,42 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt+4k|auto|fhd"
+      "ext": {
+        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
-      "key": "Zhaozy",
-      "name": "阿里找资源",
+      "key": "夸搜",
+      "name": "夸搜搜索",
       "type": 3,
-      "api": "csp_Zhaozy",
+      "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"
+      "ext":  {
+        "pan": "quark",
+        "quarkCookie": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
+        "from": "4k|auto|fhd"
+      }
     },
     {
-      "key": "csp_Dm84",
-      "name": "动漫巴士",
+      "key": "米搜",
+      "name": "米搜搜索",
+      "type": 3,
+      "api": "csp_MIPanSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "pan": "quark",
+        "quarkCookie": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
+        "from": "4k|auto|fhd"
+      }
+    },
+    {
+      "key": "Dm84",
+      "name": "巴士动漫",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -257,7 +395,7 @@
       "changeable": 1
     },
     {
-      "key": "csp_Ying",
+      "key": "Ying",
       "name": "樱花动漫",
       "type": 3,
       "api": "csp_Ying",
@@ -294,7 +432,7 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/biliych.json"
     },
     {
-      "key": "酷奇js",
+      "key": "酷奇",
       "name": "酷奇MV",
       "type": 3,
       "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/drpy2.min.js",
@@ -326,7 +464,7 @@
       "name": "虎牙直播",
       "type": 3,
       "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/drpy2.min.js",
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/huyazhibo.js",
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -439,7 +577,10 @@
       "api": "csp_Push",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt+4k|auto|fhd"
+      "ext": {
+        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "from": "4k|auto|fhd"
+      }
     }
   ],
   "parses": [
@@ -528,119 +669,6 @@
       ]
     }
   ],
-  "rules": [
-    {
-      "name": "hwk",
-      "hosts": [
-        "haiwaikan"
-      ],
-      "regex": [
-        "10.0099",
-        "10.3333",
-        "16.0599",
-        "8.1748",
-        "10.85"
-      ]
-    },
-    {
-      "name": "yqk",
-      "hosts": [
-        "yqk88"
-      ],
-      "regex": [
-        "18.4",
-        "15.1666"
-      ]
-    },
-    {
-      "name": "sn",
-      "hosts": [
-        "suonizy"
-      ],
-      "regex": [
-        "15.1666",
-        "15.2666"
-      ]
-    },
-    {
-      "name": "bf",
-      "hosts": [
-        "bfzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "xx",
-      "hosts": [
-        "aws.ulivetv.net"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "lz",
-      "hosts": [
-        "vip.lz",
-        "hd.lz",
-        "v.cdnlz1",
-        "v.cdnlz"
-      ],
-      "regex": [
-        "18.5333"
-      ]
-    },
-    {
-      "name": "非凡",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": [
-        "25.0666"
-      ]
-    },
-    {
-      "name": "hs",
-      "hosts": [
-        "huoshan.com"
-      ],
-      "regex": [
-        "item_id="
-      ]
-    },
-    {
-      "name": "dy",
-      "hosts": [
-        "douyin.com"
-      ],
-      "regex": [
-        "is_play_url="
-      ]
-    },
-    {
-      "name": "nm",
-      "hosts": [
-        "toutiaovod.com"
-      ],
-      "regex": [
-        "video/tos/cn"
-      ]
-    },
-    {
-      "name": "cl",
-      "hosts": [
-        "magnet"
-      ],
-      "regex": [
-        "最 新",
-        "直 播",
-        "更 新"
-      ]
-    }
-  ],
   "lives": [
     {
       "name": "live",
@@ -649,7 +677,8 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    { "group":"redirect",
+    { 
+          "group":"redirect",
 	  "channels":[{
 	  "name":"live",
           "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",

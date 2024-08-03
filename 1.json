@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/fan.txt;md5;b4518597b341123213f6208fbfab7c1b",
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;d295ec4dcf9a78f8441996009a88ecb0",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -10,8 +10,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/drpy2.min.js",
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/jp.js"
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/drpy2.min.js",
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/jp.js"
     },
      {
       "key": "文采",
@@ -72,18 +72,20 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://czzy.top/"
+      "ext": "https://www.czys.pro/"
     },
     {
       "key": "Lib",
       "name": "(优)立播",
       "type": 3,
       "api": "csp_Libvio",
-      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.libvio.cc/"
+      "ext": {
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
+        "from": "4k|auto"
+      }
     },
     {
       "key": "视觉",
@@ -97,6 +99,37 @@
       "ext": "https://www.6080yy3.com/"
     },
    {
+      "key": "Auete",
+      "name": "(优)奥特",
+      "type": 3,
+      "api": "csp_Auete",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.pro/"
+    },
+    {
+      "key": "可可",
+      "name": "(优)可可多线",
+      "type": 3,
+      "api": "csp_Kekys",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "小点",
+      "name": "(优)小点多线",
+      "type": 3,
+      "api": "csp_Appxdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
       "key": "zy_新浪",
       "name": "(优)新浪资源",
       "type": 1,
@@ -127,24 +160,10 @@
       ]
     },
     {
-      "key": "在线短剧",
-      "name": "(优)在线短剧",
-      "type": 3,
-      "api": "csp_Duanju",
-      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/18/okjpg.txt;md5;2e4fb417f533ea049b6a29693d2e5818",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "timeout": 10
-    },
-    {
       "key": "短剧",
-      "name": "(优)短剧",
+      "name": "(优)上头短剧",
       "type": 3,
-      "api": "csp_Djuu",
+      "api": "csp_Djtt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -158,7 +177,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/alist.json"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/json/alist.json"
     },
     {
       "key": "豆豆",
@@ -300,8 +319,8 @@
       "ext": {
         "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
         "quarkCookie": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
-        "from": "4k|auto|fhd",
-        "siteUrl": "https://www.wogg.link/",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
       }
     },
@@ -314,8 +333,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "from": "4k|auto"
       }
     },
     {
@@ -328,7 +347,7 @@
       "changeable": 0,
       "ext": {
         "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
-        "from": "4k|auto|fhd"
+        "from": "4k|auto"
       }
     },
     {
@@ -341,7 +360,7 @@
       "changeable": 0,
       "ext": {
         "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
-        "from": "4k|auto|fhd"
+        "from": "4k|auto"
       }
     },
     {
@@ -354,7 +373,7 @@
       "changeable": 0,
       "ext": {
         "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
-        "from": "4k|auto|fhd"
+        "from": "4k|auto"
       }
     },
     {
@@ -368,7 +387,20 @@
       "ext":  {
         "pan": "quark",
         "quarkCookie": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
-        "from": "4k|auto|fhd"
+        "from": "4k|auto"
+      }
+    },
+     {
+      "key": "盘他",
+      "name": "盘他搜索",
+      "type": 3,
+      "api": "csp_PanTa",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
+        "from": "4k|auto"
       }
     },
     {
@@ -380,9 +412,8 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "pan": "quark",
-        "quarkCookie": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
-        "from": "4k|auto|fhd"
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
+        "from": "4k|auto"
       }
     },
     {
@@ -390,15 +421,6 @@
       "name": "巴士动漫",
       "type": 3,
       "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Ying",
-      "name": "樱花动漫",
-      "type": 3,
-      "api": "csp_Ying",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -429,14 +451,14 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/biliych.json"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/json/biliych.json"
     },
     {
       "key": "酷奇",
       "name": "酷奇MV",
       "type": 3,
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/drpy2.min.js",
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/酷奇MV.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/drpy2.min.js",
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -457,18 +479,19 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/MTV.json"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/json/MTV.json"
     },
     {
       "key": "虎牙直播js",
       "name": "虎牙直播",
       "type": 3,
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/drpy2.min.js",
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/huya2.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/drpy2.min.js",
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
       },
+      "playerType": "1",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -477,12 +500,13 @@
       "key": "斗鱼js",
       "name": "斗鱼直播",
       "type": 3,
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/drpy2.min.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/drpy2.min.js",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/16/js/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
       },
+      "playerType": "1",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -504,8 +528,8 @@
       "key": "dr_兔小贝",
       "name": "儿童启蒙",
       "type": 3,
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/drpy2.min.js",
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/js/兔小贝.js",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/drpy2.min.js",
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -526,7 +550,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/少儿教育.json"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/json/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -540,7 +564,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/小学课堂.json"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/json/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -554,7 +578,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/初中课堂.json"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/json/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -568,7 +592,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/16/json/高中课堂.json"
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/json/高中课堂.json"
     },
     {
       "key": "push_agent",
