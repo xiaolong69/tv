@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;d295ec4dcf9a78f8441996009a88ecb0",
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;f6c7214d9b4bef41c97d248790060a9a",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -304,7 +304,20 @@
         "from": "4k|auto"
       }
     },
-    {
+     {
+      "key": "抠搜",
+      "name": "抠搜搜索",
+      "type": 3,
+      "api": "csp_KkSs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "from": "4k|auto"
+      }
+    },
+   {
       "key": "夸搜",
       "name": "夸搜搜索",
       "type": 3,
