@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;f6c7214d9b4bef41c97d248790060a9a",
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;e7516b0a9626d6b99aca1b0f05c935f3",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -91,15 +91,6 @@
       "ext": "https://auete.pro/"
     },
     {
-      "key": "小点",
-      "name": "(优)小点多线",
-      "type": 3,
-      "api": "csp_Appxdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-     {
       "key": "短剧",
       "name": "(优)上头短剧",
       "type": 3,
@@ -235,7 +226,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://www.xb6v.com/"
+      "ext": "https://www.xb6v.com/"
     },
     {
       "key": "玩偶",
@@ -270,19 +261,6 @@
       "name": "阿里盘搜",
       "type": 3,
       "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "UpYun",
-      "name": "阿里Up搜",
-      "type": 3,
-      "api": "csp_UpYun",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -327,19 +305,6 @@
       "changeable": 0,
       "ext":  {
         "pan": "quark",
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
-        "from": "4k|auto"
-      }
-    },
-     {
-      "key": "盘他",
-      "name": "盘他搜索",
-      "type": 3,
-      "api": "csp_PanTa",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
         "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
         "from": "4k|auto"
       }
