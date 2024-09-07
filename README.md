@@ -8,7 +8,7 @@
 - [APP老设备版本下载 (TVBox_q215613905_20230716-2022.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20230716-2022.apk)
 - 单仓版软件源地址 <https://github.com/pvqogw/TVBoxOSC/releases>
 
-- [多仓版APP下载 (影视仓_5.0.40.1电视.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓_5.0.40.1电视.apk)
+- [多仓版APP下载 (影视仓_5.0.41.1.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓_5.0.41.1.apk)
 
 ## 其他APP推荐
 - [洛雪 lx-music-mobile-v1.6.0-arm64-v8a.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.6.0-arm64-v8a.apk)
