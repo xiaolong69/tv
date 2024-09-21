@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;050512c9db356ad449af9d37dde8c5f0",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -257,19 +257,6 @@
       }
     },
     {
-      "key": "PanSou",
-      "name": "阿里盘搜",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
       "key": "PanSearch",
       "name": "阿里盘Se",
       "type": 3,
@@ -314,6 +301,19 @@
       "name": "米搜搜索",
       "type": 3,
       "api": "csp_MIPanSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "Sso",
+      "name": "盘他三盘",
+      "type": 3,
+      "api": "csp_PanSso",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
