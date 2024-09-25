@@ -6,7 +6,7 @@
 ## TVBox软件地址（引用）
 - [手机端APP下载 (TVBox_takagen99_20240914-1409-arm64-generic.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20240914-1409-arm64-generic.apk)
 - [TV端APP下载 (TVBox_takagen99_20240914-1409-armeabi-generic.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20240914-1409-armeabi-generic.apk)
-- [APP老设备版本下载 (TVBox_q215613905_20230716-2022.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20230716-2022.apk)
+- [APP老设备（支持安卓5以下）版本下载 (TVBox_q215613905_20240925-0957.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20240925-0957.apk)
 - 单仓版软件源地址 <https://github.com/pvqogw/TVBoxOSC/releases>
 
 - [多仓版APP下载 (影视仓_5.0.42_电视.apk)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓_5.0.42_电视.apk)
