@@ -20,6 +20,9 @@
 - [阅读legado_app_3.25.apk (无广告+无源)](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/legado_app_3.25.apk)
 - [阅读源订阅](yuedu://rsssource/importonline?src=http://yuedu.miaogongzi.net/shuyuan/miaogongziDY.json)
 
+### 小说阅读语音引擎
+- [MultiTTS+语音包 (密码：6Kok)](https://bingsunnysky-my.sharepoint.com/:f:/g/personal/bingsunny_bingsunnysky_onmicrosoft_com/EtyirbIIsqtPr5I7hzHcn74B-a9MwyvqpbdsFciFApogqA?e=C8SGhz)
+
 ## 其他APP推荐
 - [adbhelper_v1.3.0.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/adbhelper_v1.3.0.apk)
 - [via浏览器.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/via浏览器.apk)
