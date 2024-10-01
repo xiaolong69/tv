@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;050512c9db356ad449af9d37dde8c5f0",
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;fae44887703772d67cbf11432d50d113",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -64,7 +64,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czys.pro/"
+      "ext": "https://www.czzy77.com/"
     },
     {
       "key": "Lib",
@@ -313,14 +313,11 @@
       "key": "Sso",
       "name": "盘他三盘",
       "type": 3,
-      "api": "csp_PanSso",
+      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/drpy2.min.js",
+      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/盘他.js",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
-        "from": "4k|auto"
-      }
+      "changeable": 0
     },
     {
       "key": "Dm84",
