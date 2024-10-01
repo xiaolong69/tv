@@ -26,5 +26,6 @@
 - [MultiTTS+语音包 (密码：6Kok)](https://bingsunnysky-my.sharepoint.com/:f:/g/personal/bingsunny_bingsunnysky_onmicrosoft_com/EtyirbIIsqtPr5I7hzHcn74B-a9MwyvqpbdsFciFApogqA?e=C8SGhz)
 
 ## 其他APP推荐
+- [T2S文字转语音-0.12.23-arm64-v8a.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/MultiTTS/T2S文字转语音-0.12.23-arm64-v8a.apk)
 - [adbhelper_v1.3.0.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/adbhelper_v1.3.0.apk)
 - [via浏览器.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/via浏览器.apk)
