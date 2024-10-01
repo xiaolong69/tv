@@ -21,6 +21,8 @@
 - [阅读源订阅](yuedu://rsssource/importonline?src=http://yuedu.miaogongzi.net/shuyuan/miaogongziDY.json)
 
 ### 小说阅读语音引擎
+- [MultiTTS v1.3.2.5.apk](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/MultiTTS/MultiTTS v1.3.2.5.apk)
+- [mini语音包](https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/MultiTTS/voice3_mini.zip)
 - [MultiTTS+语音包 (密码：6Kok)](https://bingsunnysky-my.sharepoint.com/:f:/g/personal/bingsunny_bingsunnysky_onmicrosoft_com/EtyirbIIsqtPr5I7hzHcn74B-a9MwyvqpbdsFciFApogqA?e=C8SGhz)
 
 ## 其他APP推荐
