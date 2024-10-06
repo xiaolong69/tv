@@ -340,7 +340,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/16/json/bilibili.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/16/json/bilibili.json"
     },
     {
       "key": "Biliych",
@@ -404,7 +404,7 @@
       "name": "斗鱼直播",
       "type": 3,
       "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/drpy2.min.js",
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/16/js/斗鱼直播.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/16/js/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
