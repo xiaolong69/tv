@@ -347,20 +347,6 @@
       "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/json/biliych.json"
     },
     {
-      "key": "酷奇",
-      "name": "酷奇MV",
-      "type": 3,
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/drpy2.min.js",
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/酷奇MV.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "MTV",
       "name": "MTV",
       "type": 3,
