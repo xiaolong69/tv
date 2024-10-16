@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729072166228/fan.txt;md5;0a91b704fc178bc3766d0eb33b7d908e",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -121,7 +121,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy77.com/"
+      "ext": "http://www.czzy77.com/"
     },
     {
       "key": "原创",
@@ -195,7 +195,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
+      "ext": "http://www.zxzjhd.com/"
     },
     {
       "key": "低端",
@@ -285,6 +285,17 @@
       "changeable": 1
     },
     {
+      "key": "926看球",
+      "name": "⚽926┃看球",
+      "type": 3,
+      "api": "csp_kanqiu926",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "88js",
       "name": "⚽ 88┃看球",
       "type": 3,
@@ -368,7 +379,7 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.js",
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
       "style": {
         "type": "rect",
