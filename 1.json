@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;0a91b704fc178bc3766d0eb33b7d908e",
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;118bca13418f13c45c5c237ac93c2f07",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -333,11 +333,14 @@
       "key": "Sso",
       "name": "盘他三盘",
       "type": 3,
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/drpy2.min.js",
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/盘他.js",
+      "api": "csp_PanSso",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "from": "4k|auto"
+      }
     },
     {
       "key": "Dm84",
@@ -360,7 +363,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/16/json/bilibili.json"
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/16/json/bilibili.json"
     },
     {
       "key": "Biliych",
@@ -410,7 +413,7 @@
       "name": "斗鱼直播",
       "type": 3,
       "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/16/js/斗鱼直播.js",
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/16/js/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
