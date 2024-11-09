@@ -13,7 +13,7 @@
 
 ## 听歌APP推荐
 - [洛雪 lx-music-mobile-v1.6.0-arm64-v8a.apk](https://ghp.ci/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.6.0-arm64-v8a.apk)
-- [洛雪音源](https://ghp.ci/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/sixyin-music-source-v1.2.0.js)
+- [洛雪音源](https://ghp.ci/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/sixyin-music-source-v1.2.1.js)
 
 ## 看小说APP推荐
 - [小书包_24.08.01.apk (少许广告+自带源)](https://ghp.ci/https://raw.githubusercontent.com/xiaolong69/tv/main/app/小书包_24.08.01.apk)
