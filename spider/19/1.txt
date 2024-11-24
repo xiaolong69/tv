@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731126610038/fan.txt;md5;118bca13418f13c45c5c237ac93c2f07",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732351865966/fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "key": "YGP",
-      "name": "🚀叨观荐影┃新片",
+      "name": "🚀叨观荐影┃预告片",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
@@ -46,10 +46,10 @@
       "changeable": 0
     },
     {
-      "key": "米搜",
-      "name": "🦋米盘┃搜搜",
+      "key": "抠搜",
+      "name": "🍄抠抠┃搜搜",
       "type": 3,
-      "api": "csp_MIPanSo",
+      "api": "csp_KkSs",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -59,10 +59,10 @@
       }
     },
     {
-      "key": "抠搜",
-      "name": "🍄抠抠┃搜搜",
+      "key": "UC",
+      "name": "🌈优汐┃搜搜",
       "type": 3,
-      "api": "csp_KkSs",
+      "api": "csp_UuSs",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -95,6 +95,15 @@
       "changeable": 1
     },
     {
+      "key": "糯米",
+      "name": "🍓糯米┃秒播",
+      "type": 3,
+      "api": "csp_Nmyswv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "zxzj",
       "name": "🍊在线┃秒播",
       "type": 3,
@@ -104,15 +113,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzjhd.com/"
-    },
-    {
-      "key": "比特",
-      "name": "🍄比特┃秒播",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "苹果",
@@ -145,6 +145,16 @@
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
     },
     {
+      "key": "速播",
+      "name": "⏮️速播┃多线",
+      "type": 3,
+      "api": "csp_AppSx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytO6"
+    },
+    {
       "key": "热播",
       "name": "📺热播┃多线",
       "type": 3,
@@ -175,16 +185,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
-    {
-      "key": "速播",
-      "name": "⏮️速播┃多线",
-      "type": 3,
-      "api": "csp_AppSx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytPprjXXepEhRI1g+FIGqkCgBFA="
     },
     {
       "key": "欢视",
@@ -240,15 +240,6 @@
       "ext": "https://www.xb6v.com/"
     },
     {
-      "key": "短剧",
-      "name": "🌈上头┃短剧",
-      "type": 3,
-      "api": "csp_Djtt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
       "type": 3,
@@ -287,17 +278,15 @@
       }
     },
     {
-      "key": "88js",
-      "name": "⚽ 88┃看球",
+      "key": "88看球",
+      "name": "⚽88┃看球",
       "type": 3,
-      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/88看球.js",
+      "api": "csp_Sir88",
+      "searchable": 0,
+      "changeable": 0,
       "style": {
         "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      }
     },
     {
       "key": "310js",
@@ -413,7 +402,7 @@
       }
     },
     {
-      "key": "Sso",
+      "key": "PanSso",
       "name": "🐌盘他┃三盘",
       "type": 3,
       "api": "csp_PanSso",
@@ -426,15 +415,40 @@
       }
     },
     {
-      "key": "夸搜",
-      "name": "🐟夸搜┃狸夸",
+      "key": "YpanSo",
+      "name": "🐟盘她┃三盘",
       "type": 3,
-      "api": "csp_PanSearch",
+      "api": "csp_YpanSo",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "pan": "quark",
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "米搜",
+      "name": "🦋米搜┃夸父",
+      "type": 3,
+      "api": "csp_MIPanSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "Aliso",
+      "name": "🙀盘搜┃阿狸",
+      "type": 3,
+      "api": "csp_Aliso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
       }
@@ -444,19 +458,6 @@
       "name": "😹易搜┃阿狸",
       "type": 3,
       "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "PanSearch",
-      "name": "🙀盘Se┃阿狸",
-      "type": 3,
-      "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -502,7 +503,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
@@ -609,10 +610,11 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
     {
-      "name": "IPV4",
+      "name": "IPV4若卡顿切IPV6",
       "type": 0,
-      "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.m3u",
-      "playerType": 1
+      "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "IPV6①",

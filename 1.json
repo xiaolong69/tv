@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;118bca13418f13c45c5c237ac93c2f07",
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -35,11 +35,20 @@
       "ext": "https://www.zxzjhd.com/"
     },
     {
-      "key": "低端",
-      "name": "(优)低端",
+      "key": "南瓜",
+      "name": "(优)南瓜",
       "type": 3,
-      "api": "csp_Ddrk",
-      "playerType": "2",
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "糯米",
+      "name": "(优)糯米",
+      "type": 3,
+      "api": "csp_Nmyswv",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -49,7 +58,6 @@
       "name": "(优)厂长",
       "type": 3,
       "api": "csp_NewCz",
-      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -78,7 +86,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://auete.pro/"
+      "ext": "https://auete.com/"
+    },
+    {
+      "key": "可可",
+      "name": "(优)可可",
+      "type": 3,
+      "api": "csp_Kekys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "短剧",
@@ -108,6 +126,15 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
+    },
+    {
+      "key": "苹果",
+      "name": "(良)苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "csp_非凡资源",
@@ -277,10 +304,10 @@
       }
     },
     {
-      "key": "PanSearch",
-      "name": "阿里盘Se",
+      "key": "Aliso",
+      "name": "盘搜阿狸",
       "type": 3,
-      "api": "csp_PanSearch",
+      "api": "csp_Aliso",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -289,7 +316,7 @@
         "from": "4k|auto"
       }
     },
-     {
+    {
       "key": "抠搜",
       "name": "抠搜搜索",
       "type": 3,
@@ -303,20 +330,6 @@
       }
     },
    {
-      "key": "夸搜",
-      "name": "夸搜搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext":  {
-        "pan": "quark",
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
       "key": "米搜",
       "name": "米搜搜索",
       "type": 3,
@@ -330,10 +343,36 @@
       }
     },
     {
-      "key": "Sso",
+      "key": "PanSso",
       "name": "盘他三盘",
       "type": 3,
       "api": "csp_PanSso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "YpanSo",
+      "name": "盘它三盘",
+      "type": 3,
+      "api": "csp_YpanSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "UC",
+      "name": "优汐搜搜",
+      "type": 3,
+      "api": "csp_UuSs",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -403,7 +442,7 @@
         "type": "rect",
         "ratio": 1.755
       },
-      "playerType": "1",
+      "playerType": "2",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
