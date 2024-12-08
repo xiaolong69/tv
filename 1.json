@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a",
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;f115051a7d789c2baebb9309c14bddd2",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -62,7 +62,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy77.com/"
+      "ext": "https://www.czzyvideo.com/"
     },
     {
       "key": "Lib",
@@ -99,10 +99,11 @@
       "changeable": 1
     },
     {
-      "key": "短剧",
-      "name": "(优)上头短剧",
+      "key": "低端",
+      "name": "(优)低端",
       "type": 3,
-      "api": "csp_Djtt",
+      "api": "csp_Ddrk",
+      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -330,6 +331,20 @@
       }
     },
    {
+      "key": "夸搜",
+      "name": "夸搜搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "pan": "quark",
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
       "key": "米搜",
       "name": "米搜搜索",
       "type": 3,
@@ -357,7 +372,7 @@
     },
     {
       "key": "YpanSo",
-      "name": "盘它三盘",
+      "name": "盘她三盘",
       "type": 3,
       "api": "csp_YpanSo",
       "searchable": 1,
@@ -369,8 +384,21 @@
       }
     },
     {
+      "key": "xzso",
+      "name": "盘它三盘",
+      "type": 3,
+      "api": "csp_xzso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
       "key": "UC",
-      "name": "优汐搜搜",
+      "name": "UC搜搜",
       "type": 3,
       "api": "csp_UuSs",
       "searchable": 1,
