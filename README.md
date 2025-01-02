@@ -9,16 +9,16 @@
 - [APP老设备（支持安卓5以下）版本下载 (TVBox_q215613905_20241029-0923.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20241029-0923.apk)
 - 单仓版软件源地址 <https://github.com/pvqogw/TVBoxOSC/releases>
 
-- [多仓版APP下载 (影视仓_5.0.42_电视.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓_5.0.42_电视.apk)
+- [多仓版APP下载 (影视仓5.0.46.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓5.0.46.apk)
 
 ## 听歌APP推荐
 - [洛雪 lx-music-mobile-v1.6.0-arm64-v8a.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.6.0-arm64-v8a.apk)
 - [洛雪音源](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/sixyin-music-source-v1.2.1.js)
 
 ## 看小说APP推荐
-- [小书包_24.08.01.apk (少许广告+自带源)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/小书包_24.08.01.apk)
 - [阅读legado_app_3.25.apk (无广告+无源)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/legado_app_3.25.apk)
 - [阅读源订阅](yuedu://rsssource/importonline?src=http://yuedu.miaogongzi.net/shuyuan/miaogongziDY.json)
+- [小书包_24.08.01.apk (少许广告+自带源)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/小书包_24.08.01.apk)
 
 ### 小说阅读语音引擎
 - [MultiTTS v1.3.2.5.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/MultiTTS/MultiTTS v1.3.2.5.apk)
