@@ -9,7 +9,7 @@
 - [APP老设备（支持安卓5以下）版本下载 (TVBox_q215613905_20241029-0923.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20241029-0923.apk)
 - 单仓版软件源地址 <https://github.com/pvqogw/TVBoxOSC/releases>
 
-- [多仓版APP下载 (影视仓5.0.46.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓5.0.46.apk)
+- [多仓版APP下载 (影视仓_5.0.42_电视.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓_5.0.42_电视.apk)
 
 ## 听歌APP推荐
 - [洛雪 lx-music-mobile-v1.6.0-arm64-v8a.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.6.0-arm64-v8a.apk)
