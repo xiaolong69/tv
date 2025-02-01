@@ -1,13 +1,13 @@
 ## TVBox配置地址（自用）
 - 多仓（方式一） <https://xiaolong69.github.io/tv/duo.json>
 - 多仓（方式二）<https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/duo.json>
-<br>
+<br><br>
 - 单仓（方式一） <https://xiaolong69.github.io/tv/1.json>
 - 单仓（方式二）<https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json>
 
 ## TVBox软件地址（引用）
 - [多仓版APP下载 (影视仓_5.0.42_电视.apk)](https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓_5.0.42_电视.apk)
-<br>
+<br><br>
 - [单仓版手机端APP下载 (TVBox_takagen99_20240929-1529-arm64-generic.apk)](https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20240929-1529-arm64-generic.apk)
 - [单仓版TV端APP下载 (TVBox_takagen99_20240929-1529-armeabi-generic.apk)](https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20240929-1529-armeabi-generic.apk)
 - [单仓版APP老设备（支持安卓5以下）版本下载 (TVBox_q215613905_20241029-0923.apk)](https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20241029-0923.apk)
