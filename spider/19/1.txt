@@ -1,10 +1,10 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738055801642/f0128.txt;md5;fcd3be29030c912a28d7a205a88f749d",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738772255159/f0206.txt;md5;77857b24f2d062790ba1e556078f1ea6",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "豆",
-      "name": "哥哥们祝大家新春快乐🧧",
+      "key": "豆豆",
+      "name": "备用公众号【叨观荐影】",
       "type": 3,
       "api": "csp_DouDou",
       "indexs": 1,
@@ -216,6 +216,16 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
+    },
+    {
+      "key": "可可",
+      "name": "👻可可┃多线",
+      "type": 3,
+      "api": "csp_Kekys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "厂长",
@@ -613,6 +623,15 @@
       }
     },
     {
+      "key": "wx",
+      "name": "公众号：神秘的哥哥们",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "fan",
       "name": "导航 www.饭太硬.com",
       "type": 3,
@@ -640,12 +659,6 @@
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.v1.mk/logo/{name}.png"
-    },
-    {
-      "name": "咕咕咕",
-      "type": 0,
-      "url": "https://www.freetv.top/migu.m3u",
-      "playerType": 1
     },
     {
       "name": "范明明",

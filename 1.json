@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;c4745a1b57105d124cf1b429eba5d4bf",
+  "spider": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/fan.txt;md5;77857b24f2d062790ba1e556078f1ea6",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -100,6 +100,7 @@
       "type": 3,
       "api": "csp_AList",
       "timeout": 10,
+      "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -393,7 +394,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/Cloud-drive.txt",
+        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/uctoken.txt",
         "from": "4k|auto"
       }
     },
