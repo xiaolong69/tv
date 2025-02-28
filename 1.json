@@ -98,7 +98,7 @@
       "key": "alist",
       "name": "(优)AList",
       "type": 3,
-      "api": "csp_AList",
+      "api": "csp_AListGuard",
       "timeout": 10,
       "playerType": "1",
       "searchable": 1,
