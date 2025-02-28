@@ -99,13 +99,12 @@
       "name": "(优)AList",
       "type": 3,
       "api": "csp_AList",
-      "jar": "https://gitee.com/xiaolong69/xl/raw/master/spider/17/PandaQ.jar;md5;4aed711d803ef61e1085e9d7eaa2efd3",
       "timeout": 10,
       "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/json/alist.json"
+      "ext": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/json/alist.json"
     },
     {
       "key": "豆",
