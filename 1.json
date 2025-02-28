@@ -69,7 +69,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": {
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
+        "Cloud-drive": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/kuatoken.txt",
         "from": "4k|auto"
       }
     },
@@ -274,7 +274,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "Cloud-drive": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
         "from": "4k|auto",
         "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
@@ -289,7 +289,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "Cloud-drive": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
         "from": "4k|auto"
       }
     },
@@ -302,7 +302,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "Cloud-drive": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
         "from": "4k|auto"
       }
     },
@@ -315,7 +315,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "Cloud-drive": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
         "from": "4k|auto"
       }
     },
@@ -329,7 +329,7 @@
       "changeable": 0,
       "ext": {
         "pan": "quark",
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
+        "Cloud-drive": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/kuatoken.txt",
         "from": "4k|auto"
       }
     },
@@ -342,7 +342,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
+        "Cloud-drive": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/kuatoken.txt",
         "from": "4k|auto"
       }
     },
@@ -355,7 +355,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "Cloud-drive": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
         "from": "4k|auto"
       }
     },
@@ -368,7 +368,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "Cloud-drive": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
         "from": "4k|auto"
       }
     },
@@ -381,7 +381,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "Cloud-drive": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
         "from": "4k|auto"
       }
     },
@@ -394,7 +394,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://gitee.com/xiaolong69/xl/raw/master/spider/uctoken.txt",
+        "Cloud-drive": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/uctoken.txt",
         "from": "4k|auto",
         "pturl": "http://mo.muouso.fun/|http://149.88.87.72:5666/|http://54271.fun/"
       }
@@ -452,14 +452,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/json/MTV.json"
+      "ext": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/json/MTV.json"
     },
     {
       "key": "虎牙直播js",
       "name": "虎牙直播",
       "type": 3,
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/drpy2.min.js",
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/huya2.js",
+      "api": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/js/drpy2.min.js",
+      "ext": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/js/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -473,7 +473,7 @@
       "key": "斗鱼js",
       "name": "斗鱼直播",
       "type": 3,
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/drpy2.min.js",
+      "api": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/js/drpy2.min.js",
       "ext": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/16/js/斗鱼直播.js",
       "style": {
         "type": "rect",
@@ -501,8 +501,8 @@
       "key": "dr_兔小贝",
       "name": "儿童启蒙",
       "type": 3,
-      "api": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/drpy2.min.js",
-      "ext": "https://gitee.com/xiaolong69/xl/raw/master/spider/19/js/兔小贝.js",
+      "api": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/js/drpy2.min.js",
+      "ext": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/js/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -583,7 +583,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": {
-        "aliToken": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+        "aliToken": "https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
         "from": "4k|auto|fhd"
       }
     }

@@ -1,0 +1,5 @@
+{
+  "Uc": "https://gitee.com/xiaolong69/xl/raw/master/spider/uctoken.txt",
+  "Quark": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
+  "Ali": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt"
+}
