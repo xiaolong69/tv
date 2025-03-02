@@ -6,11 +6,11 @@
 - 单仓（方式二）<https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json>
 
 ## TVBox软件地址（引用）
-- [多仓版APP下载 (影视仓6.0.5.apk)](https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓6.0.5.apk)
+- [多仓版APP下载 (影视仓电视版6.0.5.1.apk)](https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓电视版6.0.5.1.apk)
 <br><br>
 - [单仓版手机端APP下载 (TVBox_takagen99_20250217-1618-arm64-generic.apk)](https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20250217-1618-arm64-generic.apk)
 - [单仓版TV端APP下载 (TVBox_takagen99_20250217-1618-armeabi-generic.apk)](https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20250217-1618-armeabi-generic.apk)
-- [单仓版APP老设备（支持安卓5以下）版本下载 (TVBox_q215613905_20250224-1644.apk)](https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20250224-1644.apk)
+- [单仓版APP老设备（支持安卓5以下）版本下载 (TVBox_q215613905_20250228-2317.apk)](https://github.akams.cn/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20250228-2317.apk)
 - 单仓版软件源地址 <https://github.com/pvqogw/TVBoxOSC/releases>
 
 ## 听歌APP推荐
