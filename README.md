@@ -27,7 +27,7 @@
 ### 小说阅读语音引擎
 - [MultiTTS v1.3.2.5.apk](https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/app/MultiTTS/MultiTTS v1.3.2.5.apk)
 - [mini语音包](https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/app/MultiTTS/voice3_mini.zip)
-- [MultiTTS+语音包 (密码：6Kok)](https://bingsunnysky-my.sharepoint.com/:f:/g/personal/bingsunny_bingsunnysky_onmicrosoft_com/EtyirbIIsqtPr5I7hzHcn74B-a9MwyvqpbdsFciFApogqA?e=C8SGhz)
+- [MultiTTS+语音包 (密码：r2wo)](https://www.123pan.com/s/A2D9-Gu2X.html)
 
 ## 其他APP推荐
 - [T2S文字转语音-0.12.23-arm64-v8a.apk](https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/app/MultiTTS/T2S文字转语音-0.12.23-arm64-v8a.apk)
