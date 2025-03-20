@@ -1,5 +1,5 @@
 {
-  "Uc": "https://gitee.com/xiaolong69/xl/raw/master/spider/uctoken.txt",
-  "Quark": "https://gitee.com/xiaolong69/xl/raw/master/spider/kuatoken.txt",
-  "Ali": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt"
+  "Uc": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/uctoken.txt",
+  "Quark": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/kuatoken.txt",
+  "Ali": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt"
 }
