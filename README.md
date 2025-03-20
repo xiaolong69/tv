@@ -22,7 +22,7 @@
 ## 看小说APP推荐
 - [阅读legado_app_3.25.apk (无广告+无源)](https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/app/legado_app_3.25.apk)
 - [阅读源订阅](yuedu://rsssource/importonline?src=http://yuedu.miaogongzi.net/shuyuan/miaogongziDY.json)
-- [小书包_24.08.01.apk (少许广告+自带源)](https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/app/小书包_24.08.01.apk)
+- [小书包_25.01.27.apk (少许广告+自带源)](https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/app/小书包_25.01.27.apk)
 
 ### 小说阅读语音引擎
 - [MultiTTS v1.3.2.5.apk](https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/app/MultiTTS/MultiTTS v1.3.2.5.apk)
