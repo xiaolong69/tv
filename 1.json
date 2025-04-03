@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;6bbccb95ef9afb1efdfae22f52ca54ca",
+  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;65262530c4a6a050619e24aaeb02fcbe",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -7,25 +7,86 @@
       "name": "(优)荐片",
       "type": 3,
       "api": "csp_JPJGuard",
+      "timeout": 10,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
     },
     {
+      "key": "zxzj",
+      "name": "(优)在线之家",
+      "type": 3,
+      "api": "csp_ZxzjGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/"
+    },
+    {
       "key": "糯米",
       "name": "(优)糯米",
       "type": 3,
       "api": "csp_NmyswvGuard",
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "白白",
+      "name": "(优)白白",
+      "type": 3,
+      "api": "csp_SbaibaiGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "萌米",
+      "name": "(优)萌米",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
+    },
+    {
+      "key": "欢视",
+      "name": "(优)欢视",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "uqGL1bNENExT9fFAy5mE5qU="
+    },
+    {
+      "key": "热播",
+      "name": "(优)热播",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "uqGL1bNENExT7/hGxpSE5qU="
     },
     {
       "key": "文采",
       "name": "(优)文采",
       "type": 3,
       "api": "csp_JpysGuard",
+      "timeout": 10,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -36,6 +97,7 @@
       "name": "(优)比特",
       "type": 3,
       "api": "csp_BttwooGuard",
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -45,6 +107,7 @@
       "name": "(优)苹果",
       "type": 3,
       "api": "csp_LiteAppleGuard",
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -54,7 +117,7 @@
       "name": "(优)原创",
       "type": 3,
       "api": "csp_YCyzGuard",
-      "timeout": 15,
+      "timeout": 10,
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -65,11 +128,12 @@
       "name": "(优)立播",
       "type": 3,
       "api": "csp_LibvioGuard",
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": {
-        "Cloud-drive": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/kuatoken.txt",
+        "Cloud-drive": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/Cloud-drive.txt",
         "from": "4k|auto"
       }
     },
@@ -78,7 +142,7 @@
       "name": "(优)奥特",
       "type": 3,
       "api": "csp_AueteGuard",
-      "timeout": 15,
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -89,6 +153,7 @@
       "name": "(优)低端",
       "type": 3,
       "api": "csp_DdrkGuard",
+      "timeout": 10,
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
@@ -117,6 +182,16 @@
       "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/spider0529.jar"
     },
     {
+      "key": "alllive",
+      "name": "(优)一直播",
+      "type": 3,
+      "api": "csp_AllliveGuard",
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "豆",
       "name": "豆瓣榜单",
       "type": 3,
@@ -124,17 +199,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "zxzj",
-      "name": "(良)在线之家",
-      "type": 3,
-      "api": "csp_ZxzjGuard",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
     },
     {
       "key": "csp_非凡资源",
@@ -270,6 +334,7 @@
       "name": "(良)新6V[磁力]",
       "type": 3,
       "api": "csp_SixVGuard",
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -286,7 +351,7 @@
       "ext": {
         "Cloud-drive": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/Cloud-drive.txt",
         "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
+        "siteUrl": "https://www.wogg.com/",
         "danMu": "弹"
       }
     },
@@ -413,6 +478,7 @@
       "name": "巴士动漫",
       "type": 3,
       "api": "csp_Dm84Guard",
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
