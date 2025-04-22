@@ -8,10 +8,10 @@
 ## TVBox软件地址（引用）
 - [多仓版APP下载 (影视仓_6.0.8.apk)](https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓_6.0.8.apk)
 <br><br>
-- [单仓版手机端APP下载 (TVBox_takagen99_20250325-0046-arm64-generic.apk)](https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20250325-0046-arm64-generic.apk)
-- [单仓版TV端APP下载 (TVBox_takagen99_20250325-0046-armeabi-generic.apk)](https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20250325-0046-armeabi-generic.apk)
+- [单仓版手机端APP下载 (TVBox_takagen99_20250415-0032-arm64-generic-python.apk)](https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20250415-0032-arm64-generic-python.apk)
+- [单仓版TV端APP下载 (TVBox_takagen99_20250415-0032-armeabi-generic-python.apk)](https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20250415-0032-armeabi-generic-python.apk)
 <br><br>
-- [单仓版APP（支持安卓5以下老设备）版本下载 (TVBox_q215613905_20250418-1512-python.apk)](https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20250418-1512-python.apk)
+- [单仓版APP（支持安卓5以下老设备）版本下载 (TVBox_q215613905_20250420-1650-python.apk)](https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20250420-1650-python.apk)
 <br><br>
 - 单仓版软件源地址 <https://github.com/pvqogw/TVBoxOSC/releases>
 
