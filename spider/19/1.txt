@@ -1,10 +1,10 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745241519069/f0421a.txt;md5;7a54b9eee0f90d49ce5f34573203cf0a",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745406107388/f0423a.txt;md5;d67e776740fc297d90f0310f701d8b83",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "豆",
-      "name": "升级优汐夸父【神秘的哥哥们】",
+      "name": "修复无效链接【神秘的哥哥们】",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -670,6 +670,12 @@
   "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
   "lives": [
     {
+      "name": "V6范明明",
+      "type": 0,
+      "url": "https://gh-proxy.net/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "playerType": 2
+    },
+    {
       "name": "牛播一（仅新版影视仓┃ok影视）",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
@@ -684,12 +690,6 @@
       "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.v1.mk/logo/{name}.png"
-    },
-    {
-      "name": "V6范明明",
-      "type": 0,
-      "url": "https://gh-proxy.net/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
-      "playerType": 2
     },
     {
       "name": "平台直播",
