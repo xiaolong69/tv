@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;d67e776740fc297d90f0310f701d8b83",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;d67e776740fc297d90f0310f701d8b83",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -133,7 +133,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": {
-        "Cloud-drive": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/Cloud-drive.txt",
+        "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/Cloud-drive.txt",
         "from": "4k|auto"
       }
     },
@@ -169,7 +169,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/json/alist.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/json/alist.json"
     },
     {
       "key": "星芽短剧",
@@ -179,7 +179,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/spider0529.jar"
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/spider0529.jar"
     },
     {
       "key": "alllive",
@@ -350,7 +350,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/Cloud-drive.txt",
+        "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/Cloud-drive.txt",
         "from": "4k|auto",
         "siteUrl": "https://www.wogg.com/",
         "danMu": "弹"
@@ -365,7 +365,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
+        "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
         "from": "4k|auto"
       }
     },
@@ -378,7 +378,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
+        "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
         "from": "4k|auto"
       }
     },
@@ -391,7 +391,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
+        "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
         "from": "4k|auto"
       }
     },
@@ -405,7 +405,7 @@
       "changeable": 0,
       "ext": {
         "pan": "quark",
-        "Cloud-drive": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/kuatoken.txt",
+        "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/kuatoken.txt",
         "from": "4k|auto"
       }
     },
@@ -418,7 +418,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/kuatoken.txt",
+        "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/kuatoken.txt",
         "from": "4k|auto"
       }
     },
@@ -431,7 +431,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
+        "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
         "from": "4k|auto"
       }
     },
@@ -444,7 +444,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
+        "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
         "from": "4k|auto"
       }
     },
@@ -457,7 +457,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
+        "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
         "from": "4k|auto"
       }
     },
@@ -470,7 +470,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/uctoken.txt",
+        "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/uctoken.txt",
         "from": "4k|auto"
       }
     },
@@ -528,14 +528,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/json/MTV.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/json/MTV.json"
     },
     {
       "key": "虎牙直播js",
       "name": "虎牙直播",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/js/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/js/huya2.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/js/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -549,8 +549,8 @@
       "key": "斗鱼js",
       "name": "斗鱼直播",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/js/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/16/js/斗鱼直播.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/16/js/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -577,8 +577,8 @@
       "key": "dr_兔小贝",
       "name": "儿童启蒙",
       "type": 3,
-      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/js/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/js/兔小贝.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/js/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -659,7 +659,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": {
-        "aliToken": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
+        "aliToken": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
         "from": "4k|auto|fhd"
       }
     }
