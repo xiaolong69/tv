@@ -16,7 +16,7 @@
 - 单仓版软件源地址 <https://github.com/pvqogw/TVBoxOSC/releases>
 
 ## 听歌APP推荐
-- [洛雪 lx-music-mobile-v1.7.0-arm64-v8a.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.7.0-arm64-v8a.apk)
+- [洛雪 lx-music-mobile-v1.7.1-arm64-v8a.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.7.1-arm64-v8a.apk)
 - [洛雪音源](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/sixyin-music-source-v1.2.1.js)
 
 ## 看小说APP推荐
