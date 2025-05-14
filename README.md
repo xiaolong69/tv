@@ -11,7 +11,7 @@
 - [单仓版手机端APP下载 (TVBox_takagen99_20250508-1756-arm64-generic-python.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20250508-1756-arm64-generic-python.apk)
 - [单仓版TV端APP下载 (TVBox_takagen99_20250508-1756-armeabi-generic-python.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20250508-1756-armeabi-generic-python.apk)
 <br><br>
-- [单仓版APP（支持安卓5以下老设备）版本下载 (TVBox_q215613905_20250425-1745-python.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20250425-1745-python.apk)
+- [单仓版APP（支持安卓5以下老设备）版本下载 (TVBox_q215613905_20250513-1430-python.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20250513-1430-python.apk)
 <br><br>
 - 单仓版软件源地址 <https://github.com/pvqogw/TVBoxOSC/releases>
 
