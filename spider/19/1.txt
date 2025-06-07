@@ -1,10 +1,10 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748759136407/f0601.txt;md5;0107e9be795257ee9596e58ff2b12327",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749131375024/f0605.jpg;md5;677399a8a27a64506b814ed92ee7acbe",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "豆",
-      "name": "修复更新所有【神秘的哥哥们】",
+      "name": "修复蛋木【神秘的哥哥们】",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -352,35 +352,6 @@
       }
     },
     {
-      "key": "Jrsjs",
-      "name": "⚽ Jrs┃球迷",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
-      "style": {
-        "type": "list"
-      },
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "酷奇",
-      "name": "🎤酷奇┃MV",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "timeout": 10,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "MTV",
       "name": "🎧明星┃MV",
       "type": 3,
@@ -691,14 +662,6 @@
   ],
   "logo": "https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
   "lives": [
-    {
-      "name": "V4肥羊",
-      "type": 0,
-      "url": "https://tanway.oss-cn-beijing.aliyuncs.com/upload/juhe_42636_b9e159834f.txt",
-      "playerType": 2,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.v1.mk/logo/{name}.png"
-    },
     {
       "name": "V6范明明（需开启V6网络）",
       "type": 0,
