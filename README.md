@@ -6,10 +6,10 @@
 - 单仓（方式二）<https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json>
 
 ## TVBox软件地址（引用）
-- [多仓版APP下载 (影视仓电视版6.1.2-exo1.6.1修正无声倍速.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓电视版6.1.2-exo1.6.1修正无声倍速.apk)
+- [多仓版APP下载 (影视仓-6.1.4.1-exo161.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓-6.1.4.1-exo161.apk)
 <br><br>
-- [单仓版手机端APP下载 (TVBox_takagen99_20250508-1756-arm64-generic-python.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20250508-1756-arm64-generic-python.apk)
-- [单仓版TV端APP下载 (TVBox_takagen99_20250508-1756-armeabi-generic-python.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20250508-1756-armeabi-generic-python.apk)
+- [单仓版手机端APP下载 (TVBox_takagen99_20250706-1456-arm64-generic-python.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20250706-1456-arm64-generic-python.apk)
+- [单仓版TV端APP下载 (TVBox_takagen99_20250706-1456-armeabi-generic-python.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20250706-1456-armeabi-generic-python.apk)
 <br><br>
 - [单仓版APP（支持安卓5以下老设备）版本下载 (TVBox_q215613905_20250513-1430-python.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20250513-1430-python.apk)
 <br><br>
