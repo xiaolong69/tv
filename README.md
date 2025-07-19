@@ -35,4 +35,3 @@
 - [T2S文字转语音-0.12.23-arm64-v8a.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/MultiTTS/T2S文字转语音-0.12.23-arm64-v8a.apk)
 - [adbhelper_v1.3.0.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/adbhelper_v1.3.0.apk)
 - [via浏览器6.1.0.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/via浏览器6.1.0.apk)
-- [TrollInstallerX使用Safari在线安装](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TrollInstallerX.ipa)
