@@ -1,9 +1,9 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;440eff67119a8dc4cef90f8856076a90",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;2452e3a72453e1e2305e9b66eae38fe5",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "贱贱",
+      "key": "荐片",
       "name": "(优)荐片",
       "type": 3,
       "api": "csp_JPJGuard",
