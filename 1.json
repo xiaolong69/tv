@@ -183,16 +183,6 @@
       "playerType": 2
     },
     {
-      "key": "星芽短剧",
-      "name": "星芽短剧",
-      "type": 3,
-      "api": "csp_AppXY",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/spider0529.jar"
-    },
-    {
       "key": "seed",
       "name": "聚剧剧",
       "type": 3,
