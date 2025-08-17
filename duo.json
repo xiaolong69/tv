@@ -21,10 +21,6 @@
             "name": "🚀One线路"
         }, 
         {
-            "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
-            "name": "🚀道长线路"
-        },
-        {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "🚀香雅情线路"
         },  
@@ -49,10 +45,6 @@
             "name": "🏄️巧技线路"
         },
         {
-            "url": "http://肥猫.com",
-            "name": "🐹肥猫线路"
-        },                                  
-        {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "🐹南风线路"
         },   
@@ -60,14 +52,6 @@
             "url": "http://我不是.摸鱼儿.com",
             "name": "🐹摸鱼线路"
         },
-        {
-            "url": "http://www.mpanso.com/小米/DEMO.json",
-            "name": "🐹小米线路"
-        },  
-        {
-            "url": "http://meowtv.cn/tv",
-            "name": "🐹喵影视线路"
-        },   
         {
             "url": "https://ghproxy.cn/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
             "name": "🐹月光线路"
@@ -77,45 +61,13 @@
             "name": "🐹欧歌线路"
         },      
         {
-            "url": "https://毒盒.com/tv",
-            "name": "🐹毒盒线路"
-        },
-        {
-            "url": "https://fmbox.cc",
-            "name": "🐹星辰线路"
-        }, 
-        {
-            "url": "https://tv.xn--11x555b.top/svip",
-            "name": "🐹蜗牛线路"
-        }, 
-        {
             "url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
             "name": "🐹青龙线路"
         },
         {
-            "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
-            "name": "💎不良帅线路"
-        }, 
-        {
-            "url":"http://zhangqun66.com/zq/api.json",
-            "name": "💎采集线路"
-        }, 
-        {
-            "url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/feimao/jk/raw/T4.json",
-            "name": "💎T4线路"
-        }, 
-        {
-            "url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "💎高天流云"
-        },      
-        {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json",
             "name": "💎胜寒线路"
         },	
-        {
-            "url":"http://cdn.qiaoji8.com/tvbox.json",
-            "name": "💎巧技线路"
-        },
         {
             "url": "https://tv.xn--yhqu5zs87a.top",
             "name": "💎菜妮丝线路"
