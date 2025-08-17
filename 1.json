@@ -182,6 +182,18 @@
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/spider0529.jar"
     },
     {
+      "key": "py_河马短剧",
+      "name": "(优)河马短剧",
+      "type": 3,
+      "api": "./spider/19/py/河马短剧.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/YSC.jar"
+    },
+    {
       "key": "seed",
       "name": "聚剧剧",
       "type": 3,
