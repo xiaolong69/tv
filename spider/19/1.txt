@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7c9e2d7dbfe58970/f0818.jpg;md5;679a73a07d611b302a608ce9e86b4f9b",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/54291d554fd98e95/f0819.jpg;md5;81614a4982ac5fd02d64f075e87c9150",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -62,10 +62,10 @@
       }
     },
     {
-      "key": "白白",
-      "name": "🐟白白┃秒播",
+      "key": "文采",
+      "name": "💮文采┃秒播",
       "type": 3,
-      "api": "csp_SbaibaiGuard",
+      "api": "csp_JpysGuard",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
@@ -84,15 +84,14 @@
       "changeable": 1
     },
     {
-      "key": "南瓜",
-      "name": "🎃南瓜┃不卡",
+      "key": "下饭",
+      "name": "🍙下饭┃多线",
       "type": 3,
-      "api": "csp_NanGuaGuard",
-      "timeout": 15,
-      "playerType": 2,
+      "api": "csp_AppYsV2Guard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "filterable": 1,
+      "ext": "rfOK0+FRORAJ7epFjN2F5bqpqyOZwM/2zjo8fIu3AAlFJl8e/Co3qKR3f7pI2cY5ozXZZ9dHjiJz7Ht9P/01UpTYurKeSnahWreewemiQ2fux0BkNEtR69ypVhP1Muo4YsZTow4IKQzyEtbS42eHS9QK"
     },
     {
       "key": "原创",
@@ -126,10 +125,10 @@
       "changeable": 1
     },
     {
-      "key": "文采",
-      "name": "💮文采┃秒播",
+      "key": "白白",
+      "name": "🐟白白┃秒播",
       "type": 3,
-      "api": "csp_JpysGuard",
+      "api": "csp_SbaibaiGuard",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
