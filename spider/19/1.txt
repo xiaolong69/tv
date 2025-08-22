@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/54291d554fd98e95/f0819.jpg;md5;81614a4982ac5fd02d64f075e87c9150",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -84,14 +84,14 @@
       "changeable": 1
     },
     {
-      "key": "下饭",
-      "name": "🍙下饭┃多线",
+      "key": "剧九",
+      "name": "🍙剧九┃多线",
       "type": 3,
       "api": "csp_AppYsV2Guard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "rfOK0+FRORAJ7epFjN2F5bqpqyOZwM/2zjo8fIu3AAlFJl8e/Co3qKR3f7pI2cY5ozXZZ9dHjiJz7Ht9P/01UpTYurKeSnahWreewemiQ2fux0BkNEtR69ypVhP1Muo4YsZTow4IKQzyEtbS42eHS9QK"
+      "ext": "rfOK0+FRORAJ7epFjN2F+Lm9o2nF28P91TA4dIy3AAlFJl8e/Co3qKR3f7pI2cY5ozXZZ9dHjiJz7Ht9P/01UpTYurKeSnahWreewemiQ2fux0BkNEtR69ypVhP1Muo4YsZTow4IKQzyEtbS42eHS9QK"
     },
     {
       "key": "原创",
@@ -648,7 +648,7 @@
       "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://11.112114.xyz/logo/{name}.png",
-      "ua": "okHttp/Mod-1.0.1"
+      "ua": "okHttp/Mod-1.1.0"
     },
     {
       "name": "V6-范明明（需开启V6网络）",
