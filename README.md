@@ -20,9 +20,9 @@
 - [洛雪音源](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/sixyin-music-source-v1.2.1.js)
 
 ## 看小说APP推荐
-- [阅读legado_app_3.25.apk (无广告+无源)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/legado_app_3.25.apk)
+- [小书包_25.08.17.apk (自带源)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/小书包_25.08.17.apk)
+- [阅读legado_app_3.25.apk (不带源)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/legado_app_3.25.apk)
 - [阅读源订阅](yuedu://rsssource/importonline?src=http://yuedu.miaogongzi.net/shuyuan/miaogongziDY.json)
-- [小书包_25.01.27.apk (少许广告+自带源)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/小书包_25.01.27.apk)
 
 ### 小说阅读语音引擎
 - [MultiTTS v1.3.2.5.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/MultiTTS/MultiTTS v1.3.2.5.apk)
