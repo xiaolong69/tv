@@ -14,17 +14,6 @@
       "changeable": 0
     },
     {
-      "key": "zxzj",
-      "name": "(优)在线之家",
-      "type": 3,
-      "api": "csp_ZxzjGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/"
-    },
-    {
       "key": "糯米",
       "name": "(优)糯米",
       "type": 3,
@@ -35,27 +24,25 @@
       "changeable": 1
     },
     {
-      "key": "白白",
-      "name": "(优)白白",
+      "key": "厂长",
+      "name": "(优)厂长",
       "type": 3,
-      "api": "csp_SbaibaiGuard",
-      "timeout": 10,
+      "api": "csp_NewCzGuard",
+      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
     {
-      "key": "萌米",
-      "name": "(优)萌米",
+      "key": "鲸鱼",
+      "name": "(优)鲸鱼",
       "type": 3,
-      "api": "csp_AppTTGuard",
-      "timeout": 10,
-      "playerType": 2,
+      "api": "csp_AppSxGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
+      "filterable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/v1TAvdIvuChMackUUvW9kpKB+MLYeh4E6s3acbsBJ32o953hmRr4x"
     },
     {
       "key": "欢视",
@@ -80,6 +67,17 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "uqGL1bNENExT7/hGxpSE5qU="
+    },
+    {
+      "key": "红豆",
+      "name": "(优)红豆",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ183jzSI6L432F1wEM1kc4mV87fQxIbwNi40y4T/RKJAUnj9z8A=="
     },
     {
       "key": "文采",
@@ -124,7 +122,7 @@
       "changeable": 1
     },
     {
-      "key": "Lib",
+      "key": "立播",
       "name": "(优)立播",
       "type": 3,
       "api": "csp_LibvioGuard",
@@ -430,19 +428,6 @@
       "changeable": 0,
       "ext": {
         "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/kuatoken.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "PanSso",
-      "name": "盘他三盘",
-      "type": 3,
-      "api": "csp_PanSsoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt",
         "from": "4k|auto"
       }
     },
