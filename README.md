@@ -6,7 +6,7 @@
 - 单仓（方式二）<https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/1.json>
 
 ## TVBox软件地址（引用）
-- [多仓版APP下载 (影视仓-6.1.6-32位.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓-6.1.6-32位.apk)
+- [多仓版APP下载 (影视仓-6.1.7-32位.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/影视仓-6.1.7-32位.apk)
 <br><br>
 - [单仓版手机端APP下载 (TVBox_takagen99_20250706-1456-arm64-generic-python.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20250706-1456-arm64-generic-python.apk)
 - [单仓版TV端APP下载 (TVBox_takagen99_20250706-1456-armeabi-generic-python.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20250706-1456-armeabi-generic-python.apk)
