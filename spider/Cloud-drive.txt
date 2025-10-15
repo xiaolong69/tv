@@ -1,5 +1,5 @@
 {
-  "Uc": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/uctoken.txt",
-  "Quark": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/kuatoken.txt",
-  "Ali": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt"
+  "uc": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/uctoken.txt",
+  "quark": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/kuatoken.txt",
+  "ali": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/alitoken.txt"
 }
