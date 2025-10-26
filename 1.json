@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;1910aa90425fdf206d3a39697e9ffe1b",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;fd35d684cfbeb7ed76d53a16e29db42e",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -377,12 +377,13 @@
       "ext": {
         "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/Cloud-drive.txt",
         "from": "4k|auto",
-        "siteUrl": "https://www.wogg.com/"
+        "siteUrl": "https://www.wogg.com/",
+        "danMu": "弹"
       }
     },
    {
       "key": "YiSo",
-      "name": "阿里易搜",
+      "name": "易搜三盘",
       "type": 3,
       "api": "csp_YiSoGuard",
       "searchable": 1,
@@ -390,7 +391,8 @@
       "changeable": 0,
       "ext": {
         "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/Cloud-drive.txt",
-        "from": "4k|auto"
+        "from": "4k|auto",
+        "yisouCookie": "150e5bb8-401e-4f1f-b74e-7fd5f8bd6dea"
       }
     },
     {
@@ -420,10 +422,10 @@
       }
     },
     {
-      "key": "PanSso",
-      "name": "盘他三盘",
+      "key": "xzso",
+      "name": "盘他夸父",
       "type": 3,
-      "api": "csp_PanSsoGuard",
+      "api": "csp_XzsoGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -434,22 +436,9 @@
     },
     {
       "key": "YpanSo",
-      "name": "盘她三盘",
+      "name": "盘她夸父",
       "type": 3,
       "api": "csp_YpanSoGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "xzso",
-      "name": "盘它三盘",
-      "type": 3,
-      "api": "csp_XzsoGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
