@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;fd35d684cfbeb7ed76d53a16e29db42e",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;b7101f8bcbd4821c475d8c77493c9e3c",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -143,8 +143,7 @@
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.com/"
+      "changeable": 1
     },
     {
       "key": "低端",
@@ -469,6 +468,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "有声小说",
+      "name": "有声小说",
+      "type": 3,
+      "api": "csp_Tingshu275Guard",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
     },
     {
       "key": "Bili",

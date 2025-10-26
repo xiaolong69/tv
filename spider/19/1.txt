@@ -1,10 +1,10 @@
 {
-  "spider": "https://oss4liview.moji.com/thd_file/2025/10/25/5e2b29d3b487bb575d8305737239a1fc.jpg;md5;fd35d684cfbeb7ed76d53a16e29db42e",
+  "spider": "https://oss4liview.moji.com/thd_file/2025/10/26/a600e937dbb9680649b5212d656ea7bb.jpg;md5;b7101f8bcbd4821c475d8c77493c9e3c",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "豆",
-      "name": "完善蛋幕 关注公众号【叨观荐影】防失联",
+      "name": "原公众号已寄，新号【太太太硬了】",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -38,9 +38,7 @@
       "changeable": 0,
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.com/",
-        "danMu": "弹"
+        "from": "4k|auto"
       }
     },
     {
@@ -227,8 +225,7 @@
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.com/"
+      "changeable": 1
     },
     {
       "key": "荐片",
