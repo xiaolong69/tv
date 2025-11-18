@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;3224489089f7c7d6d9c13ef9defb59a6",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;bb930d8ac9ec68347de9d6c9afc261de",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -28,7 +28,7 @@
       "name": "(优)厂长",
       "type": 3,
       "api": "csp_NewCzGuard",
-      "timeout": 15,
+      "timeout": 10,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -73,7 +73,7 @@
       "name": "(优)红豆",
       "type": 3,
       "api": "csp_AppSxGuard",
-      "timeout": 15,
+      "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -141,17 +141,6 @@
       "type": 3,
       "api": "csp_AueteGuard",
       "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "低端",
-      "name": "(优)低端",
-      "type": 3,
-      "api": "csp_DdrkGuard",
-      "timeout": 10,
-      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
