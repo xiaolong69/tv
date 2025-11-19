@@ -1,10 +1,10 @@
 {
-  "spider": "https://oss4liview.moji.com/thd_file/2025/11/18/e7288cd6b656832d9de04766f4dda33e.jpg;md5;bb930d8ac9ec68347de9d6c9afc261de",
+  "spider": "https://oss4liview.moji.com/thd_file/2025/11/19/71e8037f867e425a7b2109cda6aab053.jpg;md5;08cf5c9e4f3326660eb75032e9ffc256",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "豆",
-      "name": "修复所有，新号【太太太硬了】",
+      "name": "原公众号已寄，新号【太太太硬了】",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -65,10 +65,10 @@
       "name": "💡聚剧剧┃三盘",
       "type": 3,
       "api": "csp_SeedhubGuard",
-      "changeable": 0,
       "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 0,
       "indexs": 0,
       "style": {
         "type": "list"
@@ -125,7 +125,7 @@
       "name": "☀原创┃秒播",
       "type": 3,
       "api": "csp_YCyzGuard",
-      "timeout": 30,
+      "timeout": 15,
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -148,8 +148,8 @@
       "api": "csp_JqqGuard",
       "timeout": 10,
       "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "下饭",
@@ -158,7 +158,7 @@
       "api": "csp_AppSxGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 1,
       "ext": "rfOX1voDIQhH8epBwpmIsuStuSyZxtH332ksdImjS1xHcE9fpWVy8fNjc+8DhNI67j3SJZRGjnM="
     },
     {
@@ -168,7 +168,7 @@
       "api": "csp_AppSxGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "changeable": 1,
       "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZz8r+wzZkfJbkFR5FJ1EK9mVu7apib64Gl8ND6FCETepkkEhht0ptIq9qCQ=="
     },
     {
@@ -615,14 +615,22 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/a3cb3f8553ca2d67/1.5873679404696913E9.gif",
   "lives": [
     {
-      "name": "V4-develop202",
+      "name": "冰茶",
+      "type": 0,
+      "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "bingcha/1.1(mianfeifenxiang)"
+    },
+    {
+      "name": "develop202",
       "type": 0,
       "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     },
     {
-      "name": "V6-范明明（需开启V6网络）",
+      "name": "范明明（需开启V6网络）",
       "type": 0,
       "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
       "playerType": 2
