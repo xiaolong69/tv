@@ -17,7 +17,7 @@
 
 ## 听歌APP推荐
 - [洛雪 lx-music-mobile-v1.7.1-arm64-v8a.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.7.1-arm64-v8a.apk)
-- [音源](https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js)
+- [音源](https://gh-proxy.com/https://raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js)
 
 ## 看小说APP推荐
 - [小书包_25.08.17.apk (自带源，有广告)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/小书包_25.08.17.apk)
