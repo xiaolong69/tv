@@ -35,3 +35,8 @@
 - [T2S文字转语音-0.12.23-arm64-v8a.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/MultiTTS/T2S文字转语音-0.12.23-arm64-v8a.apk)
 - [adbhelper_v1.3.0.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/adbhelper_v1.3.0.apk)
 - [via浏览器6.1.0.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/via浏览器6.1.0.apk)
+
+## 资源搜索
+- [网盘搜索](https://so.slowread.net/)
+- [短剧搜索](https://wan-xz.github.io/duanju/index.html)
+- [音乐搜索](https://xmwav.net/)
