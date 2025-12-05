@@ -1,10 +1,10 @@
 {
-  "spider": "https://oss4liview.moji.com/thd_file/2025/11/28/6b765637d974223e1dddaaef872d0191.jpg;md5;403a59bd559cc36fe67544e5de66e774",
+  "spider": "https://oss4liview.moji.com/thd_file/2025/12/05/cf6a115ed77bcf1065441a7b73ec8e84.jpg;md5;6f66d4afc311f0535d76d64139879013",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "豆",
-      "name": "完美修复，新号【太太太硬了】",
+      "key": "豆豆",
+      "name": "关注新公众号【太太太硬了】防失联",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -13,7 +13,7 @@
       "changeable": 0
     },
     {
-      "key": "MyDrive",
+      "key": "MDrive",
       "name": "🗂我的云盘┃我配置",
       "type": 3,
       "api": "csp_MyDriveGuard",
@@ -614,7 +614,7 @@
       "changeable": 0
     }
   ],
-  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/a3cb3f8553ca2d67/1.5873679404696913E9.gif",
+  "logo": "https://img.imgdd.com/50871bc3-ff7a-46be-b4be-de69b5af241e.gif",
   "lives": [
     {
       "name": "冰茶",
