@@ -148,18 +148,6 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/json/alist.json"
     },
     {
-      "name": "找短剧",
-      "key": "找短剧",
-      "type": 3,
-      "api": "csp_HgggAmns",
-      "indexs": 1,
-      "searchable": 0,
-      "filterable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/nanfengduanju.jar"
-    },
-    {
       "name": "豪堪短剧",
       "key": "豪堪短剧",
       "type": 3,
