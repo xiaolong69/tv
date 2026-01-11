@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;8d6ce42b6d9cbb8ff45bf3f4e6758bb3",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;72d5157673877b07566a97f11c4761df",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -250,16 +250,6 @@
       }
     },
     {
-      "key": "alllive",
-      "name": "(优)一直播",
-      "type": 3,
-      "api": "csp_AllliveGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "uqGL1fpJNAUH7axYx5bf4OWuvyk="
-    },
-    {
       "key": "豆",
       "name": "豆瓣榜单",
       "type": 3,
@@ -446,7 +436,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "siteUrl": "https://api.jkai.de/"
+        "siteUrl": "http://124.221.190.51:8800/"
       },
       "indexs": 0,
       "style": {
