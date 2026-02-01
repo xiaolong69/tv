@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;1de06191f1c6be02be165013fd50d828",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;58149e856fa117ba01d13b0b5de47bd4",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -436,7 +436,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "siteUrl": "http://124.221.190.51:8800/"
+        "siteUrl": "http://38.55.131.86:82/"
       },
       "indexs": 0,
       "style": {
