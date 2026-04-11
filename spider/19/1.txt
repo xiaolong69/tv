@@ -1,5 +1,5 @@
 {
-  "spider": "https://oss4liview.moji.com/thd_file/2026/03/27/1612f09ddf31e69b00c273c76e53e54f.jpg;md5;96ea56039dad3f4c0438f9b1f949a66a",
+  "spider": "https://oss4liview.moji.com/thd_file/2026/04/09/66c49607560d8487a4ca1d387d7311af.jpg;md5;596fe0f8b20d34e041cb3727b64ec13e",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -65,7 +65,7 @@
     },
     {
       "key": "seed",
-      "name": "💡聚剧剧┃三盘",
+      "name": "💡聚剧剧┃四盘",
       "type": 3,
       "api": "csp_SeedhubGuard",
       "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
@@ -79,7 +79,7 @@
     },
     {
       "key": "ZPan",
-      "name": "🎈聚盘搜┃三盘",
+      "name": "🎈聚盘搜┃四盘",
       "type": 3,
       "api": "csp_S_zpsGuard",
       "searchable": 1,
@@ -211,7 +211,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuSzojrZxdTnzy4lcpy3AAlFMxpf9CY77fshLs0O9fE94T6hWZAWnkpluC1p"
+      "ext": "rfOb1uAWbkRHp7hdxprGv+T3sSDQnNf20CkhL572CklJZUYN/js2+K5iYulIwYR+oXDNMYJMzXdzsy11CuhjOZO3s+jeWEqEX/jI1qY="
     },
     {
       "key": "视界",
@@ -255,7 +255,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TrS2dv+1y8lL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0kuzsmBOA4Uobe87udCDvyT6nSxuqjBjOinAoodBQAqNy7UE+qFZ1UBoc16Q=="
+      "ext": "rfOb1uAWbkRHp7hdxprGv+T3+22cnI+1lW1gL8i1UUQeJQBMqCc2+bF/Yq4Ul9lvoCLVO51Skm9i8zNvRa47T5uA+erCUw=="
     },
     {
       "key": "猫猫",
@@ -266,7 +266,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwtCFsuH1+2mam468kW1kLMyyWUMcIwZft2UtrrwhKK5UwYFu7XDeKt0a3Dsx6zNtVrRqDs+OuuDVGDWp"
+      "ext": "rfOX1voDIQhH8epBwtCFsub1+2malYq8nGlnJc27UEwSIhBVvSwnsuM5MP9Wy9pxq2yEJ8wa1nw5tzoyXL42Edzeou/SHng="
     },
     {
       "key": "奥特",
@@ -468,7 +468,7 @@
     },
     {
       "key": "米搜",
-      "name": "🦋米搜┃优夸",
+      "name": "🦋米搜┃夸嘟",
       "type": 3,
       "api": "csp_MIPanSoGuard",
       "searchable": 1,
