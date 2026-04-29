@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;4ce29ce27eeff6a73a230dd92d98ba0c",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;bb41630d62485b4e6645f39c35a83d30",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -58,6 +58,39 @@
       "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A=="
     },
     {
+      "key": "花花",
+      "name": "(优)花花",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCPmCyOr3RGfwjlsjchkArMHzTFT1VY9QUooz8m8BXA2mSa/whkG7SpZP100qUm6hMmTjm8YQQ51m6mxEE7hhEK1eNQ=="
+    },
+    {
+      "key": "播客",
+      "name": "(优)播客",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
+    },
+    {
+      "key": "猫猫",
+      "name": "(优)猫猫",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuSjpyyamoq83jM9L4r3AlwEM1kc4mV87aNKLeF/iNNL7ne1LNZlk3Bz8A=="
+    },
+    {
       "key": "厂长",
       "name": "(优)厂长",
       "type": 3,
@@ -93,6 +126,19 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/json/alist.json"
     },
     {
+      "name": "短剧",
+      "key": "DjHggg",
+      "type": 3,
+      "api": "csp_HgggAmns",
+      "playerType": 2,
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "short_play",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/nanfengduanju.jar"
+    },
+    {
       "name": "豪堪短剧",
       "key": "豪堪短剧",
       "type": 3,
@@ -123,6 +169,19 @@
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/nanfengduanju.jar"
+    },
+    {
+      "name": "围观短剧",
+      "key": "Wgdj",
+      "type": 3,
+      "api": "csp_WgdjAmns",
+      "playerType": 2,
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "genre": "shortdrama",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/nanfengduanju.jar"
     },
     {
@@ -232,8 +291,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
       }
     },
    {
@@ -245,7 +303,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "siteUrl": "http://42.194.240.43:8888/"
+        "siteUrl": "http://152.53.164.245:18080/"
       },
       "indexs": 0,
       "style": {
