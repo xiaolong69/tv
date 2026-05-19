@@ -1,10 +1,10 @@
 {
-  "spider": "https://oss4liview.moji.com/thd_file/2026/05/08/480e2589fc6dab02fb762fe250e9848f.jpg;md5;f7e44566784c484988817ca04edc772e",
+  "spider": "https://oss4liview.moji.com/thd_file/2026/05/18/8094ffbc1260ca13b228a43cf68282a5.jpg;md5;1d7a5147033044a81f91d5f4a510f9ed",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "点我切源",
-      "name": "新增嘟嘟盘，到【太太太硬了】领免费容量",
+      "name": "嘟嘟盘容量，到【太太太硬了】领取",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -113,7 +113,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "siteUrl": "https://www.libvio.run"
       }
     },
     {
@@ -612,17 +613,8 @@
       }
     },
     {
-      "key": "fan",
-      "name": "导航 www.饭太硬.com",
-      "type": 3,
-      "api": "csp_XPathGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "cc",
-      "name": "请勿相信视频中广告",
+      "name": "请勿信视频中任何广告",
       "type": 3,
       "api": "csp_XPathGuard",
       "searchable": 1,
@@ -647,16 +639,10 @@
   ],
   "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
   "hosts": [
-    "img1.wsyzy.org=danmu.888484.xyz",
-    "fiizvfck.top=danmu.888484.xyz"
+    "img1.wsyzy.org=fan.cloudflare.182682.xyz",
+    "fiizvfck.top=fan.cloudflare.182682.xyz"
   ],
   "lives": [
-    {
-      "name": "Kimentanm",
-      "type": 0,
-      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "playerType": 2
-    },
     {
       "name": "develop202",
       "type": 0,
@@ -664,6 +650,12 @@
       "playerType": 2,
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "Kimentanm",
+      "type": 0,
+      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "playerType": 2
     },
     {
       "name": "范明明（需开启V6网络）",
