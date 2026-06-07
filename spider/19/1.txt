@@ -1,10 +1,10 @@
 {
-  "spider": "https://file.icve.com.cn/file_doc/531/371/84C5CFB802143BAFA1D92334C7C8FCE8.jpg;md5;84c5cfb802143bafa1d92334c7c8fce8",
+  "spider": "https://file.icve.com.cn/file_doc/625/810/9C7CAB7A3CF5E68B944BE17A450DA377.jpg;md5;9c7cab7a3cf5e68b944be17a450da377",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "点我切源",
-      "name": "去【太太太硬了】领取嘟嘟盘免费容量",
+      "name": "嘟嘟盘容量，到【太太太硬了】领取",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
