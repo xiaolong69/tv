@@ -1,10 +1,10 @@
 {
-  "spider": "https://file.icve.com.cn/file_doc/625/810/9C7CAB7A3CF5E68B944BE17A450DA377.jpg;md5;9c7cab7a3cf5e68b944be17a450da377",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "spider": "https://file.icve.com.cn/file_doc/774/736/C1BB8166A36306E250F791897717DEB0.jpg;md5;c1bb8166a36306e250f791897717deb0",
+  "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "点我切源",
-      "name": "嘟嘟盘容量，到【太太太硬了】领取",
+      "name": "去【太太太硬了】领取嘟嘟盘免费容量",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -59,7 +59,7 @@
         "ratio": 1
       },
       "playerType": 2,
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
@@ -237,15 +237,15 @@
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
     },
     {
-      "key": "猫猫",
-      "name": "🐟猫猫┃多线",
+      "key": "柚子",
+      "name": "🐟柚子┃多线",
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+T3C3N68kGpjJMC8VQJRawVBonE2s7EhOq5X1M8s5yLMdsFXyX4lzV9ZNNh6RJzNuvLCVGCiCPOCweLv"
     },
     {
       "key": "奥特",
@@ -312,8 +312,20 @@
       }
     },
     {
+      "key": "多多",
+      "name": "🏀多多┃看球",
+      "type": 3,
+      "api": "csp_DoubaoGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "超全",
-      "name": "⚽吃瓜┃看球",
+      "name": "🏐吃瓜┃看球",
       "type": 3,
       "api": "csp_LiveGzGuard",
       "searchable": 0,
@@ -643,6 +655,12 @@
       "name": "范明明（需开启V6网络）",
       "type": 0,
       "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "世界杯",
+      "type": 0,
+      "url": "http://82.156.243.185:33389/fwc.m3u",
       "playerType": 2
     },
     {
