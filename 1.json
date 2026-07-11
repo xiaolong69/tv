@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;b651deb915a5cb34e0882cdfeffa8eef",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;22b7154a36907cabc183fcc53044d025",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -145,6 +145,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1,
+      "genre": "shortdrama",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/nanfengduanju.jar"
     },
     {
@@ -156,6 +157,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1,
+      "genre": "shortdrama",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/nanfengduanju.jar"
     },
     {
@@ -167,6 +169,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1,
+      "genre": "shortdrama",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/nanfengduanju.jar"
     },
     {
@@ -191,6 +194,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1,
+      "genre": "shortdrama",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/nanfengduanju.jar"
     },
     {
@@ -202,6 +206,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "changeable": 1,
+      "genre": "shortdrama",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/nanfengduanju.jar"
     },
     {

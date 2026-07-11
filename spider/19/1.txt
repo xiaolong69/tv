@@ -1,10 +1,10 @@
 {
-  "spider": "https://zl.wpscdn.cn/2026/06/27/space_img/cec47ee4-8831-4450-94b2-525fbca928c0.jpg;md5;b651deb915a5cb34e0882cdfeffa8eef",
+  "spider": "https://zl.wpscdn.cn/2026/07/10/space_img/c052a0ca-8851-46c5-becc-d84abf064930.jpg;md5;22b7154a36907cabc183fcc53044d025",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "点我切源",
-      "name": "去【太太太硬了】领取嘟嘟盘免费容量",
+      "name": "修复简易安装,【太太太硬了】领取嘟嘟盘免费容量",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -65,33 +65,14 @@
     },
     {
       "key": "seed",
-      "name": "💡聚剧剧┃四盘",
+      "name": "💡聚剧┃四盘",
       "type": 3,
       "api": "csp_SeedhubGuard",
       "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "ZPan",
-      "name": "🎈聚盘搜┃四盘",
-      "type": 3,
-      "api": "csp_S_zpsGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "siteUrl": "http://107.173.211.148/"
-      },
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      }
+      "indexs": 0
     },
     {
       "key": "光影",
@@ -159,17 +140,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "荐片",
-      "name": "🥝荐片┃不卡",
-      "type": 3,
-      "api": "csp_JPJGuard",
-      "timeout": 10,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
     },
     {
       "key": "糯米",
@@ -246,6 +216,17 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
+    },
+    {
+      "key": "荐片",
+      "name": "🥝荐片┃多线",
+      "type": 3,
+      "api": "csp_JPJGuard",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
     {
       "key": "奥特",
@@ -397,8 +378,8 @@
       "key": "虎牙js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -426,27 +407,35 @@
       "changeable": 0
     },
     {
-      "key": "抠搜",
-      "name": "🍄抠抠┃搜搜",
+      "key": "ZPan",
+      "name": "🎈盘搜┃四盘",
       "type": 3,
-      "api": "csp_KkSsGuard",
+      "api": "csp_S_zpsGuard",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
+        "siteUrl": "http://107.173.211.148/"
+      },
+      "indexs": 0,
+      "style": {
+        "type": "list"
       }
     },
     {
-      "key": "UC",
-      "name": "🌈优汐┃搜搜",
+      "key": "JPan",
+      "name": "🦋易搜┃四盘",
       "type": 3,
-      "api": "csp_UuSsGuard",
+      "api": "csp_S_zpsGuard",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
+        "siteUrl": "https://so.252035.xyz/"
+      },
+      "indexs": 0,
+      "style": {
+        "type": "list"
       }
     },
     {
@@ -474,12 +463,25 @@
       }
     },
     {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
+      "key": "抠搜",
+      "name": "🍄抠抠┃搜搜",
       "type": 3,
-      "api": "csp_PushGuard",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "csp_KkSsGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      }
+    },
+    {
+      "key": "UC",
+      "name": "🌈优汐┃搜搜",
+      "type": 3,
+      "api": "csp_UuSsGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       }
@@ -592,6 +594,17 @@
       "changeable": 0,
       "ext": {
         "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
+      }
+    },
+    {
+      "key": "push_agent",
+      "name": "🛴手机┃推送",
+      "type": 3,
+      "api": "csp_PushGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
       }
     },
     {
