@@ -1,10 +1,10 @@
 {
-  "spider": "https://zl.wpscdn.cn/2026/07/10/space_img/c052a0ca-8851-46c5-becc-d84abf064930.jpg;md5;22b7154a36907cabc183fcc53044d025",
+  "spider": "https://zl.wpscdn.cn/2026/07/18/space_img/1d4f1f0d-a6f9-44ea-9cb5-9b8739fc63de.jpg;md5;7e3ad194f8f1898506604a0972223c3b",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "点我切源",
-      "name": "修复简易安装,【太太太硬了】领取嘟嘟盘免费容量",
+      "name": "修复瓜子,【太太太硬了】领取嘟嘟盘免费容量",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
