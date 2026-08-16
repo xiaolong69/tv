@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;b119c66d47a062cd19d680a81b75d8f1",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;ea8ab37f3d7bedd2bfa2b4b1e4d1eca4",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -29,6 +29,17 @@
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "海绵",
+      "name": "(优)海绵",
+      "type": 3,
+      "api": "csp_HmysGuard",
+      "timeout": 10,
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
