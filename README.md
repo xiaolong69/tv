@@ -14,7 +14,7 @@
 - [单仓版APP（支持安卓5以下老设备）版本下载 (TVBox_q215613905_20260901-1736-python.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20260901-1736-python.apk)
 
 ## 听歌APP推荐
-- [洛雪 lx-music-mobile-v1.8.4-arm64-v8a.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.8.4-arm64-v8a.apk)
+- [洛雪 lx-music-mobile-v1.9.0-arm64-v8a.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.9.0-arm64-v8a.apk)
 - [音源](https://gh-proxy.com/https://raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js)
 
 ## 看小说APP推荐
