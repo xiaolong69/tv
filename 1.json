@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;8e8a7c81f650553aa83ae2674c3f24b4",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;e959d9455533a04af01a15c4eb1b78ea",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -35,12 +35,22 @@
       "changeable": 1
     },
     {
-      "key": "海绵",
-      "name": "(优)海绵",
+      "key": "比特",
+      "name": "(优)比特",
       "type": 3,
-      "api": "csp_HmysGuard",
+      "api": "csp_BttwooGuard",
       "timeout": 10,
-      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "文采",
+      "name": "(优)文采",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "timeout": 10,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -80,17 +90,6 @@
       "ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="
     },
     {
-      "key": "播客",
-      "name": "(优)播客",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
-    },
-    {
       "key": "光影",
       "name": "(优)光影",
       "type": 3,
@@ -122,12 +121,22 @@
       "changeable": 1
     },
     {
+      "key": "奥特",
+      "name": "(优)奥特",
+      "type": 3,
+      "api": "csp_AueteGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "原创",
       "name": "(优)原创",
       "type": 3,
       "api": "csp_YCyzGuard",
       "timeout": 15,
-      "playerType": 1,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -144,30 +153,6 @@
       "filterable": 0,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/15/jar/fongmi_spider.jar",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/json/alist.json"
-    },
-    {
-      "name": "短剧推荐",
-      "key": "Hgdh",
-      "type": 3,
-      "api": "csp_HgdhAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "genre": "shortdrama",
-      "ext": "Hgdh",
-      "jar": "./spider/19/jar/nanfengduanju.jar"
-    },
-    {
-      "name": "短剧",
-      "key": "DjHggg",
-      "type": 3,
-      "api": "csp_HgggAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "DjHggg",
-      "genre": "shortdrama",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/jar/nanfengduanju.jar"
     },
     {
       "name": "豪堪短剧",
@@ -315,7 +300,7 @@
       "timeout": 30,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       }
@@ -361,15 +346,19 @@
       }
     },
     {
-      "key": "米搜",
-      "name": "米搜搜索",
+      "key": "JPan",
+      "name": "易搜四盘",
       "type": 3,
-      "api": "csp_MIPanSoGuard",
+      "api": "csp_S_zpsGuard",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/Cloud-drive.txt"
+        "siteUrl": "https://so.252035.xyz/"
+      },
+      "indexs": 0,
+      "style": {
+        "type": "list"
       }
     },
     {
