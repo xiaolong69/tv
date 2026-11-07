@@ -1,10 +1,10 @@
 {
-  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/c2759c9c03b22f2242475139110972c7.jpg;md5;d2a33b53d09ec59c4cb7e3f482ef3907",
+  "spider": "https://xiuxiu-pro-new.meitudata.com/posters/8057468f8f30ba79c6dbbeb7fc1a052e.jpg;md5;b3fb6f369726e9c688dd5a7ad017d0dd",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
       "key": "点我切源",
-      "name": "豆豆┃片单<修复所有>",
+      "name": "豆豆┃片单",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -104,7 +104,11 @@
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": {
+        "v2": "1",
+        "deviceId": "6dc66339e1314f88"
+      }
     },
     {
       "key": "立播",
@@ -348,12 +352,12 @@
       "key": "有声小说",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "csp_Tingshu275Guard",
+      "api": "csp_YueTingGuard",
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
@@ -636,7 +640,7 @@
   ],
   "lives": [
     {
-      "name": "综合直播",
+      "name": "综合",
       "type": 0,
       "url": "http://193.123.86.190:14888/TV/iptv.php",
       "ua": "bingcha/1.1 (mianfeifenxiang)",
