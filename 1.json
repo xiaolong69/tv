@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;9d5f341aa5f3353b50cc3bc16b4f3e8a",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/spider/19/fan.txt;md5;c7ac89ae1d981e87afb9698a8a4ca30b",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -8,7 +8,6 @@
       "type": 3,
       "api": "csp_JPJGuard",
       "timeout": 10,
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -29,7 +28,6 @@
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
-      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -64,21 +62,10 @@
       "type": 3,
       "api": "csp_JpysGuard",
       "timeout": 10,
-      "playerType": 2,
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "剧圈",
-      "name": "(优)剧圈",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
     },
     {
       "key": "热播",
@@ -86,22 +73,10 @@
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "uqGL1bNENExT7/hGxpSE5qU="
-    },
-    {
-      "key": "视界",
-      "name": "(优)视界",
-      "type": 3,
-      "api": "csp_App99Guard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="
     },
     {
       "key": "光影",
@@ -129,7 +104,7 @@
       "type": 3,
       "api": "csp_NewCzGuard",
       "timeout": 10,
-      "playerType": 2,
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -248,6 +223,22 @@
       "quickSearch": 1,
       "changeable": 0,
       "indexs": 0
+    },
+    {
+      "key": "alllive",
+      "name": "一直播",
+      "type": 3,
+      "api": "csp_AllliveGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "timeout": 15,
+      "playerType": "2",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="
     },
     {
       "key": "豆",
@@ -417,7 +408,7 @@
       "key": "有声小说",
       "name": "有声小说",
       "type": 3,
-      "api": "csp_Tingshu275Guard",
+      "api": "csp_YueTingGuard",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -484,7 +475,7 @@
         "ratio": 1
       },
       "playerType": 2,
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
