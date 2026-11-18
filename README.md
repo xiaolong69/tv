@@ -11,10 +11,10 @@
 - [单仓版手机端APP下载 (TVBox_takagen99_20251127-1156-arm64-generic-python.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20251127-1156-arm64-generic-python.apk)
 - [单仓版TV端APP下载 (TVBox_takagen99_20251127-1156-armeabi-generic-python.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_takagen99_20251127-1156-armeabi-generic-python.apk)
 <br><br>
-- [单仓版APP（支持安卓5以下老设备）版本下载 (TVBox_q215613905_20260914-1520-python.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20260914-1520-python.apk)
+- [单仓版APP（支持安卓5以下老设备）版本下载 (TVBox_q215613905_20261111-1518-python.apk)](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/TVBox_q215613905_20261111-1518-python.apk)
 
 ## 听歌APP推荐
-- [洛雪 lx-music-mobile-v1.9.0-arm64-v8a.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.9.0-arm64-v8a.apk)
+- [洛雪 lx-music-mobile-v1.9.2-arm64-v8a.apk](https://gh-proxy.com/https://raw.githubusercontent.com/xiaolong69/tv/main/app/lxmusic/lx-music-mobile-v1.9.2-arm64-v8a.apk)
 - [音源](https://gh-proxy.com/https://raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js)
 
 ## 看小说APP推荐
